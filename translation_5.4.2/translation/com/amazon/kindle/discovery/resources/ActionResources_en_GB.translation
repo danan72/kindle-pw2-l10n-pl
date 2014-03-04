@@ -1,0 +1,13 @@
+Get Sample or Buy...	Pobierz próbkę lub kup...
+Buy…	Kup...
+Read Now	Czytaj teraz
+View in Store	Pokaż w sklepie
+Search Store	szukaj w sklepie
+View Book Activity	Zobacz aktywność książkową
+View Reviews	Zobacz recenzje
+Refresh	Odśwież
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {Comments ({0,number,integer})}}	{0,plural,=0 {Komentarze} one {Komentarz ({0,number,integer})} other {Komentarze ({0,number,integer})}}
+Delete	Usuń
+Delete Activity	Usuń aktywność
+If others have commented on this update, it will not be removed from their activity feed. Are you sure you want to delete this update?	Jeśli inni komentowali tą aktualizację, to informacja o tym nie zostanie skasowana z ich aktywności. Czy jesteś pewien, że chcesz usunąć tą aktualizację?
+Cancel	Anuluj

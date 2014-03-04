@@ -1,0 +1,16 @@
+#!/bin/bash
+
+. config
+
+dest=install/opt/amazon/kug/en-GB
+[ -d "$dest" ] || mkdir -p "$dest"
+rm -f "$dest"/*
+cp -f translation_$VERSION/kug/Kindle_Users_Guide.azw3 "$dest"/
+
+dest=install/opt/keymap
+[ -d "$dest" ] || mkdir -p "$dest"
+rm -f "$dest"/*
+cp -f translation_$VERSION/keymap/* "$dest"/
+gzip -f "$dest"/*.keymap
+
+tar c -C translation_$VERSION --xform "s|^other||" other | tar xv -C install

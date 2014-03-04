@@ -1,0 +1,7 @@
+Unsupported Characters	Niedozwolone znaki
+The name you entered included characters that are not supported. Please enter the name again.	Nazwa, którą wprowadziłeś zawiera niedozwolone znaki. Proszę ponownie wprowadzić nazwę.
+Limit Reached	Limit został osiągnięty
+You have reached the limit on the number of children who can register with FreeTime.	Osiągnąłeś limit liczby dzieci, które można zarejestrować w Kindle FreeTime.
+You have reached the limit on the number of adult profiles allowed for FreeTime.	Osiągnąłeś limit liczby profili dla dorosłych dozwolony w Kindle FreeTime.
+Server Error	Błąd serwera
+{0, select, create { We're currently experiencing problems creating new profiles. Please try again later.}  udpate { We're currently experiencing problems editing profiles. Please try again later.} remove { We're currently experiencing problems deleting profiles. Please try again later.}  other { We're currently experiencing problems editing profiles. Please try again later.} }	{0, select, create { Aktualnie występują problemy z tworzeniem nowych profili. Spróbuj ponownie później.}  udpate { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} remove { Aktualnie występują problemy z usuwaniem profili. Spróbuj ponownie później.}  other { Aktualnie występują problemy z edytowaniem profili. Spróbuj ponownie później.} }

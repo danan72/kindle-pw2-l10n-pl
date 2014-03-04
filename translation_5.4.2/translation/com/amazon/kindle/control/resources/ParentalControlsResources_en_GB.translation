@@ -1,0 +1,26 @@
+Parental Controls	Kontrola rodzicielska
+Restrictions	Ograniczenia
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When the Kindle Store is locked, you can continue buying books from your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować urządzenia ani przywrócić ustawień fabrycznych.~~~~Jeśli zablokowany jest sklep Kindle Store, to możesz kupować książki przy użyciu swojego komputera a potem wysłać je na swój Kindle.
+Web Browser	Przeglądarka internetowa
+Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
+Cloud	Chmura
+Access to Cloud.	Dostęp do chmury.
+Change Password	Zmień hasło
+Kindle Store	Kindle Store
+Access to Kindle Store.	Dostep do sklepu Kindle Store.
+Goodreads on Kindle	Goodreads na Kindle
+Access to the Goodreads' network of readers.	Dostęp do sieci czytelników Goodreads.
+Cancel	Anuluj
+Incorrect Password	Nieprawidłowe hasło
+Invalid Password	Nieprawidłowe hasło
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.	Gdy włączona jest kontrola rodzicielska, nie można wyrejestrować urządzenia ani przywrócić ustawień fabrycznych.
+Set Parental Controls Password:	Ustaw hasło kontroli rodzicielskiej:
+New Parental Controls Password:	Nowe hasło kontroli rodzicielskiej:
+Enter Parental Controls Password:	Wprowadź hasło kontroli rodzicielskiej:
+Current Parental Controls Password:	Aktualne hasło kontroli rodzicielskiej:
+Incorrect password. Please try again:	Nieprawidłowe hasło. Spróbuj jeszcze raz:
+Confirm Password:	Potwierdź hasło: 
+Enter Password Hint: Enter a phrase that can help you remember your password.	Wskazówka dotycząca wprowadzonego hasła, która pomoże ci je sobie później przypomnieć. 
+{0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.kindle.com/support to receive help resetting your device.	{0,select, has_hint {Wskazówka: {1}} other {}}~~~~Jeśli zapomniałeś swoje hasło, prosimy o kontakt z działem obsługi klienta Kindle na www.kindle.com/support w celu zresetowania Twojego urządzenia.
+Passwords Do Not Match. Please try again.	Hasła się różnią. Spróbuj jeszcze raz.
+Please enter a valid password.	Proszę wprowadzić prawidłowe hasło.

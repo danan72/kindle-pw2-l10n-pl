@@ -1,0 +1,17 @@
+#!/bin/bash
+
+. config
+
+./translation2transjar
+
+dest=install/opt/amazon/ebook/lib
+src=${dest#*/}
+[ -d $dest ] & rm -rf $dest
+mkdir -p $dest
+java -cp K3Translator.jar:bcel-5.2.jar Translator td root_$VERSION/$src translation.jar $dest .
+
+dest=install/opt/amazon/ebook/booklet
+src=${dest#*/}
+[ -d $dest ] & rm -rf $dest
+mkdir -p $dest
+java -cp K3Translator.jar:bcel-5.2.jar Translator td root_$VERSION/$src translation.jar $dest .

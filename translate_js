@@ -1,0 +1,36 @@
+#!/bin/bash
+
+. config
+
+VER="$VERSION"
+
+cd root_$VERSION
+
+while read engb
+do
+	item=${engb#*/mesquite/*/}
+	item=${item#*/webkit-1.0/*/}
+	itemroot=${engb%$item}
+	echo Processing "$itemroot - $item"
+	[ -d "../install/${itemroot}$item" ] && find "../install/${itemroot}$item" \( -name '*.js' -or -name '*.js.native' \) -delete
+	while read jsfile
+	do
+	    basen=$(basename "$jsfile")
+	    dest="../install/${jsfile}"
+	    destdir=$(dirname "$dest")
+	    [ -d "$destdir" ] || mkdir -p "$destdir"
+	    cp -f "$jsfile" "$destdir/"
+	    trjsfile="$destdir/$basen"
+	    native2ascii -reverse "$trjsfile" "$trjsfile.native"
+	    OLDIFS=$IFS
+	    printf -v IFS "\t"
+	    while read src tran
+	    do
+		tran=$(sed 's|&|\\&|g' <<<"$tran")
+		[ -n "$tran" ] && sed -i "s|'$src'|'$tran'|g; s|"'"'"$src"'"'"|"'"'"$tran"'"'"|g;" "$trjsfile.native"
+	    done < <(sqlite3 -separator "	" ../kindle_loc.sqlite "select src,tran from trans where file='""$jsfile""' and ver='""$VER""' ;")
+	    IFS=$OLDIFS
+	    native2ascii "$trjsfile.native" "$trjsfile"
+	    rm -f "$trjsfile.native"
+	done < <(find $engb -name '*.js')
+done < <(find . -type d \( -path '*/mesquite/*/locales/en-GB' -or -path '*/webkit-1.0/*/locales/en-GB' \) )

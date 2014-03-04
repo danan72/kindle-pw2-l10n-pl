@@ -1,0 +1,25 @@
+Opening...	Otwieranie... 
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	Liczba pozycji: {0}
+Music	Muzyka
+Personal	Osobiste
+Notice	Notatka
+Receipt	Recepta
+New	Nowe
+Rental	Wypożyczanie
+Expired	Wygasłe
+Archived	Zarchiwizowane
+On Loan	Wypożyczone
+Expiring	Wygasające
+Keep	Zachowaj
+Sample	Próbka
+Book	Książka
+Collection	collection
+Archived Items	Zarchiwizowane pozycje
+Periodical Back Issues	Starsze wydanie czasopisma
+Dictionaries	Słowniki
+Newspaper	Gazeta
+Magazine	Czasopismo
+Images	Obrazki
+My Clippings	Moje wycinki
+Letter	List
+Dictionary	Słownik

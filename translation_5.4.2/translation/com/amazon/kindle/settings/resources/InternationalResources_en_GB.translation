@@ -1,0 +1,8 @@
+Language and Dictionaries	Język i słowniki
+Language	Język
+Set the language on your Kindle.	Ustaw język swojego Kindle
+Keyboards	Klawiatury
+Add keyboards for different languages.	Dodaj klawiatury dla różnych języków.
+{0,plural, =0 {No Keyboards} one {{0, number, integer} Keyboard} other {{0, number, integer} Keyboards}}	{0,plural, =0 {Brak klawiatur} one {{0, number, integer} klawiatura} other {{0, number, integer} klawiatur}}
+Dictionaries	Słowniki
+Set the default dictionary for each language.	Ustaw słownik dla tego języka

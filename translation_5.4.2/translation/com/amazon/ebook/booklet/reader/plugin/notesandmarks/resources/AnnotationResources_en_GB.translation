@@ -1,0 +1,33 @@
+View Notes & Marks	Zobacz notatki i oznaczenia
+Notes & Marks	Notatki i oznaczenia
+Go To	Idź do
+Items {0,number,integer}-{1,number,integer} of {2,number,integer}	Pozycje {0,number,integer}-{1,number,integer} z {2,number,integer}
+Items {0,number,integer} of {1,number,integer}	Pozycje {0,number,integer} z {1,number,integer}
+{0} · Page {1} - {2}	{0} · Strona {1} - {2}
+{0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
+Show...	Pokaż...
+Show	Pokaż
+Notes & Marks ({0,number,integer}) ·	Notatki i oznaczenia ({0,number,integer}) ·
+All Notes & Marks ({0,number,integer})	Wszystkie notatki i oznaczenia ({0,number,integer})
+Your Notes & Marks ({0,number,integer})	Twoje notatki i oznaczenia ({0,number,integer})
+Your Notes ({0,number,integer})	Twoje notatki ({0,number,integer})
+Your Bookmarks ({0,number,integer})	Twoje zakładki ({0,number,integer})
+Your Highlights ({0,number,integer})	Twoje podkreślenia ({0,number,integer})
+Public Notes ({0,number,integer})	Publicne notatki ({0,number,integer})
+Popular Highlights ({0,number,integer})	Popularne podkreślenia ({0,number,integer})
+All	Wszystko
+Yours	Twoje
+Notes	Notatki
+Bookmarks	Zakładki
+Highlights	Zaznaczenie
+Public Notes	Publiczne notatki
+Popular Highlights	Popularne fragmenty
+Go	Idź
+Delete	Usuń
+Edit	Edytuj
+{0}’s Note	Notatka {0}
+Note {0}	Notatka {0}
+Go to Location	Idź do Pozycji
+{0}’s Highlight	Zaznaczenie {0}
+{0} highlighted this passage.	{0} zaznaczył ten fragment.
+Public Notes from {0}.	Publiczne notatki z {0}.

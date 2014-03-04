@@ -1,0 +1,51 @@
+Updates	Aktualizacje
+Friends	Znajomi
+My Shelves	Moje półki
+Following	Obserwowani
+Followers	Obserwujący
+Suggested	Proponowane
+Follow	Obserwuj
+Stop Following	Przestań obserwować
+{0,plural,=0 {Comment} one {{0,number,###0} Comment} other {{0,number,###0} Comments}}	{0,plural,=0 {Komentarzy} one {{0,number,###0} Komentarz} other {{0,number,###0} Komentarzy}}
+Share	Podziel się
+Delete	Usuń
+{0,plural,=0 {{0,number,###0} days} one {{0,number,###0} day} other {{0,number,###0} days}} ago	{0,plural,=0 {{0,number,###0} dni} one {{0,number,###0} dzień} other {{0,number,###0} dni}} temu
+Delete Comment	Usuń komentarz
+Are you sure you want to delete this comment?	Czy na pewno chcesz usunąć ten komentarz?
+Cancel	Anuluj
+Shelved Books ({0})	Książki na półkach ({0})
+Currently Reading ({0})	Teraz czytam ({0})
+Read ({0})	Przeczytane ({0})
+Want to Read ({0})	Chcę przeczytać ({0})
+Add Amazon Books 	Dodaj książki z Amazon 
+Friends ({0})	Znajomi ({0})
+Following ({0})	Obserwowani ({0})
+Followers ({0})	Obserwujący ({0})
+See More 	Zobacz więcej 
+Find Readers to Follow 	Znajdź czytelników aby obserwować 
+✓ Friend	✓ Znajomy
+✓ Request Sent	✓ Wyślij zapytanie
+✓ Following	✓ Obserwowany
++ Follow	+ Obserwuj
+Edit	Edytuj
+All Reviews	Wszytkie recenzje
+Friends' Reviews	Recenzje znajomych
+Following Reviews	Recenzje obserwowanych
+{0,select,unrated {wrote a review} other {rated {1}}}	{0,select,unrated {napisał(a) recenzję} other {ocenił(a) {1}}}
+{0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}	{0,plural,=0 {Komentarzy} one {Komentarz ({0,number,integer})} other {{0,choice,0#Komentarzy ({0,number,integer})|100#Komentarzy (99+)}}}
+{0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}	{0,plural,=0 {} one {({0,number,integer})} other {{0,choice,0#({0,number,integer})|100#(99+)}}}
+More…	Więcej...
+{0,select, liked {{1,choice,0#✓ Like ({1,number,integer})|100#✓ Like (99+)}} other {{1,choice,0#Like|1#Like ({1,number,integer})|100#Like (99+)}}}	{0,select, liked {{1,choice,0#✓ Podobało się ({1,number,integer})|100#✓ Podobało się (99+)}} other {{1,choice,0#Podobało się|1#Podobało się ({1,number,integer})|100#Podobało się (99+)}}}
+{0,select, liked {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}	{0,select, liked {{1,choice,0#({1,number,integer})|100#(99+)}} other {{1,choice,0#|1#({1,number,integer})|100#(99+)}}}
+My Recent Updates	Moje najnowsze aktualizacje
+Shelved Books ({0,number,integer})	Książki na półkach ({0,number,integer})
+Currently Reading ({0,number,integer})	Teraz czytam ({0,number,integer})
+Read ({0,number,integer})	Przeczytane ({0,number,integer})
+Want to Read ({0,number,integer})	Chcę przeczytać ({0,number,integer})
+Want to Read	Chcę przeczytać
+✓ Currently Reading	✓ Teraz czytam
+✓ Read	✓ Przeczytana
+✓ Want to Read	✓ Chcę przeczytać
+Recent Updates by {0}	Najnowsze aktualizacje {0}
+Remove Friend	Usuń znajomego
+Are you sure you would like to remove {0} from your friend list? Friends aren't notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy swoich znajomych? Znajomi nie są powiadamiani o ich usunięciu.

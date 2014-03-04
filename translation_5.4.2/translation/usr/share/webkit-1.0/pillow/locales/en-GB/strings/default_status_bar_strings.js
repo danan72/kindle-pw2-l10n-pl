@@ -1,0 +1,3 @@
+Connected	Połączono
+Connecting	Łączenie
+ · 	 · 
