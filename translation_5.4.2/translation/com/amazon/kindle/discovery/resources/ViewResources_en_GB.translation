@@ -6,13 +6,13 @@ Stop Following	Przestań obserwować
 {0,plural,=0 {{0,number,integer} books} one {{0,number,integer} book} other {{0,number,integer} books}} | {1,choice,0#{1,plural,=0 {{1,number,integer} friends} one {{1,number,integer} friend} other {{1,number,integer} friends}}|1000#999+ friends}	{0,plural,=0 {{0,number,integer} książek} one {{0,number,integer} książka} other {{0,number,integer} książek}} | {1,choice,0#{1,plural,=0 {{1,number,integer} znajomych} one {{1,number,integer} znajomy} other {{1,number,integer} znajomych}}|1000#999+ znajomych}
 {0,plural,=0 {{0,number,integer} books} one {{0,number,integer} book} other {{0,number,integer} books}} | {1,choice,0#{1,plural,=0 {{1,number,integer} followers} one {{1,number,integer} follower} other {{1,number,integer} followers}}|1000#999+ followers}	{0,plural,=0 {{0,number,integer} książek} one {{0,number,integer} książka} other {{0,number,integer} książek}} | {1,choice,0#{1,plural,=0 {{1,number,integer} obserwujących} one {{1,number,integer} obserwujący} other {{1,number,integer} obserwujących}}|1000#999+ obserwujących}
 Loading…	Ładowanie...
-We can't seem to find this person.	Nie możemy znaleźć tej osoby.
+We canʼt seem to find this person.	Nie możemy znaleźć tej osoby.
 You are currently offline.	Aktualnie nie jesteś połączony z internetem.
 Tap here to connect to a Wi-Fi network~~to see the most recent activity.	Dotknij tutaj, aby połączyć się z siecią Wi-Fi~~i zobaczyć najnowsze aktywności.
 by {0}	{0}
 Rate this book	Oceń tę książkę
 My Rating	Moja ocena
-We can't seem to find this review.	Nie możemy znaleźć tej recenzji.
+We canʼt seem to find this review.	Nie możemy znaleźć tej recenzji.
 Readers to Follow	Czytelnicy do obserwacji
 Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Obserwuj tych wartych polecenia czytelników aby zobaczyć ich recenzje i polecenia{0,select, with_connect_message {, lub połącz się ze znajomymi z Facebooka.} other {.}}
 Add Friends 	Dodaj znajomych 
@@ -22,7 +22,7 @@ Remove Friend	Usuń znajomego
 Cancel Request	Anuluj żądanie
 + Add Friend	+ Dodaj znajomego
 + Follow	+ Obserwuj
-Are you sure you would like to remove {0} from your friend list? Friends aren't notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy swoich znajomych? Znajomi nie są powiadamiani o ich usunięciu.
+Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy swoich znajomych? Znajomi nie są powiadamiani o ich usunięciu.
 Add a comment…	Dodaj komentarz...
 shared a book	udostępnił(a) książkę
 {0} by {1}	{0} - {1}
@@ -43,7 +43,7 @@ Name for Friends	Nazwa dla znajomych
 About Me	O mnie
 Rate this Book	Oceń tę książkę
 By {0}	{0}
-We can't seem to find this book.	Nie możemy znaleźć tej książki.
+We canʼt seem to find this book.	Nie możemy znaleźć tej książki.
 Shelved Books ({0,number,integer})	Książki na półkach ({0,number,integer})
 Currently Reading ({0,number,integer})	Teraz czytam ({0,number,integer})
 Read ({0,number,integer})	Przeczytane ({0,number,integer})
@@ -83,19 +83,19 @@ Want to Read ({0})	Chcę przeczytać ({0})
 {0,select,empty {Be the first to follow {1} } empty_existing_friend {No followers yet.} unknown {Loading…} other {}}	{0,select,empty {Be the first to follow {1} } empty_existing_friend {Brak obserwujących.} unknown {Ładowanie…} other {}}
 {0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} other {}}	{0,select,empty {Nie ma żadnych znajomych.~~Dotknij tutaj, aby zacząć obserwować sugerowanych czytelników lub dodać znajomych z Facebooka } unknown {Ładowanie znajomych…} other {}}
 {0,select,empty {You are not following any readers yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Following…} other {}}	{0,select,empty {Nikogo nie obserwujesz.~~Dotknij tutaj, aby zacząć obserwować sugerowanych czytelników lub dodać znajomych z Facebooka } unknown {Ładowanie obserwowanych…} other {}}
-{0,select,empty {You don't currently have any followers.} unknown {Loading Followers…} other {}}	{0,select,empty {Obecnie nikt Cię nie obserwuje.} unknown {Ładowanie obserwujących…} other {}}
-{0,select,empty {There aren't currently any new readers for you to follow. Please try again later.} facebook_not_connected {There aren't currently any new readers for you to follow. Add your friends from Facebook to Goodreads } unknown {Loading suggested readers…} other {}}	{0,select,empty {Obecnie nie ma żadnych nowych czytelników do obserwacji. Spróbuj ponownie później.} facebook_not_connected {Obecnie nie ma żadnych nowych czytelników do obserwacji. Dodaj do Goodreads swoich znajomych z Facebooka } unknown {Ładowanie sugerowanych czytelników…} other {}}
-{0,select,empty {There aren't currently any reviews. Please try again later.} unknown {Loading Reviews…} other {}}	{0,select,empty {Obecnie nie ma żadnych recenzji. Spróbuj ponownie później.} unknown {Ładowanie recenzji…} other {}}
+{0,select,empty {You donʼt currently have any followers.} unknown {Loading Followers…} other {}}	{0,select,empty {Obecnie nikt Cię nie obserwuje.} unknown {Ładowanie obserwujących…} other {}}
+{0,select,empty {There arenʼt currently any new readers for you to follow. Please try again later.} facebook_not_connected {There arenʼt currently any new readers for you to follow. Add your friends from Facebook to Goodreads } unknown {Loading suggested readers…} other {}}	{0,select,empty {Obecnie nie ma żadnych nowych czytelników do obserwacji. Spróbuj ponownie później.} facebook_not_connected {Obecnie nie ma żadnych nowych czytelników do obserwacji. Dodaj do Goodreads swoich znajomych z Facebooka } unknown {Ładowanie sugerowanych czytelników…} other {}}
+{0,select,empty {There arenʼt currently any reviews. Please try again later.} unknown {Loading Reviews…} other {}}	{0,select,empty {Obecnie nie ma żadnych recenzji. Spróbuj ponownie później.} unknown {Ładowanie recenzji…} other {}}
 {0,select,empty {You have not shelved any books yet. View your Amazon book purchases to add books to Goodreads } unknown {Loading books…} other {}}	{0,select,empty {Nie masz żadnych książek na półkach. Dodaj do Goodreads książki zakupione w Amazon } unknown {Ładowanie książek…} other {}}
-{0,select,empty {There aren't any books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} other {}}	{0,select,empty {W Twojej bibliotece nie ma żadnych książek.~~Zobacz co czytają Twoi znajomi } unknown {Ładowanie książek z Amazon…} other {}}
-{0,select,empty {There aren't any books in your library. You can always add some later.} unknown {Loading Amazon books…} other {}}	{0,select,empty {W Twojej bibliotece nie ma żadnych książek. Zawsze możesz je później dodać.} unknown {Ładowanie książek z Amazon…} other {}}
+{0,select,empty {There arenʼt any books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} other {}}	{0,select,empty {W Twojej bibliotece nie ma żadnych książek.~~Zobacz co czytają Twoi znajomi } unknown {Ładowanie książek z Amazon…} other {}}
+{0,select,empty {There arenʼt any books in your library. You can always add some later.} unknown {Loading Amazon books…} other {}}	{0,select,empty {W Twojej bibliotece nie ma żadnych książek. Zawsze możesz je później dodać.} unknown {Ładowanie książek z Amazon…} other {}}
 Facebook E-mail	E-mail z Facebooka
 Facebook Password	Hasło do Facebooka
 Hide Password	Ukryj hasło
 Goodreads E-mail	E-mail z Goodreads
 Goodreads Password	Hasło do Goodreads
-By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreads' Terms of Service and Privacy Policy.	Po połączeniu, Goodreads otrzyma dostęp do Twojego publicznego profilu, listy znajomych, adresu e-mail i polubień Facebooka. Dodatkowo Goodreads będzie mogło w Twoim imieniu wysyłać wiadomości do Twoich znajomych. Zatwierdzając wyrażasz zgodę na warunki umowy i politykę prywatności Goodreads.
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreadsʼ Terms of Service and Privacy Policy.	Po połączeniu, Goodreads otrzyma dostęp do Twojego publicznego profilu, listy znajomych, adresu e-mail i polubień Facebooka. Dodatkowo Goodreads będzie mogło w Twoim imieniu wysyłać wiadomości do Twoich znajomych. Zatwierdzając wyrażasz zgodę na warunki umowy i politykę prywatności Goodreads.
 See what your friends are reading and share your reading activity on Facebook.	Zobacz co czytają twoi znajomi i pochwal się na Facebooku tym co ty czytasz
 By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf.	Łącząc się, zezwolisz Goodreads na dostęp do Twojego publicznego profilu, listy znajomych, adresu e-mail i polubień z Facebooka. Dodatkowo Goodreads będzie mogło w Twoim imieniu wysyłać listy do Twoich znajomych.
-Welcome to the world's largest network of readers, where you can find book recommendations to find and share the books you love with your friends.	Witamy w największej na świecie sieci czytelników, gdzie będziesz mógł podzielić się ze swoimi znajomymi książkami, które kochasz i dowiesz się, jakie książki polecają inni.
+Welcome to the worldʼs largest network of readers, where you can find book recommendations to find and share the books you love with your friends.	Witamy w największej na świecie sieci czytelników, gdzie będziesz mógł podzielić się ze swoimi znajomymi książkami, które kochasz i dowiesz się, jakie książki polecają inni.
 Get Started	Rozpocznij

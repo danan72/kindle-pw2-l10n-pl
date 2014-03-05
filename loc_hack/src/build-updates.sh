@@ -9,8 +9,8 @@ PKGVER="${VERSION}-${RELEASE}"
 ARCH=${PKGNAME}_${PKGVER}
 
 tar cvz --xform "s|^install/||" --show-transformed-names -f localization.pack  -C ../.. install
-recode -f utf8..flat < cti-me-utf8.txt > cti-me.txt
-unix2dos cti-me.txt
+recode -f utf8..flat < czytaj-mnie-utf8.txt > czytaj-mnie.txt
+unix2dos czytaj-mnie.txt
 echo "$PKGVER" > version.txt
 
 # Build install update
@@ -26,7 +26,7 @@ rm -f localization.pack
 rm -f version.txt
 
 [ -f ../${PKGNAME}_${PKGVER}.zip ] && rm -f ../${PKGNAME}_${PKGVER}.zip
-zip ../${PKGNAME}_${PKGVER}.zip *.bin cti-me.txt original_margins original_fontsizes
+zip ../${PKGNAME}_${PKGVER}.zip *.bin czytaj-mnie.txt original_margins original_fontsizes
 rm -f *.bin
 
-rm -f cti-me.txt
+rm -f czytaj-mnie.txt

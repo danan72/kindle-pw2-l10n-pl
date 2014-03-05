@@ -5,7 +5,6 @@ No network detected. Please check your connection and try again.	Nie znaleziono 
 No text was selected.	Nie wybrano żadnego tekstu.
 No Wikipedia results were found for your selection.	W Wikipedii nie znaleziono żadnych wyników dla wybranego tekstu.
 Open Wikipedia ▶	Otwórz w Wikipedii ▶
-Search Google ▶	Szukaj w Google ▶
 Searching Wikipedia...	Wyszukiwanie w Wikipedii...
 Turn Off Aeroplane Mode	Wyłącz tryb samolotowy
 Turn On Wireless	Włącz łączność bezprzewodową
@@ -14,3 +13,4 @@ Waiting for connection...	Czekam na połączenie
 Wikipedia	Wikipedia
 Wikipedia lookups are not available when using FreeTime.	W trakcie korzystania z FreeTime nie jest możliwe wyszukiwanie w Wikipedii.
 Wireless must be turned on to use this feature.	Aby użyć tej funkcji, musi być włączona łączność bezprzewodowa.
+Search Google ▶	Szukaj w Google ▶

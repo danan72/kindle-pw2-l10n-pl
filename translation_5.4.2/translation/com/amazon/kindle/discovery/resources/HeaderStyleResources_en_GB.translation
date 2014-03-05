@@ -29,7 +29,7 @@ Find Readers to Follow 	Znajdź czytelników aby obserwować 
 + Follow	+ Obserwuj
 Edit	Edytuj
 All Reviews	Wszytkie recenzje
-Friends' Reviews	Recenzje znajomych
+Friendsʼ Reviews	Recenzje znajomych
 Following Reviews	Recenzje obserwowanych
 {0,select,unrated {wrote a review} other {rated {1}}}	{0,select,unrated {napisał(a) recenzję} other {ocenił(a) {1}}}
 {0,plural,=0 {Comment} one {Comment ({0,number,integer})} other {{0,choice,0#Comments ({0,number,integer})|100#Comments (99+)}}}	{0,plural,=0 {Komentarzy} one {Komentarz ({0,number,integer})} other {{0,choice,0#Komentarzy ({0,number,integer})|100#Komentarzy (99+)}}}
@@ -48,4 +48,4 @@ Want to Read	Chcę przeczytać
 ✓ Want to Read	✓ Chcę przeczytać
 Recent Updates by {0}	Najnowsze aktualizacje {0}
 Remove Friend	Usuń znajomego
-Are you sure you would like to remove {0} from your friend list? Friends aren't notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy swoich znajomych? Znajomi nie są powiadamiani o ich usunięciu.
+Are you sure you would like to remove {0} from your friend list? Friends arenʼt notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy swoich znajomych? Znajomi nie są powiadamiani o ich usunięciu.

@@ -67,7 +67,7 @@ Turn Off	Wyłącz
 Network Connection Failed	Bład połączenia sieciowego
 "{0}" cannot be downloaded because your Kindle has lost connection to the network. You can either cancel the download or try connecting to a network again.	Nie można pobrać pliku "{0}" ponieważ zostało utracone połączenie z siecią. Spróbuj ponownie połączyć się z siecią lub zrezygnuj z pobierania.
 Memory is Full	Pamięć jest pełna
-"{0}" cannot be downloaded because your Kindle doesn't have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	Nie można pobrać pliku "{0}" ponieważ na Twoim Kindle brakuje wolnej pamięci. Spróbuj zwolnić pamięć usuwając ze swojego Kindle część zawartości lub zrezygnuj z pobierania.
+"{0}" cannot be downloaded because your Kindle doesnʼt have enough free memory. You can either make more Kindle memory available by removing content from the Home screen or cancel the download.	Nie można pobrać pliku "{0}" ponieważ na Twoim Kindle brakuje wolnej pamięci. Spróbuj zwolnić pamięć usuwając ze swojego Kindle część zawartości lub zrezygnuj z pobierania.
 Cancel Download	Przewij pobieranie
 Content Not Synced	Zawartość niezsynchronizowana
 You have added items to this collection that will not be synced with the Cloud.	Do tej kolekcji dodaleś pozycje, które nie mogą być synchronizowane z chmurą.

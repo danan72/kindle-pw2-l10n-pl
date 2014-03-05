@@ -41,7 +41,7 @@ Invalid File Type	Nieprawidłowy typ pliku
 Invalid Protocol	Niewłaściwy protokół
 Registration Required	Wymagana rejestracja
 Remove a Bookmark	Usuń zakładkę
-Search	Szukaj w...
+Search	Szukaj
 Settings	Ustawienia
 s go function	s go function
 Sorry, access to Whispernet is blocked.	Przepraszamy, dostęp do Whispernet jest zablokowany.

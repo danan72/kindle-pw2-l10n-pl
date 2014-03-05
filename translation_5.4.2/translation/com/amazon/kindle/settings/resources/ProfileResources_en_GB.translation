@@ -3,7 +3,7 @@ Date of Birth	Data urodzenia
 Cancel	Anuluj
 Gender	Płeć
 {0, select, male {Boy} female {Girl} other {Boy}}	{0, select, male {Chłopiec} female {Dziewczyna} other {Chłopiec}}
-{0, select, male {{1}'s Library} female {{1}'s Library} other {{1}'s Library}}	{0, select, male {Biblioteka {1}} female {Biblioteka {1}} other {Biblioteka {1}}}
+{0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	{0, select, male {Biblioteka {1}} female {Biblioteka {1}} other {Biblioteka {1}}}
 {0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	{0, plural, =0 {{0,number,integer} książek} one {{0,number,integer} książka} other {{0,number,integer} książek}}
 Access Achievements	Dostęp do osiągnięć
 Let your child see their Achievement Reports.	Niech Twoje dziecko zobaczy swoje Raporty Osiągnięć.
@@ -11,10 +11,10 @@ Unrestricted Access to Wikipedia	Nieograniczony dostęp do Wikipedii
 Daily Reading Goal	Dzienny cel czytelniczy
 Set how many minutes your child should read for each day.	Określ ile minut dziennie może czytać Twoje dziecko.
 Delete Profile	Usuń profil
-All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}'s</em> profile} female {<em>{1}'s</em> profile} other {<em>{1}'s</em> profile}}?	Po usunięciu profilu zostaną utracone informacje o postępach i osiągnięciach. Profil zostanie usunięty również z innych urządzeń. Czy na pewno chcesz usunąć profil {0, select, male {syna <em>{1}</em>} female {córki <em>{1}</em>} other {dziecka <em>{1}</em>}}?
+All progress and achievements will be lost upon deletion. The profile will also not be available on other devices. Are you sure you want to delete {0, select, male {<em>{1}ʼs</em> profile} female {<em>{1}ʼs</em> profile} other {<em>{1}ʼs</em> profile}}?	Po usunięciu profilu zostaną utracone informacje o postępach i osiągnięciach. Profil zostanie usunięty również z innych urządzeń. Czy na pewno chcesz usunąć profil {0, select, male {syna <em>{1}</em>} female {córki <em>{1}</em>} other {dziecka <em>{1}</em>}}?
 Delete	Usuń
 No Content	Brak zawartości
-{0, select, male {You have not added any items to {1}'s FreeTime.} female {You have not added any items to {1}'s FreeTime.} other {You have not added any items to {1}'s FreeTime.}}	{0, select, male {Nie dodałeś żadanej pozycji do profilu syna {1}.} female {Nie dodałeś żadanej pozycji do profilu córki {1}.} other {Nie dodałeś żadanej pozycji do profilu dziecka {1}.}}
+{0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	{0, select, male {Nie dodałeś żadanej pozycji do profilu syna {1}.} female {Nie dodałeś żadanej pozycji do profilu córki {1}.} other {Nie dodałeś żadanej pozycji do profilu dziecka {1}.}}
 Ignore	Ignoruj
 Add Items	Dodaj pozycje
 Finish	Koniec
