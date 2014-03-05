@@ -1,10 +1,10 @@
-Advanced	Zaawansowany
+Advanced	Zaawansowane
 Advanced Options	Zaawansowane opcje
 Are you sure you want to forget the Wi-Fi network "{essid}"?	Czy jesteś pewien, że chcesz zapomnieć sieć "{essid}"?
 Available Networks	Dostępne sieci
 CA Certificate	Certyfikat CA
 Cancel	Anuluj
-Connect	połącz
+Connect	Połącz
 Connected	Połączono
 Connecting	Łączenie
 Connection Failed	Nie udało się połączyć
@@ -17,7 +17,7 @@ EAP Method	Metoda EAP
 Enter Again	Wprowadź ponownie
 Enter Other Wi-Fi Network	Wprowadź inną sieć Wi-Fi
 Enterprise	Enterprise
-Enter Wi-Fi Network	Wprowadź sieć Wi-Fi
+Enter Wi-Fi Network	Wprowadź dane sieci Wi-Fi
 Error	Błąd
 Forget	Zapomnij
 Forget Network?	Czy zapomnieć tą sieć?
@@ -38,7 +38,7 @@ Password Too Short	Hasło jest za krótkie
 PEAP	PEAP
 Personal	Osobiste
 Phase 2 Authentication	Uwierzytelnienie faza 2
-Rescan	Ponowne wyszukiwanie
+Rescan	Odśwież
 Router	Bramka
 Scan Complete	Wyszukiwanie zostało zakończone
 Scanning for Networks	Wyszukiwanie sieci
