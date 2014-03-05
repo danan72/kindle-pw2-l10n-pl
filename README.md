@@ -76,7 +76,7 @@ CO ZYSKASZ INSTALUJAC SPOLSZCZENIE?
    do katalogu localization plik o nazwie original_margins i restartujac czytnik.
    
 6) Spolszczenie zawiera tez hack zmieniajacy zestaw dostepnych rozmiarow czcionki. 
-   Ten sam hack wlacza funkcje reflow w PDF (w Menu pojawi sie opcja "Tylko tekst (reflow)")
+   Ten sam hack wlacza funkcje reflow w PDF (w Menu pojawi sie opcja "Tryb Reflow (wyświetl. samego tekstu)")
    Hack mozna wylaczyc kopiujac do katalogu localization plik o nazwie original_fontsizes 
    i restartujac czytnik.
 
