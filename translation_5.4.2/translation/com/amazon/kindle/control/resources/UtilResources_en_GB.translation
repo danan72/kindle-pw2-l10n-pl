@@ -51,7 +51,7 @@ on loan	wypożyczone
 licence at limit	kończy się licencja
  downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	 pobieranie - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
 downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	pobieranie - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}
-download complete	pobierano
+download complete	pobrano
 Tap to Open	Dotknij aby otworzyć
  error	 błąd
 error	błąd
