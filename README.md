@@ -44,7 +44,9 @@ ODINSTALOWANIE SPOLSZCZENIA
 
    
 AKTUALIZACJA SPOLSZCZENIA 
- 
+
+Najnowsze wersje spolszczenia będą udostępniane na stronie 
+https://github.com/dsmid/kindle-pw2-l10n-pl/releases .
 Jeśli na czytniku jest już wgrana starsza wersja spolszczenia, a chcesz zainstalować nową
 wersję, to możesz to zrobić bez konieczności odinstalowywania poprzedniej.
 
@@ -76,7 +78,7 @@ CO ZYSKASZ INSTALUJĄC SPOLSZCZENIE?
    do katalogu localization plik o nazwie original_margins i restartując czytnik.
    
 6) Spolszczenie zawiera też hack zmieniający zestaw dostępnych rozmiarów czcionki. 
-   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb Reflow (wyświetl. samego tekstu)")
+   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb tekstowy (Reflow)")
    Hack można wyłączyć kopiując do katalogu localization plik o nazwie original_fontsizes 
    i restartując czytnik.
 
