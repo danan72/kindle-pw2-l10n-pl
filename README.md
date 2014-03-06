@@ -68,7 +68,7 @@ CO ZYSKASZ INSTALUJĄC SPOLSZCZENIE?
 3) Funkcja tłumaczenia tekstu będzie obsługiwać język polski (i kilka innych dodatkowych języków),
    przy wykorzystaniu Translatora Google (zamiast oryginalnego Bing).
    
-4) Domyślne zakładki w przeglądarce internetowej zostaną zastąpione zestawem zakładek do
+4) Domyślne zakładki w przeglądarce internetowej mogą być zastąpione zestawem zakładek do
    polskich stron, a wyszukiwarki w Wikipedii i Google będą domyślnie odwoływały się do 
    polskich wersji tych serwisów.
    
@@ -76,7 +76,7 @@ CO ZYSKASZ INSTALUJĄC SPOLSZCZENIE?
    do katalogu localization plik o nazwie original_margins i restartując czytnik.
    
 6) Spolszczenie zawiera też hack zmieniający zestaw dostępnych rozmiarów czcionki. 
-   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tylko tekst (reflow)")
+   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb Reflow (wyświetl. samego tekstu)")
    Hack można wyłączyć kopiując do katalogu localization plik o nazwie original_fontsizes 
    i restartując czytnik.
 
@@ -92,9 +92,13 @@ PODZIĘKOWANIA
    
  ROZWÓJ SPOLSZCZENIA
  
- Wszelkie uwagi dotyczące tłumaczenia, znalezione błędy i wsłasne pomysły proszę zgłaszać na forum
- http://forum.eksiazki.org/
+ Źródło spolszczenia znajduje się w repozytorium https://github.com/dsmid/kindle-pw2-l10n-pl
+ Można tam zgłaszać propozycje zmian.
+ 
+ Wszelkie uwagi dotyczące tłumaczenia, znalezione błędy i własne pomysły mogą być również zgłaszane 
+ na forum http://forum.eksiazki.org/
  
  
- danan72
+ @danan72
  http://forum.eksiazki.org/danan72-u30469.html
+ 

@@ -1,16 +1,16 @@
 Notes	Notatki
 Yours	Twoje
-Public	Publiczny
+Public	Publiczne
 Chapter	Rozdział
-Note	Notatki
+Note	Notatka
 {0}’s Note	Notatka {0}
 Edit	Edytuj
 Delete	Usuń
-Share	Podziel się
+Share	Udostępnij
 View	zobacz
 {0,select, false{Page {1}} true{Loc {1}} other {}}	{0,select, false{Strona {1}} true{Lokacja {1}} other {}}
-Go to Location	Idź do Pozycji
+Go to Location	Idź do lokacji
 {0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}	{0,plural,=0 {} =1 {1 podkreślenie} other {{0,number,integer} podkreślen}}
 {0}’s Highlight	Zaznaczenie {0}
 You do not have any notes or highlights.	Nie masz żadnych notatek ani podkreśleń
-Popular	Popularny
+Popular	Popularne

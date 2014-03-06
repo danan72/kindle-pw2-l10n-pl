@@ -1,16 +1,16 @@
-Device Passcode	Hasło urządzenia
+Device Passcode	Kod dostępu do urządzenia
 Turn Off Passcode	Wyłącz ochronę kodem dostępu
-Change Passcode	Zmień hasło
+Change Passcode	Zmień kod dostępu
 Cancel	Anuluj
-Create Passcode	Utwórz hasło
-Passcodes Do Not Match	Hasła nie są jednakowe
-Incorrect Passcode	Niepoprawne hasło
-Passcode Invalid	Nieprawidłowe hasło
-Enter Passcode	Wprowadź hasło
-Confirm Passcode	Potwierdź hasło
+Create Passcode	Utwórz kod dostępu
+Passcodes Do Not Match	Kody nie są jednakowe
+Incorrect Passcode	Niepoprawny kod dostępu
+Passcode Invalid	Nieprawidłowy kod dostępu
+Enter Passcode	Wprowadź kod
+Confirm Passcode	Potwierdź kod
 Please try again.	Proszę spróbować ponownie.
-Enter Current Passcode	Wprowadź bieżące hasło
-Enter New Passcode	Wprowadź nowe hasło
-Confirm New Passcode	Potwierdź nowe hasło
-Please enter a valid passcode.	Proszę wprowadzić poprawne hasło.
+Enter Current Passcode	Wprowadź bieżący kod
+Enter New Passcode	Wprowadź nowy kod
+Confirm New Passcode	Potwierdź nowy kod
+Please enter a valid passcode.	Proszę wprowadzić poprawny kod dostępu.
 Your passcode must contain at least {0,number,integer} digits. Please try again.	Twój kod dostępu musi zawierać przynajmniej {0,number,integer} cyfr. Spróbuj jeszcze raz.

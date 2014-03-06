@@ -1,17 +1,17 @@
 Device Options	Opcje urządzenia
-Device Passcode	Hasło urządzenia
-Set a passcode to protect the content on your Kindle.	Ustaw hasło, aby chronić swojego Kindle.
+Device Passcode	Kod dostępu do urządzenia
+Set a passcode to protect the content on your Kindle.	Ustaw kod dostępu, aby chronić swojego Kindle.
 Not Enabled	Wyłączone
 Enabled	Włączone
 Front Light	Oświetlenie
 Manage your Kindleʼs brightness and Night Light.	Zarządzaj oświetleniem Twojego Kindle.
 Parental Controls	Kontrola rodzicielska
-{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}	{0, select, true {Skonfiguruj Kindle FreeTime i ogranicz dostęp do {1, select, true {Przeglądarki internetowej, sklepu Kindle Store, chmury, i Goodreads na Kindle.} other {Przeglądarki internetowej, sklepu Kindle Store, chmury.}}} other {Ogranicz dostęp do {1, select, true {Przeglądarki internetowej, sklepu Kindle Store, chmury i Goodreads na Kindle.} other {Przeglądarki internetowej, sklepu Kindle Store i chmury.}}}}
+{0, select, true {Set up Kindle FreeTime and restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}} other {Restrict access to {1, select, true {Experimental Web Browser, Kindle Store, Cloud, and Goodreads on Kindle.} other {Experimental Web Browser, Kindle Store, and Cloud.}}}}	{0, select, true {Skonfiguruj Kindle FreeTime i ogranicz dostęp do {1, select, true {przeglądarki internetowej, sklepu Kindle Store, chmury, i Goodreads na Kindle.} other {przeglądarki internetowej, sklepu Kindle Store, chmury.}}} other {Ogranicz dostęp do {1, select, true {przeglądarki internetowej, sklepu Kindle Store, chmury i Goodreads na Kindle.} other {przeglądarki internetowej, sklepu Kindle Store i chmury.}}}}
 This is a managed device. Parental Controls are locked. For information, contact: {0}.	To urządzenie jest zdalnie zarządzane. Kontrola rodzicielska jest zablokowana. Kontakt: {0}.
 Parental Controls Locked	Kontrola rodzicielska jest zablokowana
 Device Time	Czas
 Set the local time on your Kindle.	Ustaw czas na swoim Kindle.
-Personalise Your Kindle	Spersonalizuj swój Kindle
+Personalise Your Kindle	Spersonalizuj swojego Kindle
 Manage your device name, personal info and content recommendations, and view your Send-to-Kindle e-mail address.	Zarządzaj nazwą swojego urządzenia, informacjami osobistymi i rekomendacją zawartości, oraz zobacz swój adres e-mail Send-to-Kindle.
 Language and Dictionaries	Język i słowniki
-Manage your Kindle language, keyboards and dictionaries.	Zarządzaj językiem Kindle, klawiaturami i słownikami.
+Manage your Kindle language, keyboards and dictionaries.	Zarządzaj językiem, klawiaturami i słownikami.

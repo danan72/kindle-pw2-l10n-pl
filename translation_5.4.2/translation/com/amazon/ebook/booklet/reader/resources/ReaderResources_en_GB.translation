@@ -14,7 +14,7 @@ lighter	-1
 default	domyślnie
 darker	+1
 darkest	+2
-Go To	Przejdź do
+Go To	Idź do
 Table of Contents	Spis treści
 Go to...	Idź do...
 Table of Contents...	Spis treści...
@@ -32,7 +32,7 @@ Enter a page ({0})	Podaj stronę ({0})
 Enter a page (1 - {0})	Podaj stronę (1 - {0})
 Enter a page	Podaj stronę
 Enter a location ({0} - {1})	Podaj lokację ({0} - {1})
-Loc {0}	Lok {0}
+Loc {0}	Lokacja {0}
 Page {0}	Strona {0}
 Loc {0} of {1}	Lokacja {0} z {1}
 Page {0} of {1}	Strona {0} z {1}
@@ -42,7 +42,7 @@ Add Note	Dodaj notatkę
 View Note	Zobacz notatki
 Edit Note	Edytuj notatkę
 Delete Note	Usuń notatkę
-Highlight	Zaznaczenia
+Highlight	Zaznacz
 Delete	Usuń
 Sync to Furthest Page Read	Zsynchronizuj ost. czytaną stronę
 Sync	Synchronizuj
