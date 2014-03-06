@@ -92,10 +92,13 @@ PODZIĘKOWANIA
    
  ROZWÓJ SPOLSZCZENIA
  
- Wszelkie uwagi dotyczące tłumaczenia, znalezione błędy i wsłasne pomysły proszę zgłaszać na forum
- http://forum.eksiazki.org/
+ Źródło spolszczenia znajduje się w repozytorium https://github.com/dsmid/kindle-pw2-l10n-pl
+ Można tam zgłaszać propozycje zmian.
+ 
+ Wszelkie uwagi dotyczące tłumaczenia, znalezione błędy i własne pomysły mogą być również zgłaszane 
+ na forum http://forum.eksiazki.org/
  
  
- danan72
+ @danan72
  http://forum.eksiazki.org/danan72-u30469.html
  
