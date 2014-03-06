@@ -68,7 +68,7 @@ CO ZYSKASZ INSTALUJĄC SPOLSZCZENIE?
 3) Funkcja tłumaczenia tekstu będzie obsługiwać język polski (i kilka innych dodatkowych języków),
    przy wykorzystaniu Translatora Google (zamiast oryginalnego Bing).
    
-4) Domyślne zakładki w przeglądarce internetowej zostaną zastąpione zestawem zakładek do
+4) Domyślne zakładki w przeglądarce internetowej mogą być zastąpione zestawem zakładek do
    polskich stron, a wyszukiwarki w Wikipedii i Google będą domyślnie odwoływały się do 
    polskich wersji tych serwisów.
    
