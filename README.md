@@ -29,6 +29,9 @@ INSTALACJA SPOLSZCZENIA
 5) Jeśli punkt menu "Update Your Kindle" jest wyszarzony, zrestartuj Kindle 
    (Menu -> Settings, Menu -> Restart) i spróbuj ponownie wykonać pkt 4.
 
+6) Po zakończeniu instalacji może być konieczne ponowne uruchomienie czytnika
+   (Menu -> Ustawienia, Menu -> Uruchom ponownie), aby spolszczone zostały wszystkie 
+   funkcje (m.in. przeglądarka internetowa)
 
 ODINSTALOWANIE SPOLSZCZENIA
 
@@ -38,13 +41,15 @@ ODINSTALOWANIE SPOLSZCZENIA
 2) Odłącz bezpiecznie Kindle od komputera (korzystając z opcji "Bezpieczne odłączenie" 
    lub "Wysunięcie") i odłącz kabel USB.
 
-3) Uruchom aktualizację na swoim Kindle wybierając Menu->Settings, Menu->Update Your Kindle 
+3) Uruchom aktualizację na swoim Kindle wybierając Menu->Ustawienia, Menu->Zaktualizuj Kindle 
    i czekaj aż instalacja się zakończy.  
 
 
    
 AKTUALIZACJA SPOLSZCZENIA 
- 
+
+Najnowsze wersje spolszczenia będą udostępniane na stronie 
+https://github.com/dsmid/kindle-pw2-l10n-pl/releases .
 Jeśli na czytniku jest już wgrana starsza wersja spolszczenia, a chcesz zainstalować nową
 wersję, to możesz to zrobić bez konieczności odinstalowywania poprzedniej.
 
@@ -76,7 +81,7 @@ CO ZYSKASZ INSTALUJĄC SPOLSZCZENIE?
    do katalogu localization plik o nazwie original_margins i restartując czytnik.
    
 6) Spolszczenie zawiera też hack zmieniający zestaw dostępnych rozmiarów czcionki. 
-   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb Reflow (wyświetl. samego tekstu)")
+   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb tekstowy (Reflow)")
    Hack można wyłączyć kopiując do katalogu localization plik o nazwie original_fontsizes 
    i restartując czytnik.
 

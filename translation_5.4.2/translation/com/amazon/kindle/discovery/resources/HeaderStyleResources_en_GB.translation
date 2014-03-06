@@ -7,7 +7,7 @@ Suggested	Proponowane
 Follow	Obserwuj
 Stop Following	Przestań obserwować
 {0,plural,=0 {Comment} one {{0,number,###0} Comment} other {{0,number,###0} Comments}}	{0,plural,=0 {Komentarzy} one {{0,number,###0} Komentarz} other {{0,number,###0} Komentarzy}}
-Share	Podziel się
+Share	Udostępnij
 Delete	Usuń
 {0,plural,=0 {{0,number,###0} days} one {{0,number,###0} day} other {{0,number,###0} days}} ago	{0,plural,=0 {{0,number,###0} dni} one {{0,number,###0} dzień} other {{0,number,###0} dni}} temu
 Delete Comment	Usuń komentarz
