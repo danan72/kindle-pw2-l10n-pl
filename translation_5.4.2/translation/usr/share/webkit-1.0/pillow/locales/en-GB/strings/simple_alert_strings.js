@@ -39,7 +39,7 @@ Power	Zasilanie
 Purchase Limit Reached	Osiągnięto limit zakupów
 Purchases Pending	Oczekujące zamówienia
 Purchasing Locked	Zakupy są zablokowane
-Restart	Restart.
+Restart	Restartuj
 Restarting your Kindle	Trwa ponowne uruchomienie Twojego Kindle
 Restart Required	Wymagane jest ponowne uruchomienie
 Screen Off	Wył. ekran
