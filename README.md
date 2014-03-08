@@ -97,7 +97,7 @@ PODZIĘKOWANIA
    
  ROZWÓJ SPOLSZCZENIA
  
- Źródło spolszczenia znajduje się w repozytorium https://github.com/danan72/kindle-pw2-l10n-pl
+ Źródło spolszczenia znajduje się w repozytorium https://github.com/dsmid/kindle-pw2-l10n-pl
  Można tam zgłaszać propozycje zmian.
  
  Wszelkie uwagi dotyczące tłumaczenia, znalezione błędy i własne pomysły mogą być również zgłaszane 
