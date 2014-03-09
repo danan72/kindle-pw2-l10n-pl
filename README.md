@@ -1,9 +1,35 @@
-Spolszczenie dla Kindle Paperwhite 2 z oprogramowaniem 5.4.2 i 5.4.2.1
-======================================================================
+Spolszczenie dla Kindle Paperwhite 2
+====================================
 
 Spolszczenie jest przeznaczone dla modelu Paperwhite 2 (znanego również jako 
 All-New Paperwhite lub Paperwhite (2013)).
+
 NIE NADAJE SIĘ dla starszego modelu Paperwhite z 2012 roku!!!
+
+
+CO DAJE SPOLSZCZENIE?
+ 
+1) Menu i komunikaty ekranowe będą w języku polskim.
+
+2) Do klawiatury ekranowej zostaną dodane brakujące polskie znaki diakrytyczne czyli 
+   popularne ogonki (ą,ę,ć, itp.).  Będą one dostępne po naciśnięciu i przytrzymaniu
+   odpowiedniej litery (np. A -> Ą, E -> Ę, itd.).
+   
+3) Funkcja tłumaczenia tekstu będzie obsługiwać język polski (i kilka innych dodatkowych języków),
+   przy wykorzystaniu Translatora Google (zamiast oryginalnego Bing).
+   
+4) Domyślne zakładki w przeglądarce internetowej mogą być zastąpione zestawem zakładek do
+   polskich stron, a wyszukiwarki w Wikipedii i Google będą domyślnie odwoływały się do 
+   polskich wersji tych serwisów.
+   
+5) Spolszczenie zawiera hack zmniejszający szerokość marginesów. Można go wyłączyć kopiując
+   do katalogu localization plik o nazwie original_margins i restartując czytnik.
+   
+6) Spolszczenie zawiera też hack zmieniający zestaw dostępnych rozmiarów czcionki. 
+   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb tekstowy (Reflow)")
+   Hack można wyłączyć kopiując do katalogu localization plik o nazwie original_fontsizes 
+   i restartując czytnik.
+
 
 Do wgrania spolszczenia wymagana jest wcześniejsza instalacja JailBreak, 
 dostępnego na stronie http://www.mobileread.com/forums/showthread.php?t=186645
@@ -12,8 +38,9 @@ dostępnego na stronie http://www.mobileread.com/forums/showthread.php?t=186645
 INSTALACJA SPOLSZCZENIA
 
 0) Jeśli do tej pory nie został zainstalowany JailBreak, to należy go zainstalować.
+   Najnowszą wersję jailbreak można pobrać ze strony http://www.mobileread.com/forums/showthread.php?t=186645
 
-1) Upewnij się, że na Kindle jest zainstalowana wersja oprogramowania 5.4.2 lub 5.4.2.1
+1) Upewnij się, że na Kindle jest zainstalowana wersja oprogramowania 5.4.3
    (Menu -> Settings, Menu -> Device Info, pole Firmware Version)
 
 2) Po rozpakowaniu archiwum ZIP wyszukaj plik, którego nazwa kończy się na _install.bin 
@@ -44,7 +71,6 @@ ODINSTALOWANIE SPOLSZCZENIA
 3) Uruchom aktualizację na swoim Kindle wybierając Menu->Ustawienia, Menu->Zaktualizuj Kindle 
    i czekaj aż instalacja się zakończy.  
 
-
    
 AKTUALIZACJA SPOLSZCZENIA 
 
@@ -53,57 +79,3 @@ https://github.com/danan72/kindle-pw2-l10n-pl/releases .
 Jeśli na czytniku jest już wgrana starsza wersja spolszczenia, a chcesz zainstalować nową
 wersję, to możesz to zrobić bez konieczności odinstalowywania poprzedniej.
 
- 
-AKTUALIZACJA OPROGRAMOWANIA KINDLE
-
-Ta wersja spolszczenia jest przeznaczona tylko dla dla wersji oprogramowania 5.4.2 i 5.4.2.1.
-Spolszczenie zawiera zabezpieczenie przed automatyczną aktualizacją oprogramowania w tle.
-Jeśli chcesz ręcznie zaktualizować oprogramowanie, to powinieneś wcześniej odinstalować
-spolszczenie.
- 
-
-CO ZYSKASZ INSTALUJĄC SPOLSZCZENIE?
- 
-1) Menu i komunikaty ekranowe będą w języku polskim.
-
-2) Do klawiatury ekranowej zostaną dodane brakujące polskie znaki diakrytyczne czyli 
-   popularne ogonki (ą,ę,ć, itp.).  Będą one dostępne po naciśnięciu i przytrzymaniu
-   odpowiedniej litery (np. A -> Ą, E -> Ę, itd.).
-   
-3) Funkcja tłumaczenia tekstu będzie obsługiwać język polski (i kilka innych dodatkowych języków),
-   przy wykorzystaniu Translatora Google (zamiast oryginalnego Bing).
-   
-4) Domyślne zakładki w przeglądarce internetowej mogą być zastąpione zestawem zakładek do
-   polskich stron, a wyszukiwarki w Wikipedii i Google będą domyślnie odwoływały się do 
-   polskich wersji tych serwisów.
-   
-5) Spolszczenie zawiera hack zmniejszający szerokość marginesów. Można go wyłączyć kopiując
-   do katalogu localization plik o nazwie original_margins i restartując czytnik.
-   
-6) Spolszczenie zawiera też hack zmieniający zestaw dostępnych rozmiarów czcionki. 
-   Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb tekstowy (Reflow)")
-   Hack można wyłączyć kopiując do katalogu localization plik o nazwie original_fontsizes 
-   i restartując czytnik.
-
-   
-PODZIĘKOWANIA
-
-1) David Šmíd (użytkownik @dsmid z forum MR), dzięki któremu w ogóle pojawiła możliwości lokalizowania
-   oprogramowania Kindle Paperwhite i który bardzo pomógł w przygotowaniu tego spolszczenia.
-   
-2) Osoby, które tłumaczyły firmware Kindle Touch w projekcie Transifex. Zaimportowanie tego
-   tłumaczenia znacznie zmniejszyło liczbę komunikatów do przełożenia na polski.
-   
-   
- ROZWÓJ SPOLSZCZENIA
- 
- Źródło spolszczenia znajduje się w repozytorium https://github.com/danan72/kindle-pw2-l10n-pl
- Można tam zgłaszać propozycje zmian.
- 
- Wszelkie uwagi dotyczące tłumaczenia, znalezione błędy i własne pomysły mogą być również zgłaszane 
- na forum http://forum.eksiazki.org/
- 
- 
- @danan72
- http://forum.eksiazki.org/danan72-u30469.html
- 
