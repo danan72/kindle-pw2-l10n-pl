@@ -6,8 +6,10 @@ All-New Paperwhite lub Paperwhite (2013)).
 
 NIE NADAJE SIĘ dla starszego modelu Paperwhite z 2012 roku!!!
 
+Spolszczenie bazuje na czeskiej lokalizacji przygotowanej przez Davida Šmída, której repozytorium znajduje się na stronie  https://github.com/dsmid/kindle-pw2-l10n-cs
 
-CO DAJE SPOLSZCZENIE?
+
+JEKIE ZMIANY ZAWIERA SPOLSZCZENIE?
  
 1) Menu i komunikaty ekranowe będą w języku polskim.
 
@@ -29,10 +31,6 @@ CO DAJE SPOLSZCZENIE?
    Ten sam hack włącza funkcję reflow w PDF (w Menu pojawi się opcja "Tryb tekstowy (Reflow)")
    Hack można wyłączyć kopiując do katalogu localization plik o nazwie original_fontsizes 
    i restartując czytnik.
-
-
-Do wgrania spolszczenia wymagana jest wcześniejsza instalacja JailBreak, 
-dostępnego na stronie http://www.mobileread.com/forums/showthread.php?t=186645
 
 
 INSTALACJA SPOLSZCZENIA
