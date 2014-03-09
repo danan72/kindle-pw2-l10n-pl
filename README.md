@@ -9,7 +9,7 @@ NIE NADAJE SIĘ dla starszego modelu Paperwhite z 2012 roku!!!
 Spolszczenie bazuje na czeskiej lokalizacji przygotowanej przez Davida Šmída, której repozytorium znajduje się na stronie  https://github.com/dsmid/kindle-pw2-l10n-cs
 
 
-JEKIE ZMIANY ZAWIERA SPOLSZCZENIE?
+JAKIE ZMIANY ZAWIERA SPOLSZCZENIE?
  
 1) Menu i komunikaty ekranowe będą w języku polskim.
 
