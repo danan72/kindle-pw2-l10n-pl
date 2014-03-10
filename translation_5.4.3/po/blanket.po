@@ -206,7 +206,7 @@ msgid "shutdown.fontupdate.message.spacing"
 msgstr "2.5"
 
 msgid "shutdown.reboot.message"
-msgstr "Proszę poczekać na uruchomienie Kindle."
+msgstr "Poczekaj, aż Twój Kindle ponownie się uruchomi."
 
 msgid "shutdown.reboot.message.fontsize"
 msgstr "12"
@@ -277,7 +277,7 @@ msgstr "0,14.65,258.68,12.07"
 msgid "usb.screen.message"
 msgstr ""
 "Jeśli chcesz czytać lub robić zakupy w trakcie ładowania przez USB, proszę "
-"pozostawić przewód USB podłączony, ale odłączyć Kindle w systemie komputera."
+"pozostawić podłączony przewód USB, ale odłączyć Kindle w systemie komputera."
 
 msgid "usb.screen.message.fontsize"
 msgstr "12"
