@@ -12,6 +12,7 @@ tar cvz --xform "s|^install/||" --show-transformed-names -f localization.pack  -
 recode -f utf8..flat < czytaj-mnie-utf8.txt > czytaj-mnie.txt
 unix2dos czytaj-mnie.txt
 echo "$PKGVER" > version.txt
+sed "s/%VERSION%/${VERSION}/g" < localization.conf.in > localization.conf
 
 # Build install update
 cp -f install.sh run.ffs
@@ -24,6 +25,7 @@ cp -f uninstall.sh run.ffs
 rm -f run.ffs
 rm -f localization.pack
 rm -f version.txt
+rm -f localization.conf
 
 [ -f ../${PKGNAME}_${PKGVER}.zip ] && rm -f ../${PKGNAME}_${PKGVER}.zip
 zip ../${PKGNAME}_${PKGVER}.zip *.bin czytaj-mnie.txt original_margins original_fontsizes
