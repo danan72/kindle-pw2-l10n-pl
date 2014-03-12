@@ -11,7 +11,7 @@ Manage FreeTime Items	Zarządzaj pozycjami FreeTime
 Narrator: 	Narrator:
 On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	W czytniku: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
 Rename	Zmień nazwę
-Show Only in Collections View	Pokazuj tylko w widoku Kolekcji
+Show Only in Collections View	Pokazuj tylko w widoku Kolekcje
 Show in All Views	Pokazuj we wszystkich widokach
 Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
 Turn Off FreeTime	Wyłącz FreeTime
