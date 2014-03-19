@@ -1,6 +1,1 @@
-HACKNAME=loc_pl
-HACKLANG=pl
-VERSION=5.4.3
-RELEASE=1.2
-INSTALLKUG=no
-README=czytaj-mnie
+config_5.4.4
