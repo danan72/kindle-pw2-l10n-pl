@@ -206,7 +206,7 @@ msgid "shutdown.fontupdate.message.spacing"
 msgstr "2.5"
 
 msgid "shutdown.reboot.message"
-msgstr "Poczekaj, aż Twój Kindle ponownie się uruchomi."
+msgstr "Poczekaj na ponowne uruchomienie Twojego Kindle."
 
 msgid "shutdown.reboot.message.fontsize"
 msgstr "12"
