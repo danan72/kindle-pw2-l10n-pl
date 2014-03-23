@@ -33,7 +33,7 @@ Translating your selection...	Tłumaczę wybrany tekst...
 Translation	Tłumaczenie
 Turkish	Turecki
 Turn Off Aeroplane Mode	Wyłącz tryb samolotowy
-Turn On Wireless	Włącz łączność bezprzewodową
+Turn On Wireless	Włącz połączenie bezprzewodowe
 Ukrainian	Ukraiński
 Unable to contact the server. Please try again later.	Nie można połączyć się z serwerem. Spróbuj ponownie później.
 Unknown	Nieznany
