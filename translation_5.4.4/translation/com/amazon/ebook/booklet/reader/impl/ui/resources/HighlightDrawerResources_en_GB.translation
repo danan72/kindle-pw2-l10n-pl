@@ -1,2 +1,2 @@
-{0} highlighters	{0} zaznaczających
-{1}, {0,plural,=0 {no others} one {1 other} other {{0,number,integer} others}}	{1}, {0,plural,=0 {żadnych innych} one {1 inny} other {{0,number,integer} innych}}
+{0} highlighters	Liczba zaznaczających: {0}
+{1}, {0,plural,=0 {no others} one {1 other} other {{0,number,integer} others}}	{1}, {0,plural,=0 {Liczba innych: 0} one {Liczba innych: 1} other {Liczba innych: {0,number,integer}}}

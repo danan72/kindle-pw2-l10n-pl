@@ -5,15 +5,15 @@ Date: 	Data:
 Delete	Usuń
 Edit Child Profiles	Edytuj profile dzieci
 Edit Pronunciation	Edytuj wymowę
-In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	W chmurze: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Learn more	Dowiedz się więcej
 Manage FreeTime Items	Zarządzaj pozycjami FreeTime
 Narrator: 	Narrator:
-On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	W czytniku: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w czytniku: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Rename	Zmień nazwę
 Show Only in Collections View	Pokazuj tylko w widoku Kolekcje
 Show in All Views	Pokazuj we wszystkich widokach
-Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem: {0,plural,=0 {Brak pozycji} one {{0,number,integer} pozycja} other {{0,number,integer} pozycji} }
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
 Turn Off FreeTime	Wyłącz FreeTime
 Turn Off Vocabulary Builder	Wyłącz funkcję powtarzania słówek
 Unknown	Nieznany
