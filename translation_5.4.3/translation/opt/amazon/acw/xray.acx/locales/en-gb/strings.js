@@ -30,7 +30,7 @@ Potions	Mikstury
 Quotes	Cytaty
 Recipes	Recepty
 Restaurants	Restauracje
-See more about this book.	Dowiedz się więcej o tej książce
+See more about this book.	Dowiedz się więcej o tej książce.
 Showing ${range} of ${total}	Pokazywane ${range} z ${total}
 Spells	Czary
 Subject to a <span class="license">Creative Commons Licence</span>	Podlega licencji <span class="license">Creative Commons Licence</span>

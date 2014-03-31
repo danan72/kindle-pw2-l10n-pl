@@ -37,5 +37,5 @@ Turn On Wireless	Włącz Wi-Fi
 Ukrainian	Ukraiński
 Unable to contact the server. Please try again later.	Nie można połączyć się z serwerem. Spróbuj ponownie później.
 Unknown	Nieznany
-Waiting for connection...	Czekam na połączenie
+Waiting for connection...	Czekam na połączenie...
 Wireless must be turned on to use this feature.	Aby użyć tej funkcji, musi być włączona łączność bezprzewodowa.

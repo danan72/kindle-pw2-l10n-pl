@@ -23,6 +23,6 @@ You have successfully cancelled your order for {dealTitle} from {merchantName}. 
 You must register your Kindle to make a purchase.	Aby robić zakupy musisz zarejestrować swojego Kindle.
 Your order will be placed when you connect to wireless.	Twoje zamówienie zostanie złożone gdy połączysz się z siecią.
 Your purchase could not be completed. This offer has expired.	Zakupy nie mogą być dokończone. Ta oferta jest już nieaktualna.
-Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	Nie można dokończyć zakupów. Mamy teraz problemy techniczne. Spróbuj ponownie później
+Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	Nie można dokończyć zakupów. Mamy teraz problemy techniczne. Spróbuj ponownie później.
 Your purchase could not be completed. You have reached the maximum purchase quantity.	Nie można dokończyć zakupów. Osiągnięta została maksymalna liczba zakupów.
 {customerName}, you have nearly finished.	{customerName}, to już prawie koniec.

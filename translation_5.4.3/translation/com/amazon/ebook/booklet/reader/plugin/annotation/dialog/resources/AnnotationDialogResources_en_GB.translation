@@ -8,7 +8,7 @@ Popular	Popularne
 Public	Publiczne
 Share	Udostępnij
 View	zobacz
-You do not have any notes or highlights.	Nie masz żadnych notatek ani podkreśleń
+You do not have any notes or highlights.	Nie masz żadnych notatek ani podkreśleń.
 Yours	Twoje
 {0,plural,=0 {} =1 {1 highlighter} other {{0,number,integer} highlighters}}	{0,plural,=0 {} =1 {1 podkreślenie} other {{0,number,integer} podkreślen}}
 {0,select, false{Page {1}} true{Loc {1}} other {}}	{0,select, false{Strona {1}} true{Lokacja {1}} other {}}

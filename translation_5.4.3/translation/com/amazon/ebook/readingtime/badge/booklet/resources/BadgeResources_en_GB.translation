@@ -12,7 +12,7 @@ Current Month	Ten miesiąc
 Day	Dzień
 Earned ({0,number,integer})	Zrealizowane ({0,number,integer})
 Elite Bookworm {0,choice,0#|2#({0,number,integer})}	Elitarny Mól Książkowy {0,choice,0#|2#({0,number,integer})}
-Finish a book to earn this achievement.	Skończ książkę aby dostać nagrodę
+Finish a book to earn this achievement.	Skończ książkę aby dostać nagrodę.
 High-Flyer {0,choice,0#|2#({0,number,integer})}	Bijący rekordy {0,choice,0#|2#({0,number,integer})}
 Just Getting Started {0,choice,0#|2#({0,number,integer})}	To dopiero początek {0,choice,0#|2#({0,number,integer})}
 Kilo-Pages! {0,choice,0#|2#({0,number,integer})}	Waga ciężka! {0,choice,0#|2#({0,number,integer})}

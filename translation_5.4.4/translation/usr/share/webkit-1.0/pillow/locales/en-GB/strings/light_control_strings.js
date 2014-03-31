@@ -1,7 +1,7 @@
 &#9654	&#9654
 Advanced	Zaawansowany
 Auto Brightness	Tło automatyczne
-In brightly lit rooms, use a <u>high</u> setting.	W jasnym pokoju używaj <u>wysokiego</u> poziomu oświetlenia
+In brightly lit rooms, use a <u>high</u> setting.	W jasnym pokoju używaj <u>wysokiego</u> poziomu oświetlenia.
 Max.	Maksymalnie
 Off	Wył.
 On	Wł.

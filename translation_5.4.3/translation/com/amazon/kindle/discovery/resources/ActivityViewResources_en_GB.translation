@@ -2,8 +2,8 @@ Add Comment	Dodaj komentarz
 Also share on:	Udostępnij również na:
 Comment	Komentarz
 Loading…	Ładowanie...
-Request Failed	Błędne żadanie
-This update was deleted.	Ta aktualizacja została usunięta
+Request Failed	Błędne żądanie
+This update was deleted.	Ta aktualizacja została usunięta.
 We canʼt seem to find this comment.	Nie możemy znaleźć tego komentarza.
 We canʼt seem to find this update.	Nie możemy znaleźć tej aktualizacji.
 {0,select, BookRating {'{0}' liked a rating} BookStatusReading {'{0}' liked an update} BookStatusRead {'{0}' liked an update} BookStatusWantToRead {'{0}' liked an update} Comment {'{0}' liked a comment} GoodreadsReview {'{0}' liked a review} Like {'{0}' liked a comment} Note {'{0}' liked a note} QuoteWithNote {'{0}' liked a quote} Quote {'{0}' liked a quote} ReadingProgressWithNote {'{0}' liked an update} ReadingProgress {'{0}' liked an update} Recommend {'{0}' liked a recommendation} other {'{0}' liked an update}}	{0,select, BookRating {czytelnicy '{0}' polubili ocenę} BookStatusReading {czytelnicy '{0}' polubili aktualizację} BookStatusRead {czytelnicy '{0}' polubili aktualizację} BookStatusWantToRead {czytelnicy '{0}' polubili aktualizację} Comment {czytelnicy '{0}' polubili komentarz} GoodreadsReview {czytelnicy '{0}' polubili recenzję} Like {czytelnicy '{0}' polubili komentarz} Note {czytelnicy '{0}' polubili notatkę} QuoteWithNote {czytelnicy '{0}' polubili cytat} Quote {czytelnicy '{0}' polubili cytat} ReadingProgressWithNote {czytelnicy '{0}' polubili aktualizację} ReadingProgress {czytelnicy '{0}' polubili aktualizację} Recommend {czytelnicy '{0}' polubili rekomendację} other {czytelnicy '{0}' polubili aktualizację}}

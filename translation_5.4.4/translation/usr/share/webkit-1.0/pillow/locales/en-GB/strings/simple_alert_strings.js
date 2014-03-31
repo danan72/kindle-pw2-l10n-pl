@@ -23,7 +23,7 @@ Framework Error	Błąd oprogramowania
 Goodreads on Kindle Locked	Goodreads na Kindle jest zablokowany
 Java Heap Low	Zaczyna brakować pamięci dla Javy
 Kindle Special Offers	Oferty specjalne Kindle
-Kindle Store Locked	Sklep Kindle Store jest zablokowany
+Kindle Store Locked	Sklep Kindle Store jest zablokowany.
 Low Memory	Mało pamięci
 MP3 Player Locked	Odtwarzacz MP3 jest zablokowany
 No MP3 Files Found	Brak plików MP3
@@ -53,7 +53,7 @@ The application is not responding. Please wait while your Kindle restarts.	Aplik
 The item failed to close properly. Unless you close this dialog box your device will restart in {restartTime,plural,=0 {# seconds} one {# second} other {# seconds}}.	Pozycja nie została właściwie zamknięta. Po zamknięciu tego okna dialogowego Twoje urządzenie zostanie zrestartowane w ciągu {restartTime,plural,=0 {# sekund} one {# sekundy} other {# sekund}}.
 The selected application could not be started. Please try again.	Nie udało się uruchomić wybranej aplikacji. Spróbuj jeszcze raz. 
 The selected content could not be opened. Please try again.	Nie udało się otworzyć wybranej pozycji. Spróbuj jeszcze raz. 
-The title could not be opened.	Nie można otworzyć tego tytułu
+The title could not be opened.	Nie można otworzyć tego tytułu.
 There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości Twojego Kindle.
 This Kindle has been instructed to restart. This process will begin shortly. Please wait until the device has fully restarted.	Twój Kindle otrzymał polecenie zrestartowania. Ten proces wkrótce się rozpocznie. Proszę poczekać aż urządzenie uruchomi się ponownie.
 This is a managed device. Access to Cloud is locked. For information, contact: {contactInfo}.	To urządzenie jest zadalnie zarządzane. Dostęp do chmury jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
@@ -91,5 +91,5 @@ Your battery is almost depleted and your Kindle will soon shut down. To continue
 Your battery is running low. Please charge your Kindle. If your wireless is turned on, try turning it off to extend your reading time.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle. Jeśli włączona jest łączość bezprzewodowa, to wyłącz ją aby wydłużyć czas czytania.
 Your battery is running low. Please charge your Kindle.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle.
 Your purchase could not be completed. This offer has expired.	Zakupy nie mogą być dokończone. Ta oferta jest już nieaktualna.
-Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	Nie można dokończyć zakupów. Mamy teraz problemy techniczne. Spróbuj ponownie później
+Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	Nie można dokończyć zakupów. Mamy teraz problemy techniczne. Spróbuj ponownie później.
 Your purchase could not be completed. You have reached the maximum purchase quantity.	Nie można dokończyć zakupów. Osiągnięta została maksymalna liczba zakupów.
