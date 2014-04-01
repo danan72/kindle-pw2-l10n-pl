@@ -35,9 +35,9 @@ Network Connection Failed	Bład połączenia sieciowego
 Remove from Device	Usuń z urządzenia
 Show Only in Collections	Pokazuj tylko w Kolekcjach
 Show in All Views	Pokazuj we wszystkich widokach
-Tap to Open	Dotknij aby otworzyć
+Tap to Open	Dotknij, aby otworzyć
 This collection is synced across all of your devices and will be deleted on all of them.~~~~Deleting a collection does not remove the content stored on your device or in the Cloud. Are you sure you want to delete this collection?	Ta kolekcja jest synchronizowana na wszystkich Twoich urządzeniach i zostanie usunięta z każdego z nich.~~~~Usunięcie kolekcji nie spowoduje usuniecia zawartości przechowywanej w Twoim urządzeniu i w chmurze. Czy jesteś pewien, że chcesz usunąć tą kolekcję?
-This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Ta kolekcja będzie pokazywana tylko w widoku Kolekcje. Naciśnij i przytrzymaj kolekcję aby zmienić jej ustawienia wyświetlania.
+This collection will only be shown in the Collections View. Select Collections under My Items to see it. You can press and hold on a collection to change viewing options for that collection.	Ta kolekcja będzie pokazywana tylko w widoku Kolekcje. Naciśnij i przytrzymaj kolekcję, aby zmienić jej ustawienia wyświetlania.
 Turn Off FreeTime	Wyłącz FreeTime
 Turn Off	Wyłącz
 Turn On Wireless?	Czy włączyć sieć bezprzewodową?
@@ -71,7 +71,7 @@ pending	trwa...
 {0}~~~~Are you sure you want to delete this notice?	{0}~~~~Czy na pewno chcesz usunąć to ogłoszenie?
 {0}~~~~Are you sure you want to delete this receipt?	{0}~~~~Czy na pewno chcesz usunąć to potwierdzenie?
 {0}~~~~Are you sure you want to delete this sample?	{0}~~~~Czy na pewno chcesz usunąć tą próbkę?
-{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0}~~~~Ta pozycja zostanie przeniesiona do chmury ale wszystkie dane i ustawienia z nią związane zostaną trwale usunięte. Czy chcesz kontynuować?
+{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0}~~~~Ta pozycja zostanie przeniesiona do chmury, ale wszystkie dane i ustawienia z nią związane zostaną trwale usunięte. Czy chcesz kontynuować?
  Wi-Fi required	 wymagana sieć Wi-Fi
  connection required	 wymagane połączenie
  downloading - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	 pobieranie - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}

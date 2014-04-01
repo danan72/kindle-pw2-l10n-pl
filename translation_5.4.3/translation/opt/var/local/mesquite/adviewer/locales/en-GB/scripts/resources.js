@@ -1,13 +1,13 @@
 Close	Zamknij
-Details for this advert are no longer available. Turn on wireless to receive the latest content.	Szczegóły tego ogłoszenia są już niedostępne. Włącz łączność bezprzewodową aby otrzymywać najnowsze treści.
+Details for this advert are no longer available. Turn on wireless to receive the latest content.	Szczegóły tej oferty są już niedostępne. Włącz łączność bezprzewodową, aby otrzymywać najnowsze treści.
 Details for this advert are no longer available.	Szczególy tej oferty są już niedostępne.
 Device Not Registered	Urządzenie nie jest zarejestrowane
 Error	Błąd
 Offer Expired	Oferta jest już nieaktualna
 Order Cancelled	Zamówienie zostało anulowane
 Parental Controls are enabled on your Kindle. Purchases are not allowed.	Na Twoim Kindle została włączona kontrola rodzicielska. Zakupy są zabronione.
-Please connect wirelessly to download the latest Special Offers. New offers will display automatically when available.	Połącz się bezprzewodowo aby pobrać najnowsze oferty specjalne. Gdy pojawią się nowe oferty, zostaną wyświetlone automatycznie.
-Please register your Kindle to receive the latest Special Offers. New offers will display automatically when available.	Zarejestruj swojego Kindle aby otrzymywać najnowsze oferty specjalne. Gdy pojawią się nowe oferty, zostaną wyświetlone automatycznie.
+Please connect wirelessly to download the latest Special Offers. New offers will display automatically when available.	Połącz się bezprzewodowo, aby pobrać najnowsze oferty specjalne. Gdy pojawią się nowe oferty, zostaną wyświetlone automatycznie.
+Please register your Kindle to receive the latest Special Offers. New offers will display automatically when available.	Zarejestruj swojego Kindle, aby otrzymywać najnowsze oferty specjalne. Gdy pojawią się nowe oferty, zostaną wyświetlone automatycznie.
 Purchase Limit Reached	Osiągnięto limit zakupów
 Purchased by Accident? Cancel this Order	Przypadkowo zakupione? Anuluj to zamówienie
 Purchasing Locked	Zakupy są zablokowane
@@ -18,7 +18,7 @@ View All Special Offers	Zobacz wszystkie oferty specjane
 View Special Offers	Zobacz ofertę specjalną
 We are unable to process your request. Please try again later.	Nie jesteśmy w stanie przetworzyć Twojego zapytania. Spróbuj ponownie później.
 You already have {count} order(s) pending for this special offer.	Masz już oczekujące zamówienia z tej oferty specjalnej. Liczba zamówień: {count}.
-You have other orders pending. Click here to view	Masz oczekujące zamówienia. Dotknij tutaj aby je zobaczyć
+You have other orders pending. Click here to view	Masz oczekujące zamówienia. Dotknij tutaj, aby je zobaczyć
 You have successfully cancelled your order for {dealTitle} from {merchantName}. Your credit card was not charged.	Pomyślnie anulowano Twoje zamówienie na {dealTitle} z {merchantName}. Twoja karta kredytowa nie została obciążona.
 You must register your Kindle to make a purchase.	Aby robić zakupy musisz zarejestrować swojego Kindle.
 Your order will be placed when you connect to wireless.	Twoje zamówienie zostanie złożone gdy połączysz się z siecią.

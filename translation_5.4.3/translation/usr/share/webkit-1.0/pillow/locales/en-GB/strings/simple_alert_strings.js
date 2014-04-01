@@ -54,7 +54,7 @@ The item failed to close properly. Unless you close this dialog box your device 
 The selected application could not be started. Please try again.	Nie udało się uruchomić wybranej aplikacji. Spróbuj jeszcze raz. 
 The selected content could not be opened. Please try again.	Nie udało się otworzyć wybranej pozycji. Spróbuj jeszcze raz. 
 The title could not be opened.	Nie można otworzyć tego tytułu.
-There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości Twojego Kindle.
+There is not enough Kindle memory to add or edit notes or marks for this document. Please make more Kindle memory available by removing content from the Home screen.	Zbyt mało pamięci, aby dodawać lub edytować notatki i oznaczenia w tym dokumencie. Zwolnij pamięć usuwając część zawartości Twojego Kindle.
 This Kindle has been instructed to restart. This process will begin shortly. Please wait until the device has fully restarted.	Twój Kindle otrzymał polecenie zrestartowania. Ten proces wkrótce się rozpocznie. Proszę poczekać aż urządzenie uruchomi się ponownie.
 This is a managed device. Access to Cloud is locked. For information, contact: {contactInfo}.	To urządzenie jest zadalnie zarządzane. Dostęp do chmury jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
 This is a managed device. Access to Goodreads on Kindle is locked. For information, contact: {contactInfo}.	To urządzenie jest zadalnie zarządzane. Dostęp do Goodreada na Kindle jest zablokowany. Aby uzyskać więcej informacji skontaktuj się z {contactInfo}.
@@ -88,7 +88,7 @@ You must register your Kindle to make a purchase.	Aby robić zakupy musisz zarej
 Your Kindle fonts are updating. This can take a moment...	Rozpoczęła się aktualizacja czcionek w Twoim Kindle. To może chwilę potrwać...
 Your Kindle is unable to establish a wireless connection. Do you want to turn off Aeroplane Mode?	Twój Kindle nie jest w stanie nawiązać połączenia bezprzewodowego. Czy chcesz wyłączyć tryb samolotowy?
 Your battery is almost depleted and your Kindle will soon shut down. To continue using your Kindle, connect it to a power source.	Bateria jest już prawie wyczerpana i Twój Kindle wkrótce się wyłączy. Jeśli nadal chcesz korzystać ze swojego Kindle, podłącz go do źródła zasilania.
-Your battery is running low. Please charge your Kindle. If your wireless is turned on, try turning it off to extend your reading time.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle. Jeśli włączona jest łączość bezprzewodowa, to wyłącz ją aby wydłużyć czas czytania.
+Your battery is running low. Please charge your Kindle. If your wireless is turned on, try turning it off to extend your reading time.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle. Jeśli włączona jest łączość bezprzewodowa, to wyłącz ją, aby wydłużyć czas czytania.
 Your battery is running low. Please charge your Kindle.	Bateria jest na wyczerpaniu. Naładuj swojego Kindle.
 Your purchase could not be completed. This offer has expired.	Zakupy nie mogą być dokończone. Ta oferta jest już nieaktualna.
 Your purchase could not be completed. We are experiencing technical difficulties. Please try again later.	Nie można dokończyć zakupów. Mamy teraz problemy techniczne. Spróbuj ponownie później.

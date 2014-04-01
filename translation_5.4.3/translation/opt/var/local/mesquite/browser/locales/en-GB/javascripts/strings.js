@@ -46,11 +46,11 @@ Upload File	Załaduj plik
 We are experiencing some technical difficulties. Please try again later.	Mamy problemy techniczne. Spróbuj ponownie później.
 Web Address	Adres internetowy
 Web Browser cannot download files using this protocol. &nbsp;Only HTTP and HTTPS protocols are supported.	Przeglądarka nie może pobierać plików za pomocą tego protokołu. Obsługiwane są jedynie protokoły HTTP i HTTPS.
-Web Browser cannot download this kind of file.<p>Only files with the extension .AZW, .PRC, .MOBI or .TXT can be downloaded to your Kindle.</p>	Przeglądarka nie może pobrać pliku tego typu.<p>Na Kindle można pobierać tylko pliki o rozszerzeniach .AZW, .PRC, .MOBI, oraz .TXT.</p>
+Web Browser cannot download this kind of file.<p>Only files with the extension .AZW, .PRC, .MOBI or .TXT can be downloaded to your Kindle.</p>	Przeglądarka nie może pobrać pliku tego typu.<p>Na Kindle można pobierać tylko pliki o rozszerzeniach .AZW, .PRC, .MOBI oraz .TXT.</p>
 Web Browser does not support file uploads.	Przeglądarka nie obsługuje uploadu plików.
 Web Browser downloaded {filename} successfully.	Przeglądarka prawidłowo pobrała plik {filename}.
 Web Browser is unable to establish a secure connection. Do you still want to proceed?	Przeglądarka nie jest w stanie ustanowić bezpiecznego połączenia. Czy nadal chcesz kontynuować?
-Web Browser requires a Wi-Fi connection. &nbsp;Tap OK to establish a Wi-Fi connection.	Przeglądarka wymaga połączenia z siecią Wi-Fi.&nbsp;Dotknij OK aby połączyć z siecią Wi-Fi.
+Web Browser requires a Wi-Fi connection. &nbsp;Tap OK to establish a Wi-Fi connection.	Przeglądarka wymaga połączenia z siecią Wi-Fi.&nbsp;Dotknij OK, aby połączyć z siecią Wi-Fi.
 Web Browser was unable to download {filename}. &nbsp;Please try again later.	Przeglądrka nie może pobrać {filename}. &nbsp;Spróbuj ponownie później.
 Web Mode	Tryb strony internetowej
 Web	Internet

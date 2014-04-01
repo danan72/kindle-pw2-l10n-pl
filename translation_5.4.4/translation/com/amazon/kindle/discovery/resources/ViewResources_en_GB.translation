@@ -20,7 +20,7 @@ Edit Profile	Edytuj profil
 Enter your full name or your first name here. This will be the name that appears on your public Amazon and Goodreads profiles.	Wprowadź tutaj swoje pełne personalia lub samo imię. Ta nazwa będzie wyświetlana w Twoich profilach Amazon i Goodreads.
 Facebook E-mail	E-mail z Facebooka
 Facebook Password	Hasło do Facebooka
-Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Obserwuj tych wartych polecenia czytelników aby zobaczyć ich recenzje i polecenia{0,select, with_connect_message {, lub połącz się ze znajomymi z Facebooka.} other {.}}
+Follow these notable readers to view their reviews and recommendations{0,select, with_connect_message {, or connect with friends from Facebook.} other {.}}	Obserwuj tych wartych polecenia czytelników, aby zobaczyć ich recenzje i polecenia{0,select, with_connect_message { lub połącz się ze znajomymi z Facebooka.} other {.}}
 Followers ({0})	Obserwujący ({0})
 Following ({0})	Obserwowani ({0})
 Friends ({0})	Znajomi ({0})
@@ -84,8 +84,8 @@ shared an activity	udostępnił(a) aktywność
 {0,select,empty {No updates have been posted yet.~~Tap here to follow suggested readers or add Facebook friends on Goodreads } unknown {Loading updates…} other {}}	{0,select,empty {Nie ma jeszcze żadnej aktualizacji.~~Dotknij tutaj, aby zacząć obserwować poleconych czytelników lub dodać do Goodreads znajomych z Facebooka } unknown {Ładowanie aktualizacji…} other {}}
 {0,select,empty {Not following any readers yet.} unknown {Loading…} other {}}	{0,select,empty {Nie obserwujesz jeszcze żadnego czytelnika.} unknown {Ładowanie…} other {}}
 {0,select,empty {Start interacting with other readers by sharing your books, notes and highlights.} unknown {Loading…} other {}}	{0,select,empty {Komunikuj się z innymi czytelnikami, dzieląc się swoimi książkami, notatkami i zaznaczeniami} unknown {Ładowanie…} other {}}
-{0,select,empty {Tap here to add books from your Amazon library } unknown {Loading…} other {}}	{0,select,empty {Dotknij tutaj aby dodać książkę ze swojej biblioteki Amazon } unknown {Ładowanie…} other {}}
-{0,select,empty {Tap here to be the first to add {1} as friend } empty_pending_friend {No friends yet.} unknown {Loading…} other {}}	{0,select,empty {Dotknij tutaj aby jako pierwszy dodać {1} do znajomych } empty_pending_friend {Brak znajomych} unknown {Ładowanie…} other {}}
+{0,select,empty {Tap here to add books from your Amazon library } unknown {Loading…} other {}}	{0,select,empty {Dotknij tutaj, aby dodać książkę ze swojej biblioteki Amazon } unknown {Ładowanie…} other {}}
+{0,select,empty {Tap here to be the first to add {1} as friend } empty_pending_friend {No friends yet.} unknown {Loading…} other {}}	{0,select,empty {Dotknij tutaj, aby jako pierwszy dodać {1} do znajomych } empty_pending_friend {Brak znajomych} unknown {Ładowanie…} other {}}
 {0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} other {}}	{0,select,empty {Dotknij tutaj, aby zacząć obserwować poleconych czytelników lub dodać znajomych z Facebooka } unknown {Ładowanie…} other {}}
 {0,select,empty {There arenʼt any books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} other {}}	{0,select,empty {W Twojej bibliotece nie ma żadnych książek.~~Zobacz co czytają Twoi znajomi } unknown {Ładowanie książek z Amazon…} other {}}
 {0,select,empty {There arenʼt any books in your library. You can always add some later.} unknown {Loading Amazon books…} other {}}	{0,select,empty {W Twojej bibliotece nie ma żadnych książek. Zawsze możesz je później dodać.} unknown {Ładowanie książek z Amazon…} other {}}
