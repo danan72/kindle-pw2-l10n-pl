@@ -1,0 +1,7 @@
+/* Give Amazon application code all permissions, this 
+   may be restricted in the future.  Note that the absolute
+   path here should be replaced once Amazon's jars are signed. 
+ */
+grant codeBase "file:/opt/amazon/ebook/booklet/-" {
+  permission java.security.AllPermission;
+};

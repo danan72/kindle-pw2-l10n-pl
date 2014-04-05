@@ -1,0 +1,86 @@
+Menu	Menu
+Shop in Kindle Store	Zakupy w Kindle Store
+Buy This Book Now	Kup teraz tę książkę
+Book Description	Opis książki
+View in Store	Pokaż w sklepie
+Settings	Ustawienia
+Fonts	Czcionki
+Contrast	Kontrast
+Cancel	Anuluj
+OK	OK
+Publisher Font	Czcionka wydawcy
+Line spacing	Interlinia
+Margins	Marginesy
+Go To	Idź do
+Table of Contents	Spis treści
+Go to...	Idź do...
+Table of Contents...	Spis treści...
+Cover	Okładka
+Beginning	Początek
+End	Koniec
+Go to Page or Location	Przejdź do strony lub lokacji
+Page or Location	Strona lub lokacja
+Page 	Strona
+Location	Lokacja
+Enter a page ({0}) or location ({1} - {2})	Podaj stronę ({0}) lub lokację ({1} - {2})
+Enter a page (1 - {0}) or location ({1} - {2})	Podaj stronę (1 - {0}) lub lokację ({1} - {2})
+Enter a page or location ({1} - {2})	Podaj stronę lub lokację ({1} - {2})
+Enter a page ({0})	Podaj stronę ({0})
+Enter a page (1 - {0})	Podaj stronę (1 - {0})
+Enter a page	Podaj stronę
+Enter a location ({0} - {1})	Podaj lokację ({0} - {1})
+Loc {0}	Lokacja {0}
+Page {0}	Strona {0}
+{0} of {1}	{0} z {1}
+More	Więcej
+Add Note	Dodaj notatkę
+View Note	Zobacz notatki
+Edit Note	Edytuj notatkę
+Delete Note	Usuń notatkę
+Highlight	Zaznacz
+Delete	Usuń
+Dictionary	Słownik
+Sync	Synchronizuj
+Sync Results	Status synchronizacji
+Already at furthest read location.	Jesteś już w ostatnio czytanej lokacji.
+Unable to Sync	Nie można zsynchronizować
+To sync to the furthest page read, annotations backup must be turned on. Go to Settings from the Home screen menu and turn on Annotations Backup, then try again.	Aby możliwa była synchronizacja ostatniej czytanej strony, należy włączyć w Ustawieniach tworzenie kopii bezpieczeństwa adnotacji.
+Unable to retrieve the furthest location read. If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	Nie można pobrać ostatniej czytanej lokacji. Jeśli otwarłeś tą książkę po raz pierwszy, to czytnik zaktualizuje Twoją lokację gdy zamkniesz książkę lub urządzenie zostanie uśpione.
+You are currently at location {0}. The furthest read location across all your devices is {2}. Go to that location?	Jesteś w lokacji {0}. Najdalsza lokacja, w której byłeś to {2}. Przejść do tej lokacji?
+You are currently on page {0}. The furthest read page across all your devices is {2}. Go to that page?	Jesteś na stronie {0}. Najdalsza strona, na której byłeś to {2}. Przejść do tej strony?
+You are currently on page {0}. You have read further on this page across all your devices. Go to the furthest place read?	Jesteś na  stronie {0}. Na innym urządzeniu dotarłeś dalej. Przejść do dalszej strony?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	Jesteś na nienumerowanej stronie w {1,number,percent} książki. Najdalsza strona, na której byłeś to nienumerowana strona w {3,number,percent} książki. Przejść do tej strony?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further into this book across all your devices. Go to the furthest place read?	Jesteś na nienumerowanej stronie, {1,number,percent} książki. Na innym urządzeniu dotarłeś dalej. Przejść do dalszej strony?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page across all your devices is {2}, {3,number,percent} into the book. Go to that page?	Jesteś na nienumerowanej stronie w {1,number,percent} książki. Najdalsza strona, na której byłeś to {2} w {3,number,percent} książki. Przejść do tej strony?
+You are currently on page {0}, {1,number,percent} into the book. The furthest read page across all your devices is an unnumbered page, {3,number,percent} into the book. Go to that page?	Jesteś na stronie {0} w {1,number,percent} książki. Najdalsza strona, na której byłeś to nienumerowana strona w {3,number,percent} książki. Przejść do tej strony?
+You are currently at location {0}. The furthest read location is {2} from "{4}" at {5,time,short} {6}. Go to that location?	Jesteś w lokacji {0}. Najdalsza lokacja, w której byłeś to {2} ({6} o godz. {5,time,short} na "{4}"). Przejść do tej lokacji?
+You are currently on page {0}. The furthest page read is {2}, from "{4}" at {5,time,short} {6}. Go to that page?	Jesteś na stronie {0}. Najdalsza przeczytana strona to {2} ({6} o godz. {5,time,short} na "{4}"). Przejść do tej strony?
+You are currently on page {0}. You have read further on this page, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	Jesteś na stronie {0}. Już ją wcześniej czytałeś, {6} o godz. {5,time,short} na "{4}". Czy przejść do ostatniego czytanego miejsca?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	Jesteś na nienumerowanej stronie w {1,number,percent} książki. Najdalsza strona, na której byłeś to nienumerowana strona w {3,number,percent} książki ({6} o godz. {5,time,short} na "{4}"). Przejść do tej strony?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further into this book, from "{4}" at {5,time,short} {6}. Go to the furthest point read?	Jesteś na nienumerowanej stronie, {1,number,percent} książki. Najdalsza przeczytana strona, z "{4}" dnia {5,time,short} {6}. Przejść do tej strony?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest page read is {2}, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	Jesteś na nienumerowanej stronie, {1,number,percent} książki. Najdalsza strona, na której byłeś to {2} w {3,number,percent} książki ({6} o godz. {5,time,short} na "{4}"). Przejść do tej strony?
+You are currently on page {0}, {1,number,percent} into the book. The furthest page read is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5,time,short} {6}. Go to that page?	Jesteś na stronie {0} w {1,number,percent} książki. Najdalsza strona, na której byłeś to nienumerowana strona w {3,number,percent} książki ({6} o godz. {5,time,short} na "{4}"). Przejść do tej strony?
+on {7,date,long}	w dniu {7,date,long}
+yesterday	wczoraj
+today	dzisiaj
+Retrieving furthest page read...	Pobieram ostatnio czytaną stronę...
+Close	Zamknij
+Password Protected	Zabezpieczone hasłem
+Incorrect Password	Nieprawidłowe hasło
+This PDF is password protected.	Ten PDF jest zabezpieczony hasłem.
+Incorrect password. Please try again.	Nieprawidłowe hasło. Spróbuj jeszcze raz.
+Enter password: 	Wprowadź hasło: 
+Submit	Prześlij
+Note	Notatki
+Save	Zapisz
+Lock Rotation	Blokada rotacji
+Unlock Rotation	Odblokowanie rotacji
+Lightest	Najjaśniejszy
+Darkest	Najciemniejszy
+Normal	Normalny
+There is not enough Kindle memory to add or edit notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Nie można dodać/edytować notatki lub oznaczenia ponieważ na Twoim Kindle brakuje wolnej pamięci. Aby zwolnić pamięć, usuń część zawartości.
+Low Memory	Mało pamięci
+My Items	Wszystkie
+Kindle Store	Kindle Store
+This Book	Ta książka
+Search	Szukaj

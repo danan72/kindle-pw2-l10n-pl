@@ -1,0 +1,8 @@
+Collection Name	Nazwa kolekcji
+The collection name that you entered already exists. Please enter a different name.	Nazwa kolekcji, którą wybrałeś, już istnieje. Wybierz inną.
+Title Pronunciation	Wymowa tytułu
+Title	Tytuł
+Author	Autor
+{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	{0,choice,0#Brak pozycji | 1#{0,number,integer} pozycja | 2#{0,number,integer} pozycje | 5#{0,number,integer} pozycji}
+Edit Kana	Edytuj Kana
+Edit Pronunciation	Edytuj wymowę

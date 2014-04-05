@@ -1,0 +1,2 @@
+Buy ▶	Kup ▶
+Read for Free time remaining : {0,choice,0#0 mins.|1#'<1 min.'|1<{0,number,integer} mins.}	Pozostały czas bezpłatnego czytania : {0,choice,0#0 min.|1#'<1 min.'|1<{0,number,integer} min.}

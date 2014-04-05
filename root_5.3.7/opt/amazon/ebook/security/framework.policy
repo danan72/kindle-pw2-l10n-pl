@@ -1,0 +1,10 @@
+/* Give framework and library code all permissions.
+   Note that the absolute path here should be replaced 
+   once Amazon's jars are signed. 
+ */
+grant codeBase "file:/opt/amazon/ebook/lib/-" {
+  permission java.security.AllPermission;
+};
+grant codeBase "file:/usr/local/ebook/lib/-" {
+  permission java.security.AllPermission;
+};

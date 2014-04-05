@@ -1,0 +1,66 @@
+Cancel	Anuluj
+OK	OK
+Delete This Book	Usuń tę książkę
+{0}~~~~Are you sure you want to delete this book?	{0}~~~~Czy na pewno chcesz usunąć tą książkę?
+Delete This Sample	Usuń tę próbkę
+{0}~~~~Are you sure you want to delete this sample?	{0}~~~~Czy na pewno chcesz usunąć tą próbkę?
+Delete This Collection	Usuń tę kolekcję
+{0} ({1,number,integer})~~~~The contents of the collection will not be deleted. Are you sure you want to delete this collection?	{0} ({1,number,integer})~~~~Zawartość kolekcji nie zostanie usunięta. Czy na pewno chcesz usunąć tą kolekcję?
+Delete This Document	Usuń ten dokument
+{0}~~~~Are you sure you want to delete this document?	{0}~~~~Czy na pewno chcesz usunąć ten dokument?
+Delete This Issue	Usuń to wydanie
+{0}: {1,date,EEE}, {1,date,medium}~~~~Are you sure you want to delete this issue?	{0}: {1,date,EEE}, {1,date,medium}~~~~Czy na pewno chcesz usunąć ten problem?
+Delete This Blog	Usuń tego bloga
+{0}~~~~Are you sure you want to delete this blog?	{0}~~~~Czy na pewno chcesz usunąć ten blog?
+Remove from Device	Usuń z urządzenia
+{0}~~~~This item will be moved to the Cloud but any application data or settings associated with it will be deleted permanently. Would you like to continue?	{0}~~~~Ta pozycja zostanie przeniesiona do chmury, ale wszystkie dane i ustawienia z nią związane zostaną trwale usunięte. Czy chcesz kontynuować?
+Delete This MP3	Usuń tę MP3
+{0}~~~~Are you sure you want to delete this MP3?	{0}~~~~Czy na pewno chcesz usunąć ten plik MP3?
+Delete This Item	Usuń tą pozycję
+{0}~~~~Are you sure you want to delete this item?	{0}~~~~Czy na pewno chcesz usunąć tą pozycję?
+Delete This Receipt	Usuń ten przepis
+{0}~~~~Are you sure you want to delete this receipt?	{0}~~~~Czy na pewno chcesz usunąć to potwierdzenie?
+Delete This Notice	Usuń tę notatkę
+{0}~~~~Are you sure you want to delete this notice?	{0}~~~~Czy na pewno chcesz usunąć to ogłoszenie?
+Delete This Letter	Usuń ten list
+{0}~~~~Are you sure you want to delete this letter?	{0}~~~~Czy na pewno chcesz usunąć ten list?
+Delete This Audiobook	Usuń tego audiobooka
+{0}~~~~Are you sure you want to delete this audiobook?	{0}~~~~Czy na pewno chcesz usunąć ten audiobook?
+Delete This Image Package	Usuń tą paczkę obrazków
+{0}~~~~Are you sure you want to delete this image package?	{0}~~~~Czy na pewno chcesz usunąć tą paczkę obrazków?
+Delete This Image Folder	Usuń ten katalog obrazków
+{0}~~~~Are you sure you want to delete this image folder?	{0}~~~~Czy na pewno chcesz usunąć ten katalog obrazków?
+Delete This Image	Usuń ten obrazek
+{0}~~~~Are you sure you want to delete this image?	{0}~~~~Czy na pewno chcesz usunąć ten obrazek?
+Delete	Usuń
+ pending	 trwa...
+pending	trwa...
+ Wi-Fi required	 wymagana sieć Wi-Fi
+Wi-Fi required	wymagane Wi-Fi
+ connection required	 wymagane połączenie
+connection required	wymagane połączenie
+ insufficient space	 mało miejsca
+insufficient space	za mało miejsca
+on loan	wypożyczone
+licence at limit	kończy się licencja
+ downloading - {0,choice,0.09#' {0,number,#%}'|0.09<'{0,number,#%}'}	 pobieranie - {0,choice,0.09#' {0,number,#%}'|0.09<'{0,number,#%}'}
+{0,choice,0.09#' {0,number,#%}'|0.09<'{0,number,#%}'}	{0,choice,0.09#' {0,number,#%}'|0.09<'{0,number,#%}'}
+download complete	pobrano
+Tap to Open	Dotknij, aby otworzyć
+ error	 błąd
+error	błąd
+	
+Wi-Fi Required	Wymagane połączenie Wi-Fi
+"{0}" cannot be delivered due to file size. You can either cancel the download, transfer the item via USB, or connect to Wi-Fi to download this item.	Pozycja "{0}" nie może być dostarczona ze względu na duży rozmiar pliku. Zrezygnuj z pobierania i skopiuj pozycję przez kabel USB lub połącz z Wi-Fi i ponownie pobierz pozycję.
+"{0}" cannot be delivered. You can either cancel the download or connect to Wi-Fi to download this item.	Nie udało się dostarczyć pliku "{0}". Zrezygnuj z pobierania lub połącz się z siecią Wi-Fi i ponownie spróbuj pobrać tą pozycję.
+Connect	Połącz
+Turn On Wireless?	Czy włączyć sieć bezprzewodową?
+"{0}" cannot be downloaded because wireless is turned off. You can either cancel the download or turn wireless on.	Nie można pobrać "{0}", ponieważ łączność bezprzewodowa jest wyłączona. Zrezygnuj z pobierania lub włącz Wi-Fi.
+Aeroplane Mode	Tryb samolotowy
+"{0}" cannot be downloaded because Aeroplane Mode is turned on. You can either cancel the download or turn Airplane Mode off.	Nie można pobrać "{0}", ponieważ włączony jest tryb samolotowy. Zrezygnuj z pobierania lub wyłącz tryb samolotowy.
+Turn Off	Wyłącz
+Network Connection Failed	Bład połączenia sieciowego
+"{0}" cannot be downloaded because your Kindle has lost its connection to the network. You can either cancel the download or try connecting to a network again.	Nie można pobrać "{0}", ponieważ połączenie sieciowe zostało utracone. Zrezygnuj z pobierania lub spróbuj ponownie połączyć się z siecią.
+Memory is Full	Pamięć jest pełna
+"{0}" cannot be downloaded because your Kindle doesn't have enough free memory. You can either make more Kindle memory available by removing content from Home, or cancel the download.	Nie można pobrać "{0}", ponieważ urządzeniu jest zbyt mało wolnej pamięci. Zrezygnuj z pobierania lub zwolnij pamięć, usuwająć część zawartości.
+Cancel Download	Przewij pobieranie

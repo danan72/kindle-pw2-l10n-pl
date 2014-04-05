@@ -1,0 +1,33 @@
+Register Your Kindle	Zarejestruj swojego Kindle
+Enter your Amazon account information.	Wprowadź dane Twojego konta Amazon.
+E-mail Address	Adres e-mail
+Password	Hasło
+Register	Rejestruj
+Registration Help	Pomoc przy rejestracji
+The e-mail address and password you entered do not match any Amazon accounts on record. Please make sure that you have correctly entered the e-mail address associated with your Amazon account. For further details please contact Kindle Customer Service at www.kindle.com/support.	Adres e-mail i hasło, które podałeś nie pasują do żadnego konta Amazon. Upewnij się, że wpisałeś poprawnie adres e-mail powiązany z twoim kontem Amazon. W celu uzyskania dalszych szczegółów skontaktuj się z pomocą Kindle na www.kindle.com/support.
+Cancel	Anuluj
+Try Again	Spróbuj ponownie
+Unable to Connect	Nie można się połączyć
+There was an error while registering your Kindle. Please try again later.	Nastąpił błąd podczas rejestracji twojego Kindle. Spróbuj ponownie później.
+Registering Your Kindle…	Rejestruję Twojego Kindle...
+Registration Failed	Rejestracja niepowiodła się
+Hide Password	Ukryj hasło
+Deregister Your Kindle	Wyrejestruj swojego Kindle
+Your Kindle will be deregistered from your Amazon account and many features will not work. After deregistering, you can register your Kindle to another Amazon account.~~Are you sure you want to deregister?	Jeśli Twój Kindle zostanie wyrejestrowany, to wiele funkcji przestanie działać. Po wyrejestrowaniu będziesz mógł zarejestrować urządzenie na innym koncie Amazon.~~Czy na pewno chcesz wyrejestrować?
+Deregister	Wyrejestruj
+Deregistering Your Kindle…	Wyrejestrowuję Kindle...
+There was an error while deregistering your device. Please try again later.	Nastąpił błąd podczas wyrejestrowywania urządzenia. Proszę spróbuj później.
+Device Time	Czas
+OK	OK
+Set Automatically	Ustaw automatycznie
+Hint	Wskazówka
+Device Info	Informacje o urządzeniu
+<html><b>Wi-Fi MAC Address:</b>&nbsp;{1}<br/><b>Serial Number:</b>&nbsp;{2}<br/><b>Network Capability:</b>&nbsp;{3}<br/><b>Firmware Version:</b>&nbsp;{4}<br/><b>Space Available:</b>&nbsp;{0,choice,-1#Unknown|0#{0,number,integer} MB free}{5,choice,0#|1#'<br/><b>Policy ID:</b>&nbsp;'{6}}</html>	<html><b>Adres MAC Wi-Fi:</b>&nbsp;{1}<br/><b>Nr seryjny:</b>&nbsp;{2}<br/><b>Właściwości sieci:</b>&nbsp;{3}<br/><b>Wersja oprogramowania:</b>&nbsp;{4}<br/><b>Dostępne miejsce:</b>&nbsp;{0,choice,-1#brak danych|0#{0,number,integer} MB}{5,choice,0#|1#'<br/><b>ID Polisy:</b>&nbsp;'{6}}</html>
+Wi-Fi	Wi-Fi
+3G	3G
+Wi-Fi + 3G	Wi-Fi + 3G
+Unavailable	Niedostępna
+Device Name	Nazwa urządzenia
+Personalise your Kindle by giving it a name that appears on the Home page.	Spersonalizuj swojego Kindle nadając mu nazwę, która będzie wyświetlana na ekranie głównym.
+Save	Zapisz
+Your Kindle is unable to connect at this time. Please make sure you are within wireless range and try again. If the problem persists, restart your Kindle from Menu in Settings and try again.	Twój Kindle nie może się teraz połączyć. Upewnij się, że jesteś w zasięgu sieci i spróbuj ponownie. Jeśli problem występuje dalej zrestartuj urządzenie i spróbuj ponownie.

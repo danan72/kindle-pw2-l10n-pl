@@ -1,0 +1,9 @@
+Audible Book	Książka Dźwiękowa
+MP3	MP3
+Page {0,number,integer} of {1,number,integer}	Strona {0,number,integer} z {1,number,integer}
+Narrator: 	Narrator:
+Date: 	Data:
+{0,date,yyyy}	{0,date,yyyy}
+Length: 	Długość:
+Unknown	Nieznany
+Close	Zamknij

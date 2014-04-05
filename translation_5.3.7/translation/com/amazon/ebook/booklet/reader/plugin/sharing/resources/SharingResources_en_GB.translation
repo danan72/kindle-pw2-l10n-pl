@@ -1,0 +1,26 @@
+Enter Your Message	Wpisz swoją wiadomość
+A link to the passage will be included with your message.	Link do fragmentu będzie dołączony do Twojej wiadomości.
+A link to the book will be included with your message.	Link do książki będzie dołączony do Twojej wiadomości.
+Share	Udostępnij
+Cancel	Anuluj
+{0,choice,-2#{1} characters over|-1#{1} character over|0#No characters left|1#{1} character left|2#{1} characters left}	{0,choice,-2#znaków za dużo: {1}|-1#{1} znak za dużo|0#Właściwa liczba znaków|1#{1} znak za mało|2#znaków za mało: {1}}
+Manage	Zarządzaj
+Register	Rejestruj
+Close	Zamknij
+Message Shared	Wiadomość udostępniona
+Social Networks Not Registered	Sieci społecznościowe niepowiązane
+Your Kindle is not registered with any social networks. Selecting Register below will open the Manage Your Social Networks web page so you can enter your account information. When your registration is complete, select Continue reading to return to this item.	Twój Kindle nie jest zarejestrowany w żadnej sieci społecznościowej. Po wybraniu przycisku Rejestruj, znajdującego się poniżej, otwarta zostanie strona służąca do zarządzania sieciami społecznościowymi, gdzie będziesz mógł wprowadzić dane swojego konta. Gdy rejestracja się zakończy, wybierz "Kontunuuj lekturę", aby powrócić do tej pozycji.
+Invalid Social Networks	Niepoprawne sieci społecznościowe
+One or more of the social networks registered to your Kindle are not configured properly. Selecting Manage below will open the Manage Your Social Networks web page so you can enter your account information. When your changes are complete, select "Continue reading" to return to this item.	Jedna lub więcej sieci społecznościowych nie jest skonfigurowana poprawnie. Wybierz "Zarządzaj" poniżej, aby edytować konfigurację sieci społecznościowych. Gdy zakończysz zmiany wybierz "Kontynuuj czytanie" aby powrócić do tej pozycji.
+Sharing Unavailable	Udostępnianie niemożliwe
+The sharing service is currently unavailable. Please try again later.	Serwis udostępniania jest obecnie niedostępny. Spróbuj ponownie później.
+Sharing Not Supported	Udostępnianie nie jest wspierane
+This content does not support sharing.	Ta treść nie wspiera udostępniania.
+Communication Error	Błąd komunikacji
+The sharing service encountered a communication error. Please try again later.	Serwis udostępniania napotkał błąd komunikacji. Spróbuj ponownie później.
+Sharing Failed	Udostępnianie nieudane
+The sharing service encountered an unrecoverable error. Sharing cancelled.	Usługa udostępniania napotkała na nieodwracalny błąd. Udostępnianie anulowane.
+Clipping Error	Błąd podczas wycinania
+Unable to share. You have reached the clipping limit for this item.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tej pozycji.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tej pozycji ustawiony przez wydawcę.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	Nie można udostępnić. Wyczerpałeś limit udostępnień dla tej pozycji ustawiony przez wydawcę {0}.

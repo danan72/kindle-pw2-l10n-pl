@@ -1,0 +1,8 @@
+Language and Dictionaries
+Language
+Set the language for your Kindle.
+Keyboards
+Add keyboards for different languages.
+{0,choice, 0#No Keyboards | 1#{0, number, integer} Keyboard | 2#{0, number, integer} Keyboards}
+Dictionaries
+Set the default dictionary for each language.

@@ -1,0 +1,10 @@
+Add/Remove Items	Dodaj/Usuń pozycje
+Rename This Collection	Zmień nazwę kolekcji
+Delete This Collection	Usuń tę kolekcję
+Edit Pronunciation	Edytuj wymowę
+{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	{0,choice,0#Brak pozycji | 1#{0,number,integer} pozycja | 2#{0,number,integer} pozycje | 5#{0,number,integer} pozycji}
+Add To Home	Dodaj do ekranu głównego
+Date: 	Data:
+Unknown	Nieznany
+Narrator: 	Narrator:
+Delete	Usuń

@@ -1,0 +1,13 @@
+Turn On Reading Timer	Włącz licznik czasu czytania
+Turn Off Reading Timer	Wyłącz licznik czasu czytania
+Updating...	Aktualizacja...
+Learning reading speed...	Obserwacja szybkości czytania...
+Learning reading speed ({0, number, percent})	Obserwacja szybkości czytania ({0, number, percent})
+{0, choice,0#Chapter complete|60#Time left in chapter: {1}}	{0, choice,0#Rozdział przeczytany|60#{1} do końca rozdziału}
+{0, choice,0#Book complete|60#Time left in book: {1}}	{0, choice,0#Książka przeczytana|60#{1} do końca książki}
+Reset Reading Timer	Wyzerowanie miernika szybkości czytania
+Reading Progress	Wskaźnik postępu czytania
+Select Reading Progress	Wybierz wskaźnik postępu czytania
+Location in book	Lokacja w książce
+Time left in book	Czas do końca książki
+Time left in chapter	Czas do końca rozdziału

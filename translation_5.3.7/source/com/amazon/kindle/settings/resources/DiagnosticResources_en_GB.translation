@@ -1,0 +1,41 @@
+Available Wireless Providers
+Cancel
+OK
+Scanning for available wireless providers. This may take several minutes...
+Currently you are connected to: {0}~~Select "Switch automatically" to allow your Kindle to automatically choose the best wireless provider (default).
+Unknown
+Switching Wireless Providers
+Your Kindle will lose its connection during this process. Manually switching wireless providers may take several minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network.~~~~Do you wish to continue?
+Switch automatically (recommended)
+2G
+3G
+EDGE
+3G+
+Page {0,number,integer} of {1,number,integer}
+<html><body><p>{0}</p></body></html>
+Retrieving data…
+Close
+311 Page
+411 Page
+<html><body><p>{0}<br/><br/>********* 2- Device Status *********<br/>2.1 Server info: The WEBSITE, TODO, CDE server is {1}, {2}, {3}<br/>2.2 Waveform Version: {4}<br/>2.3 Kindle Store Website: {5}<br/>2.4 OTA State: {6, choice, 0#OTA Current|1#OTA Update Available}<br/>2.5 OTA Software Version: {7}<br/>2.6 Available OTA Version: {8}<br/>2.7 Neonode FW Version: {9}</p></body></html>
+0#DOWN|1#UP
+611 Page
+Sorry, WAN information is not available at this time.
+<html><body><p>{0}<br/><br/>{1}</p></body></html>
+711 Page
+The device does not have WiFi
+Ping
+Traceroute
+Tcpdump
+Start tcpdump
+Stop tcpdump
+Capture Portal
+Test Download Speed
+Test Download
+<br/>********* {0,number,integer}- {1} *********<br/>
+URL to ping
+URL to traceroute
+URL to download file from
+Tcpdump is not running
+Tcpdump is running
+{0,date,full} {1,time,full}~~Downloading from {2}

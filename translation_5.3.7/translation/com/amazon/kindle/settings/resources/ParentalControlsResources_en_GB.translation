@@ -1,0 +1,18 @@
+Parental Controls	Kontrola rodzicielska
+When Parental Controls are enabled, Deregistration and Reset Device are disabled.~~~~When Kindle Store is locked, you can continue buying books on your computer and send them to your Kindle.	Gdy włączona jest kontrola rodzicielska, to nie można wyrejestrować urządzenia i przywrócić ustawień fabrycznych.~~~~Gdy zablokowany jest sklep Kindle Store, możesz w dalszym ciągu kupować książki na swoim komputerze, a następnie wysyłać je na swojego Kindle.
+Web Browser	Przeglądarka internetowa
+Access to Experimental Web Browser	Dostęp do przeglądarki internetowej
+Cloud	Chmura
+Access to Cloud	Dostęp do chmury
+Kindle Store	Kindle Store
+Access to Kindle Store	Dostęp do sklepu Kindle Store
+Cancel	Anuluj
+OK	OK
+Set Parental Controls Password:	Ustaw hasło kontroli rodzicielskiej:
+Enter Parental Controls Password:	Wprowadź hasło kontroli rodzicielskiej:
+Incorrect password. Please try again:	Nieprawidłowe hasło. Spróbuj jeszcze raz:
+Confirm Password	Zatwierdź hasło
+Enter Password Hint: Enter a phrase that can help you remember your password.	Wskazówka dotycząca wprowadzonego hasła, która pomoże ci je sobie później przypomnieć. 
+{0,choice,0#|1#Hint: {1}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.kindle.com/support to receive help resetting your device.	{0,choice,0#|1#Wskazówka: {1}}~~~~Jeśli zapomniałeś swoje hasło, to skontaktuj się z działem obsługi klienta Kindle na www.kindle.com/support w celu zresetowania Twojego urządzenia.
+Passwords Do Not Match. Please try again.	Hasła się różnią. Spróbuj jeszcze raz.
+Please enter a valid password.	Proszę wprowadzić prawidłowe hasło.

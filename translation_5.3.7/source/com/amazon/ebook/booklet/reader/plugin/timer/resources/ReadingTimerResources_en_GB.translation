@@ -1,0 +1,13 @@
+Turn On Reading Timer
+Turn Off Reading Timer
+Updating...
+Learning reading speed...
+Learning reading speed ({0, number, percent})
+{0, choice,0#Chapter complete|60#Time left in chapter: {1}}
+{0, choice,0#Book complete|60#Time left in book: {1}}
+Reset Reading Timer
+Reading Progress
+Select Reading Progress
+Location in book
+Time left in book
+Time left in chapter

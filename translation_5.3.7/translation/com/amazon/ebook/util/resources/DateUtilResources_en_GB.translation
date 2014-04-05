@@ -1,0 +1,13 @@
+{0,choice,0#{1,number,0} min. {2,number,00} sec.|1#{0,number,0} hr. {1,number,0} min. {2,number,00} sec.}	{0,choice,0#{1,number,0} min. {2,number,00} sek.|1#{0,number,0} g. {1,number,0} min. {2,number,00} sek.}
+{6} {6,choice,0#seconds|1#second|1<seconds}	{6} {6,choice,0#sek.|1#sek.|1<sek.}
+{5} {5,choice,0#minutes|1#minute|1<minutes} and {6} {6,choice,0#seconds|1#second|1<seconds}	{5} {5,choice,0#min.|1#min.|1<min.} and {6} {6,choice,0#sek.|1#sek.|1<sek.}
+{4} {4,choice,0#hours|1#hour|1<hours}, {5} {5,choice,0#minutes|1#minute|1<minutes}, and {6} {6,choice,0#seconds|1#second|1<seconds}	{4} {4,choice,0#godz.|1#godz.|1<godz.}, {5} {5,choice,0#min.|1#min.|1<min.}, and {6} {6,choice,0#sek.|1#sek.|1<sek.}
+{3,choice,1#{3} day|1<{3} days}	{3,choice,1#{3} dzień|1<{3} dni}
+{2,choice,1#{2} month|1<{2} months}	{2,choice,1#{2} miesiąc|1<{2} miesiące|4<{2} miesięcy}
+{1,choice,1#{1} year|1<{1} years}	{1,choice,1#{1} rok|1<{1} lata|4<{1} lat}
+{6} {6,choice,0#secs.|1#sec.|1<secs.}	{6} {6,choice,0#sek.|1#sek.|1<sek.}
+{5} {5,choice,0#mins.|1#min.|1<mins.} {6} {6,choice,0#secs.|1#sec.|1<secs.}	{5} {5,choice,0#min.|1#min.|1<min.} {6} {6,choice,0#sek.|1#sek.|1<sek.}
+{4} {4,choice,0#hrs.|1#hr.|1<hrs.} {5} {5,choice,0#mins.|1#min.|1<mins.} {6} {6,choice,0#secs.|1#sec.|1<secs.}	{4} {4,choice,0#godz.|1#godz.|1<godz.} {5} {5,choice,0#min.|1#min.|1<min.} {6} {6,choice,0#sek.|1#sek.|1<sek.}
+0 m	0 min.
+{5} m	{5} min.
+{4} h {5} m	{4} godz. {5} min.

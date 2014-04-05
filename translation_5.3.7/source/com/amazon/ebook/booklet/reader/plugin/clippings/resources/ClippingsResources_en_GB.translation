@@ -1,0 +1,5 @@
+on Page {0} | {1}
+on Unnumbered Page | {0}
+on {0}
+{3,choice,0#|1#{0}} <{1,choice,-1#This item is password protected|0#You have reached the clipping limit for this item|1#You have reached the clipping limit set by the publisher, {2}}>
+{0} {1,choice,0# |1#({2})}$$~~- {3} {4} | Added on {5,date,full} {5,time,medium}$$~~$$~~{6}$$~~==========$$~~
