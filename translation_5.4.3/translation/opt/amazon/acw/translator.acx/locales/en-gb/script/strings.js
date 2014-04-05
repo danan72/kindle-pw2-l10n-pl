@@ -2,7 +2,7 @@ About Translation	O tłumaczeniu
 Aeroplane Mode must be turned off to use this feature.	Aby skorzystać z tej funkcji trzeba wyłączyć tryb samolotowy.  
 An error occurred. Please try again.	Wystąpił błąd. Spróbuj ponownie później.
 Back to Translation	Wróć do tłumaczenia
-Chinese Simplified	Chiński prosty
+Chinese Simplified	Chiński uproszczony
 Chinese Traditional	Chiński tradycyjny
 Czech	Czeski
 Danish	Duński
