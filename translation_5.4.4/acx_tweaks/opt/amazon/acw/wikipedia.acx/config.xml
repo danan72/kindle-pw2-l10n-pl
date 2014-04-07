@@ -51,7 +51,7 @@
     
     <access origin="https://wiki-acx.amazon.com" subdomains="false" kindle:authentication="token" />
     <access origin="https://wiki-acx.amazon.co.uk" subdomains="false" kindle:authentication="token" />
-    <access origin="https://www.google.cz" subdomains="true" kindle:authentication="token" />
+    <access origin="https://www.google.pl" subdomains="true" kindle:authentication="token" />
     <ui:uicontext name="selection" view="content" priority="500" />
     
     <!-- don't show Wikipedia when it's used in China -->
