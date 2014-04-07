@@ -1,7 +1,7 @@
-Beginning	Początek
-Cover Page	Okładka
-Cover	Okładka
+Beginning	Poczatek
+Cover Page	Okladka
+Cover	Okladka
 End	Koniec
-Front Matter	Strona tytułowa
+Front Matter	Strona tytulowa
 Page or Location	Strona lub lokacja
-Table of Contents	Spis treści
+Table of Contents	Spis tresci
