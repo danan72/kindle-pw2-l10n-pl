@@ -7,8 +7,8 @@ msgstr "_Anuluj"
 msgid "_OK"
 msgstr "_OK"
 
-msgid "gtk menu item height52"
+msgid "gtk menu item height"
 msgstr "52"
 
-msgid "gtk menu title height55"
+msgid "gtk menu title height"
 msgstr "55"

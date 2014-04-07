@@ -196,10 +196,11 @@ var turnOnWireless = function(wirelessMsg, wirelessButton, hideDiv, wirelessDial
     var handleSuccess = function(text) {
         wirelessDialogDiv.innerHTML = text;
         var saveHideDivDisplay = hideElement(hideDiv);
+        showElement(wirelessDialogDiv);
         document.getElementById("wireless_message").innerHTML = wirelessMsg;
         document.getElementById("turnOn").innerHTML = wirelessButton;
         document.getElementById("turnOn").onclick = function() {
-            wirelessDialogDiv.innerHTML = "";
+            hideElement(wirelessDialogDiv);
             showElement(hideDiv, saveHideDivDisplay);
             onClickCallBack();
             if (initUICallBack) {
@@ -226,7 +227,7 @@ var turnOnWireless = function(wirelessMsg, wirelessButton, hideDiv, wirelessDial
         timeout: handleError
     });
 };
-var marketplaceEU = ["A13V1IB3VIYZZH", "A1F83G8C2ARO7P", "A1PA6795UKMFR9", "APJ6JRA9NG5V4", "A1RKKUPIHCS9HS", "AD2EMQ3L3PG8S"];
+var marketplaceEU = ["A13V1IB3VIYZZH", "A1F83G8C2ARO7P", "A1PA6795UKMFR9", "APJ6JRA9NG5V4", "A1RKKUPIHCS9HS"];
 var getReader = function() {
     return kindle.reader;
 };
@@ -252,11 +253,11 @@ var Translator = function(initializer) {
     this.previousQuery = null;
     var _this = this;
     var _stringLoader = initializer.stringLoader;
-    var _serviceUrlUK = "http://david.smidovi.eu/kindle/GoogleTranslate.php";
-    var _serviceUrl = "http://david.smidovi.eu/kindle/GoogleTranslate.php";
+    var _serviceUrlUK = "http://david.smidovi.eu/kindle/gt/";
+    var _serviceUrl = "http://david.smidovi.eu/kindle/gt/";
     var _targetLanguageStorePrefix = "amazon.acx.translator.toLang.";
     var _defaultItemSuffix = "default_no_id";
-    var _localStorage = initializer.localStorage || kindle.localStorage;
+    var _localStorage = initializer.localStorage || window.localStorage;
     var getUrl = function() {
         var currentMarketplace = getMarketplace();
         var obfuscatedId = currentMarketplace.obfuscatedId;
@@ -305,59 +306,18 @@ var Translator = function(initializer) {
         }
         propagateErrorSafely(_this.onLookupError, errorMsg, widget.name);
     };
-    var errorCallBack = function(shouldInitUI) {
-        _this.showErrorMessage(_stringLoader.findString("no_network"), shouldInitUI);
+    var errorCallBack = function() {
+        _this.showErrorMessage(_stringLoader.findString("no_network"), true);
         metricLogger("NetworkUnavailable", widget.id, "NA");
     };
     var wirelessCallBack = function() {
         _this.maximizeHeight();
         _this.onLoading(_stringLoader.findString("awaiting_connectivity"));
     };
-    var lookupCachedResult = function(text, sourceLang, destLang) {
-        if (_localStorage === undefined) {
-            return undefined;
-        }
-        if (_localStorage.cachedText === undefined || _localStorage.cachedText !== text || _localStorage.cachedDestLang === undefined || _localStorage.cachedDestLang !== destLang || _localStorage.cachedResult === undefined) {
-            return undefined;
-        }
-        if (_localStorage.cachedSourceLang === undefined || (sourceLang !== undefined && sourceLang !== _localStorage.cachedSourceLang)) {
-            return undefined;
-        }
-        if (_localStorage.cachedDeviceLocale !== new Locale().locale) {
-            return undefined;
-        }
-        return JSON.parse(_localStorage.cachedResult);
-    };
-    var storeResult = function(text, sourceLang, destLang, result) {
-        if (_localStorage === undefined || sourceLang === undefined) {
-            return;
-        }
-        metricLogger("CachingTranslation", widget.id, "NA");
-        _localStorage.cachedText = text;
-        _localStorage.cachedSourceLang = sourceLang;
-        _localStorage.cachedDestLang = destLang;
-        _localStorage.cachedResult = result;
-        _localStorage.cachedDeviceLocale = new Locale().locale;
-    };
-    this.lookup = function(text, beginPosition, endPosition, sourceLanguage, destinationLanguage, shouldInitUI) {
+    this.lookup = function(text, beginPosition, endPosition, languageOptions, shouldInitUI) {
         if (!text || typeof(text) != "string" || trim(text).length === 0) {
             _this.showErrorMessage(_stringLoader.findString("no_text_selected"), shouldInitUI);
             metricLogger("InvalidText", widget.id, "NA");
-            return;
-        }
-        if (typeof(destinationLanguage) !== "string" || trim(destinationLanguage).length === 0) {
-            _this.showErrorMessage(_stringLoader.findString("unknown_error"), shouldInitUI);
-            return;
-        }
-        var cachedResult = lookupCachedResult(text, sourceLanguage, destinationLanguage);
-        if (cachedResult !== undefined) {
-            if (shouldInitUI) {
-                _this.initUI();
-            }
-            setTimeout(function() {
-                _this.onLookup(cachedResult);
-            }, 0);
-            metricLogger("CacheHit", widget.id, "NA");
             return;
         }
         var connectivityObject = getConnectivity();
@@ -366,12 +326,12 @@ var Translator = function(initializer) {
             connectivityRequest.onresponse = function(response) {
                 if (response.code === connectivityObject.ConnectivityDetails.NETWORK_AVAILABLE) {
                     if (!_this.isQueryObsolete) {
-                        lookupInternal(text, beginPosition, endPosition, sourceLanguage, destinationLanguage);
+                        lookupInternal(text, beginPosition, endPosition, languageOptions);
                     } else {
                         metricLogger("QuerySuppressed", widget.id, "NA");
                     }
                 } else {
-                    errorCallBack(shouldInitUI);
+                    errorCallBack();
                 }
             };
             if (connectivityObject.canForceConnect && connectivityObject.canForceConnect()) {
@@ -380,9 +340,6 @@ var Translator = function(initializer) {
                 var wirelessMsg;
                 var hideDiv = document.getElementById("translator-main");
                 var wirelessDialogDiv = document.getElementById("wireless");
-                var errorCallbackFn = function() {
-                    errorCallBack(shouldInitUI);
-                };
                 if (window.devicePixelRatio == 1) {
                     wirelessButton = _stringLoader.findString("turn_on_wireless");
                     wirelessMsg = _stringLoader.findString("wireless_connect_message");
@@ -390,7 +347,7 @@ var Translator = function(initializer) {
                     wirelessButton = _stringLoader.findString("turn_off_airplane_mode");
                     wirelessMsg = _stringLoader.findString("airplane_mode_message");
                 }
-                turnOnWireless(wirelessMsg, wirelessButton, hideDiv, wirelessDialogDiv, connectivityRequest, errorCallbackFn, wirelessCallBack, (shouldInitUI ? _this.initUI : undefined));
+                turnOnWireless(wirelessMsg, wirelessButton, hideDiv, wirelessDialogDiv, connectivityRequest, errorCallBack, wirelessCallBack, _this.initUI);
             } else {
                 _this.showErrorMessage(_stringLoader.findString("no_network"), shouldInitUI);
                 metricLogger("NetworkUnavailable", widget.id, "NA");
@@ -403,7 +360,7 @@ var Translator = function(initializer) {
                 if (shouldInitUI) {
                     _this.initUI();
                 }
-                lookupInternal(text, beginPosition, endPosition, sourceLanguage, destinationLanguage);
+                lookupInternal(text, beginPosition, endPosition, languageOptions);
             } else {
                 _this.isQueryObsolete = true;
                 _this.showErrorMessage(_stringLoader.findString("no_network"), shouldInitUI);
@@ -411,8 +368,13 @@ var Translator = function(initializer) {
             }
         }
     };
-    var lookupInternal = function(text, beginPosition, endPosition, sourceLanguage, destinationLanguage) {
+    var lookupInternal = function(text, beginPosition, endPosition, languageOptions) {
         _this.onLoading(_stringLoader.findString("connecting"));
+        var sourceLanguage;
+        if (languageOptions.sourceLang) {
+            sourceLanguage = languageOptions.sourceLang;
+        }
+        var destinationLanguage = languageOptions.destinationLang;
         var url = getUrl();
         var dataMap = getDataMap({
             startingPosition: beginPosition,
@@ -436,7 +398,6 @@ var Translator = function(initializer) {
                     metricLogger("JsonParseError", widget.id, "NA");
                 }
                 if (parsedResult) {
-                    storeResult(text, parsedResult.sourceLanguage, destinationLanguage, result);
                     _this.onLookup(parsedResult);
                 } else {
                     _this.onLookupError(_stringLoader.findString("unknown_error"));
@@ -498,6 +459,7 @@ var elementWarnMessage;
 var elementAboutLink;
 var elementAboutDiv;
 var elementSystemMessage;
+var elementProviderMessage;
 var elementSrcLangLabel;
 var elementDestLangLabel;
 var elementSrcLangList;
@@ -514,6 +476,7 @@ var initElement = function() {
     elementAboutLink = document.getElementById("about-link-message");
     elementAboutDiv = document.getElementById("about-message-div");
     elementSystemMessage = document.getElementById("message");
+    elementProviderMessage = document.getElementById("provider-text");
     elementSrcLangLabel = document.getElementById("from-label");
     elementDestLangLabel = document.getElementById("to-label");
     elementSrcLangList = document.getElementById("source-lang");
@@ -561,16 +524,13 @@ var onLoadingCallback = function(displayString) {
 var autoLanguage;
 var onLookupCallback = function(json) {
     if (json.status === 200) {
-        var destinationLang = convertStringToHtmlEntities(json.destinationLanguage);
         elementResult.innerHTML = convertStringToHtmlEntities(json.translation);
-        elementResult.lang = destinationLang;
-        var providerMessage = json.providerMessage || "";
-        elementAboutMsg.innerHTML = json.providerMessage;
         if (json.providerMessage) {
+            elementAboutMsg.innerHTML = json.providerMessage;
             showElement(elementAboutLink, oldAboutDisplayVal);
         }
         elementSrcLangList.selectedIndex = findOptionIndexByValue(elementSrcLangList, convertStringToHtmlEntities(json.sourceLanguage));
-        elementDestLangList.selectedIndex = findOptionIndexByValue(elementDestLangList, destinationLang);
+        elementDestLangList.selectedIndex = findOptionIndexByValue(elementDestLangList, convertStringToHtmlEntities(json.destinationLanguage));
         if (json.warningMessage) {
             elementWarnMessage.innerHTML = convertStringToHtmlEntities(json.warningMessage);
             showElement(elementWarnMessage, oldWarningDisplayVal);
@@ -588,6 +548,8 @@ var onLookupCallback = function(json) {
     }
     elementSrcLangList.options[findOptionIndexByValue(elementSrcLangList, AUTODETECT_OPTION_VAL)].innerHTML = convertStringToHtmlEntities(stringLoader.findString("language_unknown"));
     showTranslationResult();
+    var providerMessage = json.providerMessage || "";
+    elementProviderMessage.innerHTML = convertStringToHtmlEntities(providerMessage);
     updateScrollBar();
 };
 var onLookupErrorCallback = function(message) {
@@ -619,14 +581,22 @@ var supportedLanguages = {
     no: "lang_no",
     hi: "lang_hi",
     da: "lang_da",
+    la: "lang_la",
     cs: "lang_cs",
     sk: "lang_sk",
     pl: "lang_pl",
     uk: "lang_uk",
-    la: "lang_la",
     el: "lang_el",
     iw: "lang_iw",
-    tr: "lang_tr"
+    tr: "lang_tr",
+    hr: "lang_hr",
+    sr: "lang_sr",
+    ro: "lang_ro",
+    lv: "lang_lv",
+    lt: "lang_lt",
+    et: "lang_et",
+    hu: "lang_hu",
+    bg: "lang_bg"
 };
 var sortedLanguageArray;
 var populateLanguageOptions = function(selectElement, selectionOptionValue, includeAutoDetect) {
@@ -681,7 +651,8 @@ var initUI = function() {
     scroller = kindle.createLitePaginationController(paginateDiv, lineHeight);
     updateScrollBar();
 };
-var initOnLoad = function() {
+var initOnLoad = function(params) {
+    document.title = widget.name;
     initElement();
     initAllTextDivs();
     translator = new Translator({
@@ -698,34 +669,36 @@ var initOnLoad = function() {
     }
     elementSrcLangLabel.innerHTML = convertStringToHtmlEntities(stringLoader.findString("from_language"));
     elementDestLangLabel.innerHTML = convertStringToHtmlEntities(stringLoader.findString("to_language"));
-    var selection = kindle.reader.getCurrentSelection();
-    if (selection !== undefined && selection.text !== null) {
-        translator.lookup(selection.text, selection.range.begin, selection.range.end, undefined, destinationLang, true);
-        elementSrcLangList.onchange = function() {
-            hideAllTextDivs();
-            var sourceLanguage = elementSrcLangList.options[elementSrcLangList.selectedIndex].value;
-            translator.lookup(selection.text, selection.range.begin, selection.range.end, sourceLanguage, elementDestLangList.options[elementDestLangList.selectedIndex].value, false);
-            if (autoLanguage && autoLanguage != sourceLanguage) {
-                metricLogger("SourceLanguageChanged", widget.id, "NA");
-            }
-        };
-        elementDestLangList.onchange = function() {
-            hideAllTextDivs();
-            elementSrcLangList.options[findOptionIndexByValue(elementSrcLangList, AUTODETECT_OPTION_VAL)].innerHTML = convertStringToHtmlEntities(stringLoader.findString("language_detecting"));
-            var destinationLanguage = elementDestLangList.options[elementDestLangList.selectedIndex].value;
-            translator.lookup(selection.text, selection.range.begin, selection.range.end, elementSrcLangList.options[elementSrcLangList.selectedIndex].value, destinationLanguage, false);
-            if (!contentLanguage) {
-                contentLanguage = translator.languageFromLocale(getReader().getCurrentContentMetadata().contentLocale);
-            }
-            if (destinationLanguage != contentLanguage) {
-                metricLogger("DestinationLanguageChanged", widget.id, "NA");
-            }
-            translator.saveDefaultTargetLanguage(destinationLanguage);
-        };
-    } else {
-        elementResult.innerHTML = convertStringToHtmlEntities(stringLoader.findString("unknown_error"));
-        showTranslationResult();
-    }
+    translator.lookup(params.text, params.begin, params.end, {
+        destinationLang: destinationLang
+    }, true);
+    elementSrcLangList.onchange = function() {
+        hideAllTextDivs();
+        var sourceLanguage = elementSrcLangList.options[elementSrcLangList.selectedIndex].value;
+        translator.lookup(params.text, params.begin, params.end, {
+            sourceLang: sourceLanguage,
+            destinationLang: elementDestLangList.options[elementDestLangList.selectedIndex].value
+        }, false);
+        if (autoLanguage && autoLanguage != sourceLanguage) {
+            metricLogger("SourceLanguageChanged", widget.id, "NA");
+        }
+    };
+    elementDestLangList.onchange = function() {
+        hideAllTextDivs();
+        elementSrcLangList.options[findOptionIndexByValue(elementSrcLangList, AUTODETECT_OPTION_VAL)].innerHTML = convertStringToHtmlEntities(stringLoader.findString("language_detecting"));
+        var destinationLanguage = elementDestLangList.options[elementDestLangList.selectedIndex].value;
+        translator.lookup(params.text, params.begin, params.end, {
+            sourceLang: elementSrcLangList.options[elementSrcLangList.selectedIndex].value,
+            destinationLang: destinationLanguage
+        }, false);
+        if (!contentLanguage) {
+            contentLanguage = translator.languageFromLocale(getReader().getCurrentContentMetadata().contentLocale);
+        }
+        if (destinationLanguage != contentLanguage) {
+            metricLogger("DestinationLanguageChanged", widget.id, "NA");
+        }
+        translator.saveDefaultTargetLanguage(destinationLanguage);
+    };
     elementAboutLink.innerHTML = convertStringToHtmlEntities(stringLoader.findString("about_link_text"));
     elementLinkMsg.innerHTML = convertStringToHtmlEntities(stringLoader.findString("back_link_text"));
     elementAboutLink.onclick = function() {
@@ -743,6 +716,6 @@ var initOnLoad = function() {
 window.onresize = function() {
     maximizeHeight();
 };
-kindle.reader.onbutton = function(params) {
-    initOnLoad();
+kindle.reader.onselect = function(params) {
+    initOnLoad(params);
 };
