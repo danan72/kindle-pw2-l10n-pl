@@ -8,6 +8,7 @@ Search Google ▶	Szukaj w Google ▶
 Searching Wikipedia...	Wyszukiwanie w Wikipedii...
 Turn Off Aeroplane Mode	Wyłącz tryb samolotowy
 Turn On Wireless	Włącz Wi-Fi
+Turn on Wireless	Włącz Wi-Fi
 Unable to contact the server. Please try again later.	Nie można połączyć się z serwerem. Spróbuj ponownie później.
 Waiting for connection...	Czekam na połączenie...
 Wikipedia	Wikipedia
