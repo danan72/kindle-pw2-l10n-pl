@@ -1,6 +1,6 @@
 Before you go...	Zanim pójdziesz
 Buy Now	Kup teraz
-Close this window to return to the book	Zamknij okno i wróć do książki
+Close this window to return to the book	Zamknij to okno i wróć do książki
 Customers who bought this book also bought	Klienci, którzy kupili tą książkę, kupili również
 More books by %{authors}	Więcej książek autorstwa %{authors}
 Rate this book	Oceń tą książkę
