@@ -1,0 +1,22 @@
+About Vocabulary Builder	O powtarzaniu słówek
+Add To Home	Dodaj do ekranu głównego
+Add/Remove Items	Dodaj/Usuń pozycje
+Date: 	Data:
+Delete	Usuń
+Edit Child Profiles	Edytuj profile dzieci
+Edit Pronunciation	Edytuj wymowę
+In Cloud: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w chmurze: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Learn more	Dowiedz się więcej
+Manage FreeTime Items	Zarządzaj pozycjami FreeTime
+Narrator: 	Narrator:
+On Device: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Pozycje w czytniku: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Rename	Zmień nazwę
+Show Only in Collections View	Pokazuj tylko w widoku Kolekcje
+Show in All Views	Pokazuj we wszystkich widokach
+Total: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	Razem: {0,plural,=0 {brak} one {{0,number,integer}} other {{0,number,integer}} }
+Turn Off FreeTime	Wyłącz FreeTime
+Turn Off Vocabulary Builder	Wyłącz funkcję powtarzania słówek
+Unknown	Nieznany
+View Achievements	Pokaż osiągnięcia
+{0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {{0,number,integer} słów do nauki} one {{0,number,integer} słowo do nauki} other {Słów do nauki: {0,number,integer}} }
+{0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }
