@@ -22,7 +22,7 @@ Gmail	Gmail
 Google	Google
 History	Historia
 In order to browse, you must first register your Kindle to your Amazon user account.	Aby przeglądać, należy najpierw zarejestrować Kindle na koncie Amazon.
-Internet Movie DB	Film Polski
+Internet Movie DB	Filmweb
 Invalid Certificate	Nieprawidłowy certyfikat
 Invalid File Type	Nieprawidłowy typ pliku
 Invalid Protocol	Niewłaściwy protokół
@@ -67,7 +67,7 @@ http://m.gmail.com/	http://m.gmail.com/
 http://m.yahoo.com/mail?.intl=gb	http://poczta.wp.pl/
 http://mobile.twitter.com/	http://mobile.twitter.com/
 http://news.bbc.co.uk/	http://www.swiatczytnikow.pl
-http://uk.imdb.com/	http://filmpolski.pl
+http://uk.imdb.com/	http://www.filmweb.pl/search/film
 http://uk.yahoo.com/	http://lubimyczytac.pl/
 http://www.amazon.co.uk/	http://www.amazon.com/
 http://www.dailymail.co.uk/	http://www.biblionetka.pl/
