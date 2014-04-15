@@ -1,1 +1,0 @@
-displayname': 'Next	displayname': 'Następny

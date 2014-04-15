@@ -1,8 +1,0 @@
-Author	Autor
-Collection Name	Nazwa kolekcji
-Edit Kana	Edytuj Kana
-Edit Pronunciation	Edytuj wymowę
-The collection name that you entered already exists. Please enter a different name.	Nazwa kolekcji, którą wybrałeś, już istnieje. Wybierz inną.
-Title Pronunciation	Wymowa tytułu
-Title	Tytuł
-{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	Liczba pozycji: {0}
