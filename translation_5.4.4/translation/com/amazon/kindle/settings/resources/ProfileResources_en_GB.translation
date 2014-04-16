@@ -15,7 +15,7 @@ Let your child see their Achievement Reports.	Pozwól dziecku oglądać jego rap
 No Content	Brak zawartości
 Set how many minutes your child should read for each day.	Określ ile minut dziennie powinno czytać Twoje dziecko.
 Unrestricted Access to Wikipedia	Nieograniczony dostęp do Wikipedii
-{0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	{0, plural, =0 {Liczba książek: {0,number,integer}} one {Liczba książek: {0,number,integer}} other {Liczba książek: {0,number,integer}}
+{0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	{0, plural, =0 {Liczba książek: {0,number,integer}} one {Liczba książek: {0,number,integer}} other {Liczba książek: {0,number,integer}}}
 {0, select, male {Boy} female {Girl} other {Boy}}	{0, select, male {Chłopiec} female {Dziewczynka} other {Chłopiec}}
 {0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	{0, select, male {Nie dodałeś żadanej pozycji do profilu syna {1}.} female {Nie dodałeś żadanej pozycji do profilu córki {1}.} other {Nie dodałeś żadanej pozycji do profilu dziecka {1}.}}
 {0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	{0, select, male {Biblioteka syna {1}} female {Biblioteka córki {1}} other {Biblioteka dziecka {1}}}
