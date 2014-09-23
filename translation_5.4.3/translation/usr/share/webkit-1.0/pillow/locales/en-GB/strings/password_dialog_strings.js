@@ -4,7 +4,7 @@ If you have forgotten your passcode, please contact Kindle Customer Service at w
 Incorrect Passcode	Niepoprawny kod dostępu
 OK	OK
 Passcode Required	Wymagany jest kod dostępu
-Passcode hint: 	Wskazówka do kodu dostępu:
+Passcode hint: 	Wskazówka dla kodu dostępu:
 The passcode you entered is incorrect. Please try again.	Wprowadzony kod dostępu jest nieprawidłowy. Spróbuj jeszcze raz.
 This device has been disabled remotely.	To urządzenie zostało zdalnie wyłączone.
 Your Kindle will reset to factory defaults after 2 more failed attempts.	Po kolejnych dwóch nieudanych próbach zostaną przywrócone ustawienia fabryczne.
