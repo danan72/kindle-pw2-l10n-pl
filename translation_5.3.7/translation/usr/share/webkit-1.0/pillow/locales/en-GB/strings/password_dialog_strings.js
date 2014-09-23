@@ -1,4 +1,4 @@
-Enter Passcode	Wprowadź kod dostępny
+Enter Passcode	Wprowadź kod dostępu
 Forgot Passcode?	Zapomniałeś hasło?
 If you have forgotten your passcode, please contact Kindle Customer Service at www.kindle.com/support to receive help resetting your device.	Jeśli zapomniałeś swój kod dostępu, to w celu zresetowania Twojego urządzenia, skontaktuj się z działem obsługi klienta Kindle na www.kindle.com/support.
 Incorrect Passcode	Niepoprawny kod dostępu
