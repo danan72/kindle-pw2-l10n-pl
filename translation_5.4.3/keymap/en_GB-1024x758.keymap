@@ -2685,12 +2685,14 @@
                     "y": -49 
                 },
                 {
+                    "modifier" : 1,
                     "label": "?",
                     "value": "?",
                     "x" : 707,
                     "y": -49 
                 },
                 {
+                    "modifier" : 1,
                     "label": "!",
                     "value": "!",
                     "x" : 804,
