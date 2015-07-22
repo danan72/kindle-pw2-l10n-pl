@@ -1,0 +1,2 @@
+﻿
+{0, select, 0 {No(0)} 1 {Yes(1)} other {}}	{0, select, 0 {No(0)} 1 {Yes(1)} other {}}

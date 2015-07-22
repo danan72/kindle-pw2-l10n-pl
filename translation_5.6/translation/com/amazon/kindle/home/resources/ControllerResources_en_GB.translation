@@ -1,0 +1,14 @@
+﻿
+Cloud	Chmura
+On Device	Czytnik
+{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}
+No collections have been added to this device. Tap Cloud to add existing collections or tap Menu to create a new collection.	Na urządzeniu nie ma żadnych kolekcji. Dodaj kolekcje z chmury lub dotknij menu i stwórz nową kolekcję.
+No books have been added to this device. Tap Cloud to download books.	No books have been added to this device. Tap Cloud to download books.
+No Shared books have been added to this device. Tap Cloud to download books.	No Shared books have been added to this device. Tap Cloud to download books.
+No periodicals have been added to this device. Tap Cloud to download periodicals.	No periodicals have been added to this device. Tap Cloud to download periodicals.
+No documents have been added to this device. Tap Cloud to download documents.	No documents have been added to this device. Tap Cloud to download documents.
+No collections have been synced to the Cloud. Tap Menu to create a new collection.	No collections have been synced to the Cloud. Tap Menu to create a new collection.
+No books have been synced to the Cloud. Tap On Device to see local content.	No books have been synced to the Cloud. Tap On Device to see local content.
+No Shared books have been synced to the Cloud. Tap On Device to see local content.	No Shared books have been synced to the Cloud. Tap On Device to see local content.
+No periodicals have been synced to the Cloud. Tap On Device to see local content.	No periodicals have been synced to the Cloud. Tap On Device to see local content.
+No documents have been synced to the Cloud. Tap On Device to see local content.	No documents have been synced to the Cloud. Tap On Device to see local content.

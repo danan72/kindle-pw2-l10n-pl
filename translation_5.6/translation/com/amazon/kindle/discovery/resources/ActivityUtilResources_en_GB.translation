@@ -1,0 +1,9 @@
+﻿
+We can't seem to find this update.	Nie możemy znaleźć tej aktualizacji.
+We can't seem to find this comment.	Nie możemy znaleźć tego komentarza.
+{0,select, BookStatusReading {'{0}' is currently reading} BookStatusRead {'{0}' read} other {'{0}' wants to read}}	{0,select, BookStatusReading {'{0}' teraz czytam} BookStatusRead {'{0}' przeczytane} other {'{0}' chcę przeczytać}}
+We canʼt seem to find this review.	Nie możemy znaleźć tej recenzji.
+{0} by {1}	{0} - {1}
+{0} made progress with~~{1}	{0} zrobił(a) postęp z~~{1}
+{0} rated it {1}	{0} ocenił(a) {1}
+{0,select, unrated {'{0}' wrote a review} other {'{0}' rated it '{1}'}}	{0,select, unrated {'{0}' napisał(a) recenzję} other {'{0}' ocenił(a) '{1}'}}

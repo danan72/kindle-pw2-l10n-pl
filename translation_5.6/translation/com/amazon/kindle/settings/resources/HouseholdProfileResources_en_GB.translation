@@ -1,0 +1,13 @@
+﻿
+Household and Family Library	Household and Family Library
+Add New Profile	Dodaj nowy profil
+Start	Start
+Device Owner	Device Owner
+Adult	Adult
+{0, plural, =0 {Adult} one {Adult} other {Adults}}	{0, plural, =0 {Adult} one {Adult} other {Adults}}
+{0, plural, =0 {Child} one {Child} other {Children}}	{0, plural, =0 {Child} one {Child} other {Children}}
+FreeTime Unlimited Options	FreeTime Unlimited Options
+Kindle for Kids Unlimited Options	Kindle for Kids Unlimited Options
+{0} {1,plural,=0 {({2} books)} one {({2} book)} other {({2} books)}}	{0} {1,plural,=0 {({2} books)} one {({2} book)} other {({2} books)}}
+A Household gives up to two adults the ability to jointly manage up to four child accounts. This lets you control the content and features your child can access.~~~~Family Library lets you share books and other digital content across your Amazon devices and Kindle apps. You can activate Family Library when adding an adult to your Household.~~	A Household gives up to two adults the ability to jointly manage up to four child accounts. This lets you control the content and features your child can access.~~~~Family Library lets you share books and other digital content across your Amazon devices and Kindle apps. You can activate Family Library when adding an adult to your Household.~~
+Add a New Person	Add a New Person

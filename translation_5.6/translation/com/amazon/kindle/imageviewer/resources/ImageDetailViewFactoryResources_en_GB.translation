@@ -1,0 +1,5 @@
+﻿
+Delete This Image Folder	Usuń ten katalog obrazków
+Delete This Image Package	Usuń tą paczkę obrazków
+Delete This Image	Usuń ten obrazek
+{0,choice,0#No Items | 1#{0,number,integer} Item | 2#{0,number,integer} Items}	{0,choice,0#Brak pozycji | 1#{0,number,integer} pozycja | 2#{0,number,integer} pozycje | 5#{0,number,integer} pozycji}
