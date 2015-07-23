@@ -15,3 +15,4 @@ Kindle Store ({0,number,integer})	Kindle Store ({0,number,integer})
 Text in Books ({0,number,integer})	Tekst w książkach ({0,number,integer})
 Dictionary	Słownik
 {0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	{0, select, 0 {Słownik} 1 {Słowniki i {1}} other {Słowniki i odnośniki}}
+{0, select, 1 {{1}} other {Inne odnośniki}}	{0, select, 1 {{1}} other {Inne odnośniki}}

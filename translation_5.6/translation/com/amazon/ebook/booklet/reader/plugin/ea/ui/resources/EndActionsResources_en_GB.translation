@@ -39,6 +39,6 @@ Do you find this feature useful?	Czy uważasz, że ta funkcja jest przydatna?
 Yes	Tak
 No	Nie
 Cancel	Anuluj
-Submit	Prześlij
+Submit	Zastosuj
 Please note that we are unable to respond directly to feedback submitted via this form	Proszę pamiętać, że nie będziemy w stanie odpowiedzieć na opinię przekazaną za pośrednictwem tego formularza
 {0,plural,=0 {No pages} one {{0,number,integer} page} other {{0,number,integer} pages}}	{0,plural,=0 {Brak stron} one {{0,number,integer} strona} other {strony: {0,number,integer}}}
