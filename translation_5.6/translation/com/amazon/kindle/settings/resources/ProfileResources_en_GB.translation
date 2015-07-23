@@ -20,24 +20,24 @@ Unrestricted Access to Wikipedia	Nieograniczony dostęp do Wikipedii
 {0, select, male {{1}ʼs Library} female {{1}ʼs Library} other {{1}ʼs Library}}	{0, select, male {Biblioteka syna {1}} female {Biblioteka córki {1}} other {Biblioteka dziecka {1}}}
 {0, plural, =0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	{0, plural, =0 {Liczba książek: {0,number,integer}} one {Liczba książek: {0,number,integer}} other {Liczba książek: {0,number,integer}}}
 {0, select, male {You have not added any items to {1}ʼs FreeTime.} female {You have not added any items to {1}ʼs FreeTime.} other {You have not added any items to {1}ʼs FreeTime.}}	{0, select, male {Nie dodałeś żadanej pozycji do profilu syna {1}.} female {Nie dodałeś żadanej pozycji do profilu córki {1}.} other {Nie dodałeś żadanej pozycji do profilu dziecka {1}.}}
-Name	Name
+Name	Nazwa
 {0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}	{0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}
 Share All Books	Share All Books
 Share all your current and future purchased books with {0}.	Share all your current and future purchased books with {0}.
 {0, select, male {You have not added any items to {1}'s Kindle for Kids.} female {You have not added any items to {1}'s Kindle for Kids.} other {You have not added any items to {1}'s Kindle for Kids.}}	{0, select, male {You have not added any items to {1}'s Kindle for Kids.} female {You have not added any items to {1}'s Kindle for Kids.} other {You have not added any items to {1}'s Kindle for Kids.}}
-Not Enabled	Not Enabled
-Enabled	Enabled
-Payment Information	Payment Information
+Not Enabled	Wyłączony
+Enabled	Włączony
+Payment Information	Informacje o płatnościach
 Manage payment methods associated with your Amazon account for purchases on Amazon.	Manage payment methods associated with your Amazon account for purchases on Amazon.
 Leave Household	Leave Household
 {0} will be removed from your Household on all your devices.	{0} will be removed from your Household on all your devices.
-Devices	Devices
+Devices	Urządzenia
 Select devices that should show {0}'s shared content.	Select devices that should show {0}'s shared content.
 Are you sure you want to leave this Household? You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.	Are you sure you want to leave this Household? You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.
-Turn Off Book Sharing	Turn Off Book Sharing
+Turn Off Book Sharing	Wyłącz udostępnianie książek
 {0} will no longer be able to access all your books by default. You can still share individual books with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?	{0} will no longer be able to access all your books by default. You can still share individual books with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?
 This will share all your current and future purchased books with {0}. You can still block individual books from being shared with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?	This will share all your current and future purchased books with {0}. You can still block individual books from being shared with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?
-Turn Off Family Library	Turn Off Family Library
+Turn Off Family Library	Wyłącz bibliotekę rodzinną
 You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted. Do you want to continue?	You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted. Do you want to continue?
-Family Library 	Family Library 
+Family Library 	Biblioteka rodzinna
 Share books and other digital content with {0}. 	Share books and other digital content with {0}. 

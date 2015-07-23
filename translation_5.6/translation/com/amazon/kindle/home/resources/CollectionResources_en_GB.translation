@@ -2,8 +2,8 @@
 There arenʼt any accessible items in this collection.~~Tap Menu to add items.	W tej kolekcji nie ma żadnych pozycji.~~Dotknij menu, aby dodać pozycję.
 There arenʼt any items in this Collection.~~Tap Menu to add items.	W tej kolekcji nie ma żadnych pozycji.~~Dotknij menu, aby dodać pozycję.
 {0,plural,=0 {} one {{0,number,integer} more issue in the Cloud} other {{0,number,integer} more issues in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} more issue in the Cloud} other {{0,number,integer} more issues in the Cloud}}
-No issues are on this device. Tap Cloud to download issues.	No issues are on this device. Tap Cloud to download issues.
-No issues are available in the Cloud. Tap On Device to view local issues.	No issues are available in the Cloud. Tap On Device to view local issues.
+No issues are on this device. Tap Cloud to download issues.	Na czytniku nie ma żadnych wydań. Wyberz chmurę, aby pobrać wydania.
+No issues are available in the Cloud. Tap On Device to view local issues.	W chmurze nie ma żadnych wydań. Wybierz Czytnik, aby przejrzeć lokalną zawartość.
 {0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}
 No items from this collection are on this device. Tap Cloud to download items or tap Menu to add items.	No items from this collection are on this device. Tap Cloud to download items or tap Menu to add items.
 No items from this collection are available in the Cloud. Tap On Device to view local items or tap Menu to add items.	No items from this collection are available in the Cloud. Tap On Device to view local items or tap Menu to add items.

@@ -22,12 +22,12 @@ View Achievements	Pokaż osiągnięcia
 {0,plural,=0 {Learning {0,number,integer} words} one {Learning {0,number,integer} word} other {Learning {0,number,integer} words} }	{0,plural,=0 {{0,number,integer} słów do nauki} one {{0,number,integer} słowo do nauki} other {Słów do nauki: {0,number,integer}} }
 {0,plural,=0 {Mastered {0,number,integer} words} one {Mastered {0,number,integer} word} other {Mastered {0,number,integer} words} }	{0,plural,=0 {Liczba opanowanych słów: {0,number,integer}} one {Liczba opanowanych słów: {0,number,integer} word} other {Liczba opanowanych słów: {0,number,integer} words} }
 Add to Device	Dodaj do urządzenia
-Open Latest Issue	Open Latest Issue
-Download Latest Issue	Download Latest Issue
+Open Latest Issue	Otwórz najnowsze wydanie
+Download Latest Issue	Pobierz najnowsze wydanie
 Remove All Back Issues	Usuń wszystkie poprzednie wydania
-Latest Issue: {0,date,short}	Latest Issue: {0,date,short}
-Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
-In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
-On Device: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	On Device: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }
-Manage Kindle for Kids Items	Manage Kindle for Kids Items
-Turn Off Kindle for Kids	Turn Off Kindle for Kids
+Latest Issue: {0,date,short}	Najnowsze wydanie: {0,date,short}
+Total: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Razem: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
+In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	W Chmurze: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
+On Device: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Na czytniku: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
+Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle dla Dzieci
+Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
