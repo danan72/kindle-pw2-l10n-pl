@@ -1,5 +1,5 @@
 ﻿
-Cannot Remove Sample	Cannot Remove Sample
+Cannot Remove Sample	Nie można usunąć próbki
 {0,plural, one {There was a problem removing the sample from the Cloud. Try again later. The sample will be removed from the device.} other {There was a problem removing the samples from the Cloud. Try again later. The samples will be removed from the device.} }	{0,plural, one {There was a problem removing the sample from the Cloud. Try again later. The sample will be removed from the device.} other {There was a problem removing the samples from the Cloud. Try again later. The samples will be removed from the device.} }
 A network connection is required to delete the sample from the Cloud. The sample will be removed from the device.	A network connection is required to delete the sample from the Cloud. The sample will be removed from the device.
 A network connection is required to delete the sample from the Cloud.	A network connection is required to delete the sample from the Cloud.

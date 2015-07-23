@@ -1,15 +1,15 @@
 ﻿
 SW Version	SW Version
 SW Build	SW Build
-Registration Status	Registration Status
-Store Name	Store Name
-Store Number	Store Number
-Postal Code	Postal Code
+Registration Status	Status rejestracji
+Store Name	Nazwa sklepu
+Store Number	Numer sklepu
+Postal Code	Kod pocztowy
 Locale	Locale
-Country of Residence	Country of Residence
+Country of Residence	Kraj zamieszkania
 Marketplace	Marketplace
-Content MD5	Content MD5
-Last Message Sent	Last Message Sent
-Content Version	Content Version
-Never	Never
-Exit	Exit
+Content MD5	MD5 zawartości
+Last Message Sent	Ostatni komunikat został wysłany
+Content Version	Wersja zawartości
+Never	Nigdy
+Exit	Wyjście

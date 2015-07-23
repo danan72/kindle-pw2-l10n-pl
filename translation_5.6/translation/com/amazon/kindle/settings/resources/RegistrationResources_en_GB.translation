@@ -7,9 +7,9 @@ If You Do Not Have an Amazon Account	Jeśli nie masz konta w Amazon
 It is taking longer than expected to register your Kindle. Please continue to use your Kindle while we register it in the background.	Rejestracja Twojego Kindle trwa dłużej niż oczekiwano. Kontynuuj korzystanie ze swojego Kindle, a my go spróbujemy zarejestrować w tle.
 Registering Your Kindle	Zarejestruj swój Kindle
 Registration	Rejestracja
-Registration and Household	Registration and Household
-Deregister Device	Deregister Device
-Deregister your Kindle from your Amazon account.	Deregister your Kindle from your Amazon account.
-Household and Family Library	Household and Family Library
+Registration and Household	Rejestracja i Rodzina
+Deregister Device	Wyrejestruj urządzenie
+Deregister your Kindle from your Amazon account.	Wyrejestruj swojego Kindle z Twojego konta Amazon
+Household and Family Library	Rodzina i Biblioteka rodzinna
 Create and manage your Household to share books and other digital content across your Amazon devices and Kindle apps.	Create and manage your Household to share books and other digital content across your Amazon devices and Kindle apps.
 {0,plural, =0 {No Adult Profiles} one {{0, number, integer} Adult} other {{0, number, integer} Adults}}{1,plural, =0 {} one { and {1, number, integer} Child} other { and {1, number, integer} Children}}	{0,plural, =0 {No Adult Profiles} one {{0, number, integer} Adult} other {{0, number, integer} Adults}}{1,plural, =0 {} one { and {1, number, integer} Child} other { and {1, number, integer} Children}}
