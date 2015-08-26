@@ -14,7 +14,7 @@ Search Results for "{0}"	Wyniki wyszukiwania dla "{0}"
 Text in Books ({0,number,integer})	Tekst w książkach ({0,number,integer})
 Dictionary	Słownik
 {0, select, 0 {Dictionary} 1 {Dictionary and {1}} other {Dictionary and References}}	{0, select, 0 {Słownik} 1 {Słowniki i {1}} other {Słowniki i odnośniki}}
+Kindle Store	Kindle Store
 Kindle Store ({0,number,integer})	Kindle Store ({0,number,integer})
 {0, select, 1 {{1}} other {Other References}}	{0, select, 1 {{1}} other {Other References}}
-Kindle Store	Kindle Store
 Showing {0, number, integer}	Showing {0, number, integer}

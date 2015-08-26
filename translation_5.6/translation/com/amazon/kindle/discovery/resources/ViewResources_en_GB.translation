@@ -133,6 +133,7 @@ A refund will be applied to your method of payment. If the title has already dow
 {0} rated it	{0} dodał(a) ocenę
 Are you sure you would like to remove {0} from your friend list? Friends aren't notified when you remove them.	Czy na pewno chcesz usunąć {0} z listy znajomych? Znajomi nie są informowani o ich usunięciu.
 {0}, We are sending you the Kindle Edition of {1} and it will automatically appear in your Home screen when the download is complete.	{0}, rozpoczęliśmy wysyłanie do Ciebie {1}. Po zakończeniu pobierania pozycja będzie dostępna na ekranie głównym Twojego Kindle.
+Authors	Autorzy
 {0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display friends. Please try again.} other {}}	{0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display friends. Please try again.} other {}}
 {0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display people you are following. Please try again.} other {}}	{0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display people you are following. Please try again.} other {}}
 {0,select,empty {You do not have any followers yet.} unknown {Loading…} error {Unable to display followers. Please try again.} other {}}	{0,select,empty {You do not have any followers yet.} unknown {Loading…} error {Unable to display followers. Please try again.} other {}}
@@ -173,5 +174,4 @@ By connecting, you will enable Goodreads to access your public profile, friend l
 {0,select,empty {No samples.} unknown {Loading…} error {Unable to display samples. Please try again.} other {}}	{0,select,empty {No samples.} unknown {Loading…} error {Unable to display samples. Please try again.} other {}}
 {0} {1,choice,0# |1#{1,number,0.00}} • {2,plural,=0 {{2,number,integer} ratings} one {{2,number,integer} rating} other {{2,number,integer} ratings}}	{0} {1,choice,0# |1#{1,number,0.00}} • {2,plural,=0 {{2,number,integer} ratings} one {{2,number,integer} rating} other {{2,number,integer} ratings}}
 Already a Goodreads member?	Already a Goodreads member?
-Authors	Authors
 Find and share books that you love, see what your friends are reading and get recommendations from the world's largest network of readers.	Find and share books that you love, see what your friends are reading and get recommendations from the world's largest network of readers.

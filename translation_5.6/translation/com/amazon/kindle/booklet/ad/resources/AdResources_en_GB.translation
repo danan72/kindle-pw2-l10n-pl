@@ -17,4 +17,4 @@ Tap to view all Special Offers	Wybierz, aby zobaczyć oferty specjalne
 Tap to view all orders pending.	Dotknij, aby zobaczyć wszystkie oczekujące zamówienia.
 Unable to Connect	Nie można się połączyć
 We are unable to complete your orders at this time. Please try again later.	Nie możemy teraz zrealizować Twojego zamówienia. Proszę spóbuj później.
-Special Offers ({0, number, integer})	Special Offers ({0, number, integer})
+Special Offers ({0, number, integer})	Oferty specjalne ({0, number, integer})

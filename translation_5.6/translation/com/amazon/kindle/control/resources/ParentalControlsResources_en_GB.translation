@@ -27,5 +27,4 @@ When Parental Controls are enabled, Deregistration and Reset Device are disabled
 {0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.kindle.com/support to receive help resetting your device.	{0,select, has_hint {Wskazówka: {1}} other {}}~~~~Jeśli zapomniałeś swoje hasło, prosimy o kontakt z działem obsługi klienta Kindle na www.kindle.com/support w celu zresetowania Twojego urządzenia.
 {0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.	{0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.
 Access to the Goodreads network of readers.	Access to the Goodreads network of readers.
-Anuluj	Anuluj
 button.cancel.label	button.cancel.label
