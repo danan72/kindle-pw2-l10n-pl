@@ -7,14 +7,14 @@ The collection name that you entered already exists. Please enter a different na
 Title Pronunciation	Wymowa tytułu
 Title	Tytuł
 {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	Liczba pozycji: {0}
-A collection with the name you entered already exists in the Cloud. Please enter a different name.	A collection with the name you entered already exists in the Cloud. Please enter a different name.
 Update Available	Istnieje aktualizacja
 Low Device Memory	Niski poziom pamięci na urządzeniu
-A free update is available for your Kindle. To receive the update, connect to a Wi-Fi network.	A free update is available for your Kindle. To receive the update, connect to a Wi-Fi network.
-There is currently not enough storage space on your device to install the software update. Please delete some items from your libraries. Software will be updated automatically in the background when enough space is available.	There is currently not enough storage space on your device to install the software update. Please delete some items from your libraries. Software will be updated automatically in the background when enough space is available.
-A free update is available for your Kindle. Please stay connected to a Wi-Fi network to receive and install the update. The update will be installed automatically when your Kindle is in sleep mode.	A free update is available for your Kindle. Please stay connected to a Wi-Fi network to receive and install the update. The update will be installed automatically when your Kindle is in sleep mode.
 Remind Me Later	Przypomnij mi później
 Turn On Wi-Fi	Włącz Wi-Fi
 OK	OK
-A free update is available for your Kindle. You can either restart your Kindle to install the update immediately or wait for the update to be installed automatically when your device is in Sleep mode.	A free update is available for your Kindle. You can either restart your Kindle to install the update immediately or wait for the update to be installed automatically when your device is in Sleep mode.
 Restart	Uruchom ponownie
+A collection with the name you entered already exists in the Cloud. Please enter a different name.	A collection with the name you entered already exists in the Cloud. Please enter a different name.
+A free update is available for your Kindle. To receive the update, connect to a Wi-Fi network.	A free update is available for your Kindle. To receive the update, connect to a Wi-Fi network.
+There is currently not enough storage space on your device to install the software update. Please delete some items from your libraries. Software will be updated automatically in the background when enough space is available.	There is currently not enough storage space on your device to install the software update. Please delete some items from your libraries. Software will be updated automatically in the background when enough space is available.
+A free update is available for your Kindle. Please stay connected to a Wi-Fi network to receive and install the update. The update will be installed automatically when your Kindle is in sleep mode.	A free update is available for your Kindle. Please stay connected to a Wi-Fi network to receive and install the update. The update will be installed automatically when your Kindle is in sleep mode.
+A free update is available for your Kindle. You can either restart your Kindle to install the update immediately or wait for the update to be installed automatically when your device is in Sleep mode.	A free update is available for your Kindle. You can either restart your Kindle to install the update immediately or wait for the update to be installed automatically when your device is in Sleep mode.

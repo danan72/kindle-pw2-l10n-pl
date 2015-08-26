@@ -26,3 +26,5 @@ Receipt	Recepta
 Rental	Wypożyczanie
 Sample	Próbka
 {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	Liczba pozycji: {0}
+Library	Library
+Search Results	Search Results

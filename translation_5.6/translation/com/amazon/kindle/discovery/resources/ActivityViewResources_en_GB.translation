@@ -18,3 +18,11 @@ We canʼt seem to find this update.	Nie możemy znaleźć tej aktualizacji.
 {0} shared a note	{0} udostępnił notatkę
 {0} shared a quote	{0} udostępnił cytat
 {0} wrote a review	{0} napisał recenzję
+{0,select, BookStatusReading {'{0}' is currently reading} BookStatusRead {'{0}' read} other {'{0}' wants to read}}	{0,select, BookStatusReading {'{0}' is currently reading} BookStatusRead {'{0}' read} other {'{0}' wants to read}}
+{0,select, unrated {'{0}' wrote a review} other {'{0}' rated it '{1}'}}	{0,select, unrated {'{0}' wrote a review} other {'{0}' rated it '{1}'}}
+{0} made progress with	{0} made progress with
+{0} made progress with~~{1}	{0} made progress with~~{1}
+{0} rated it {1}	{0} rated it {1}
+We canʼt seem to find this review.	We canʼt seem to find this review.
+We can't seem to find this comment.	We can't seem to find this comment.
+We can't seem to find this update.	We can't seem to find this update.

@@ -6,10 +6,15 @@ Progress	Postęp
 Remove	Usuń
 Subscription	Subskrypcja
 Remove from Household	Usuń z Rodziny
-If you remove {0} from your household you will not be able to add another adult for 180 days.~~~~{0} will lose access to your digital content purchases. Any payment settings copied between your account will be deleted.~~~~{0} will no longer be able to administer child accounts that are part of the household.	If you remove {0} from your household you will not be able to add another adult for 180 days.~~~~{0} will lose access to your digital content purchases. Any payment settings copied between your account will be deleted.~~~~{0} will no longer be able to administer child accounts that are part of the household.
 Cancel	Anuluj
 Child Profile	Profil dziecka
 Child Profile: {0}	Profil dziecka: {0}
+Parental Controls	Kontrola rodzicielska
+Restrictions	Ograniczenia
+Restrictions: {0}	Ograniczenia: {0}
+Web Browser	Przeglądarka internetowa
+Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
+If you remove {0} from your household you will not be able to add another adult for 180 days.~~~~{0} will lose access to your digital content purchases. Any payment settings copied between your account will be deleted.~~~~{0} will no longer be able to administer child accounts that are part of the household.	If you remove {0} from your household you will not be able to add another adult for 180 days.~~~~{0} will lose access to your digital content purchases. Any payment settings copied between your account will be deleted.~~~~{0} will no longer be able to administer child accounts that are part of the household.
 In the next step, you can add content to your childʼs library.	In the next step, you can add content to your childʼs library.
 In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with FreeTime Unlimited and also add books you already own.	In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with FreeTime Unlimited and also add books you already own.
 In the next step, you'll be able to add books to your child's library. You'll have the option to include thousands of books with Kindle for Kids Unlimited as well as add books you already own.	In the next step, you'll be able to add books to your child's library. You'll have the option to include thousands of books with Kindle for Kids Unlimited as well as add books you already own.
@@ -17,10 +22,5 @@ Use Kindle FreeTime	Use Kindle FreeTime
 Use Kindle for Kids	Use Kindle for Kids
 {0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}
 {0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}
-Parental Controls	Kontrola rodzicielska
 Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.	Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.
-Restrictions	Ograniczenia
-Restrictions: {0}	Ograniczenia: {0}
-Web Browser	Przeglądarka internetowa
-Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
 The Kindle Store, access to the Cloud and the Goodreads network will be restricted automatically.	The Kindle Store, access to the Cloud and the Goodreads network will be restricted automatically.

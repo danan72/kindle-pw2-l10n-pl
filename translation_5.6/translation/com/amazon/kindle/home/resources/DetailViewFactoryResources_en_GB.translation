@@ -31,3 +31,5 @@ In Cloud: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,numb
 On Device: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	Na czytniku: {0,plural,=0 {Brak wydań} one {{0,number,integer} wydanie} other {wydania: {0,number,integer}} }
 Manage Kindle for Kids Items	Zarządzaj pozycjami Kindle dla Dzieci
 Turn Off Kindle for Kids	Wyłącz Kindle dla Dzieci
+Remove from Device	Remove from Device
+View Back Issues	View Back Issues

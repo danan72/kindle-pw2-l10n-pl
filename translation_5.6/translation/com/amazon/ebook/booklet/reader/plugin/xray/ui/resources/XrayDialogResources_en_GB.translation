@@ -1,14 +1,10 @@
 ﻿
 Sorry, an error has occurred.	Przepraszamy, wystąpił błąd
-X-Ray — {0}	X-Ray — {0}
-Notable Clips	Notable Clips
 Images	Obrazki
-Top Mentions	Top Mentions
 All Mentions	Wszystkie wzmianki
 Current Page	Bieżąca strona
 In the Book	W książce
 None found	Nic nie znaleziono
-{0,plural,=0 {} one {{0,number,integer} mention} other {{0,number,integer} mentions}}	{0,plural,=0 {} one {{0,number,integer} mention} other {{0,number,integer} mentions}}
 By Relevance	Wg użyteczności
 Alphabetical	Alfabetycznie
 Show More	Pokaż więcej
@@ -24,15 +20,9 @@ Share	Udostępnij
 Highlight	Zaznacz
 Highlighted ✓	Zaznaczono ✓
 Also See:	Zobacz też:
-{0,plural,=0 {} one {{0,number,integer} More} other {{0,number,integer} More}}	{0,plural,=0 {} one {{0,number,integer} More} other {{0,number,integer} More}}
 More	Więcej
-Clips beyond your furthest page read are hidden. Tap to show all clips.	Clips beyond your furthest page read are hidden. Tap to show all clips.
-Additional clips beyond your furthest page read are hidden. Tap to show all clips.	Additional clips beyond your furthest page read are hidden. Tap to show all clips.
 Go Back	Wróć
-Show All Clips	Show All Clips
-Hide Unread Clips	Hide Unread Clips
 Send Us Feedback	Wyślij nam komentarz
-Do you find X-Ray useful?	Do you find X-Ray useful?
 Yes	Tak
 No	Nie
 Cancel	Anuluj
@@ -41,3 +31,21 @@ Please note that we are unable to respond directly to feedback submitted via thi
 Go To	Idź do
 Entries starting with:	Wpisy rozpoczynające się na:
 Go	Idź
+X-Ray — {0}	X-Ray — {0}
+Notable Clips	Notable Clips
+Top Mentions	Top Mentions
+{0,plural,=0 {} one {{0,number,integer} mention} other {{0,number,integer} mentions}}	{0,plural,=0 {} one {{0,number,integer} mention} other {{0,number,integer} mentions}}
+{0,plural,=0 {} one {{0,number,integer} More} other {{0,number,integer} More}}	{0,plural,=0 {} one {{0,number,integer} More} other {{0,number,integer} More}}
+Clips beyond your furthest page read are hidden. Tap to show all clips.	Clips beyond your furthest page read are hidden. Tap to show all clips.
+Additional clips beyond your furthest page read are hidden. Tap to show all clips.	Additional clips beyond your furthest page read are hidden. Tap to show all clips.
+Show All Clips	Show All Clips
+Hide Unread Clips	Hide Unread Clips
+Do you find X-Ray useful?	Do you find X-Ray useful?
+「Go to location {0}」	「Go to location {0}」
+「Go to page {0}」	「Go to page {0}」
+Highlighted	Highlighted
+image	image
+next	next
+previous	previous
+X‑Ray	X‑Ray
+X-Ray Settings	X-Ray Settings

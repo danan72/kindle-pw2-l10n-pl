@@ -13,3 +13,6 @@ When in Cover View, display recommended content from the Kindle Store.	W trybie 
 Advanced Options	Opcje zaawansowane
 Manage Kindle Store recommendations in Cover View, Next in Series options{0,select, kso {, Whispersync for Books and Special Offers} other { and Whispersync for Books}}.	Zarządzaj rekomendacjami sklepu Kindle Store w trybie widoku okładek, opcjami serii{0,select, kso {, funkcją Whispersync for Books oraz ofertami specjalnymi} other { oraz funkcją Whispersync for Books}}.
 Send documents to your Kindle using the e-mail address below. Go to {0} to change your settings.	Wysyłaj dokumenty na swój czytnik, używając adresu e-mail wyświetlonego poniżej. Przejdź do {0}, aby zmienić swoje ustawienia.
+Device Name and Personal Info	Device Name and Personal Info
+Give your device a name and other personal information	Give your device a name and other personal information
+Manage voice guidance settings, including turning screen reader on and off, reading speed and volume.	Manage voice guidance settings, including turning screen reader on and off, reading speed and volume.

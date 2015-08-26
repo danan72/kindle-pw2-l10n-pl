@@ -1,15 +1,16 @@
 ﻿
-SW Version	SW Version
-SW Build	SW Build
 Registration Status	Status rejestracji
 Store Name	Nazwa sklepu
 Store Number	Numer sklepu
 Postal Code	Kod pocztowy
-Locale	Locale
 Country of Residence	Kraj zamieszkania
-Marketplace	Marketplace
 Content MD5	MD5 zawartości
 Last Message Sent	Ostatni komunikat został wysłany
 Content Version	Wersja zawartości
 Never	Nigdy
 Exit	Wyjście
+SW Version	SW Version
+SW Build	SW Build
+Locale	Locale
+Marketplace	Marketplace
+Loading...	Loading...

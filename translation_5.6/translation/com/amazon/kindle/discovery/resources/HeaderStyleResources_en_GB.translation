@@ -61,3 +61,13 @@ Want to Read	Chcę przeczytać
  Want to Read	 Chcę przeczytać
 Goodreads Results for "{1}" ({0,number,integer})	Wyniki Goodreads dla "{1}" ({0,number,integer})
 {0,choice,-1#Community|0#Community ({0,number,integer})|1000000#Community (999999)}	{0,choice,-1#Społeczność|0#Społeczność ({0,number,integer})|1000000#Społeczność (999999)}
+{0,select, author { Following} other { Friend}}	{0,select, author { Following} other { Friend}}
+{0,select, author { Following} other { Request Sent}}	{0,select, author { Following} other { Request Sent}}
+{0,select, first_author {Books I've Written ({1,number,0})} other {Author's Books ({1,number,0})}}	{0,select, first_author {Books I've Written ({1,number,0})} other {Author's Books ({1,number,0})}}
+{0,select, shelved_books {Shelved Books ({1,number,0}) } first_author_activity {My Recent Updates } other {Recent Updates }}	{0,select, shelved_books {Shelved Books ({1,number,0}) } first_author_activity {My Recent Updates } other {Recent Updates }}
+{0,select, show_more {See More } other {}}	{0,select, show_more {See More } other {}}
+Done	Done
+Next	Next
+Recent Updates	Recent Updates
+Recommendations	Recommendations
+Shelves	Shelves

@@ -91,3 +91,11 @@ today	dzisiaj
 yesterday	wczoraj
 Display Settings	Ustawienia wyświetlania
 {0,select,mrpr{Sync to Most Recent Page Read} other{Sync to Furthest Page Read}}	{0,select,mrpr{Synchronizuj ostatnio czytaną stronę} other{Synchronizuj najdalszą czytaną stronę}}
+font options	font options
+font size options	font size options
+line spacing options	line spacing options
+margin options	margin options
+narrow	narrow
+size {0}	size {0}
+View Notes	View Notes
+wide	wide

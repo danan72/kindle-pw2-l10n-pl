@@ -9,3 +9,5 @@ Title not yet indexed.	Tytuł nie został jeszcze zindeksowany.
 {0,number,integer} of {1,number,integer}	{0,number,integer} z {1,number,integer}
 Book Results ({0,number,integer})	Wyniki w książce ({0,number,integer})
 There are no results found in this book.	Brak wyników wyszukiwania w tej książce.
+<html> <head><title>x-snippet</title></head> <body>  <font face="{0}" size="{1}">   <p>    <b id="location"> {2} </b>    <br/>   </p>  </font>  <x-snippet id="snippet"   positions="{3}"   maxwords="{4}"   rewind="{5}"   decorate="{6}"   path="{7}" /> </body></html>	<html> <head><title>x-snippet</title></head> <body>  <font face="{0}" size="{1}">   <p>    <b id="location"> {2} </b>    <br/>   </p>  </font>  <x-snippet id="snippet"   positions="{3}"   maxwords="{4}"   rewind="{5}"   decorate="{6}"   path="{7}" /> </body></html>
+Location {0} {2} Page {1}	Location {0} {2} Page {1}
