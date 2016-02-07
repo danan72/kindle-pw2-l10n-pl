@@ -1,0 +1,15 @@
+﻿
+Active Content	Zawartość aktywna
+All Items	Wszystkie pozycje 
+Books	Książki
+Docs	Dokumenty
+Done	Gotowe
+Periodicals	Czasopisma
+Audible	Dźwiękowe
+ACTIVE CONTENT	APLIKACJE
+ALL ITEMS	WSZYSTKIE
+BOOKS	KSIĄŻKI
+DOCS	DOKUMENTY
+PERIODICALS	CZASOPISMA
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}
+AUDIBLE	AUDIBLE

@@ -1,0 +1,4 @@
+﻿
+Reading Speed	Prędkość czytania
+{0, select, 1 {{0} - Slowest} 8 {{0} - Fastest} other{{0}}}	{0, select, 1 {{0} - Slowest} 8 {{0} - Fastest} other{{0}}}
+{0, choice, 0.66#{0}x (Slowest)| 0.66<{0}x| 1#{0}x (Default)| 1<{0}x| 4#{0}x (Fastest)}	{0, choice, 0.66#{0}x (Slowest)| 0.66<{0}x| 1#{0}x (Default)| 1<{0}x| 4#{0}x (Fastest)}

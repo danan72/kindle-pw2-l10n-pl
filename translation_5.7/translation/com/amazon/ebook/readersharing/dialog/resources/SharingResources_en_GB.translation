@@ -1,0 +1,75 @@
+﻿
+A link to the book will be included with your message.	Link do książki będzie dołączony do Twojej wiadomości.
+A link to the quote will be included with your message.	Odnośnik do cytatu zostanie dołączony do wiadomości.
+Also share on:	Udostępnij również na:
+Connected	Połączono
+Error	Błąd
+Message is being shared.	Wiadomość jest w trakcie udostępniania.
+Message is too long. Please shorten your message to share.	Wiadomość jest zbyt długa. Skróć wiadomość, aby ją udostępnić.
+Please select a social network.	Proszę wybrać sieć społecznościową.
+Share on:	Udostępnij na:
+Share	Udostępnij
+The quote may be truncated to fit. A link to the book will be included with your message.	Cytat może zostać obcięty w celu dopasowania. Odnośnik do książki zostanie dołączony do wiadomości.
+There was a problem sending your message. Please try again later.	W trakcie wysyłania Twojej wiadomości wystąpił problem. Spróbuj ponownie później.
+Unable to retrieve your social network settings. Please try again later.	Nie udało się pobrać ustawień sieci społecznościowej. Spróbuj ponownie później.
+Updating settings...	Aktualizacja ustawień...
+Web Browser Locked	Przeglądarka internetowa jest zablokowana
+{0,select,facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}	{0,select,facebook {Ładowanie ustawień Facebooka...} twitter {Ładowanie ustawień Twittera...} weibo {Ładowanie ustawień Weibo...} other {Ładowanie ustawień ...}}
+Share Progress on Goodreads	Udostępnij postęp na Goodreads
+Book will be shelved as "Currently Reading"	Książka trafi na półkę "Teraz czytam"
+{0,number,percent} done	ukończone {0,number,percent}
+Cancel	Anuluj
+Close	Zamknij
+Delete	Usuń
+Edit	Edytuj
+Save	Zapisz
+{1,select,false{{0,plural,=0 {{0,number,integer} characters remaining.}one {{0,number,integer} character remaining.}other {{0,number,integer} characters remaining.}}}other {Message size exceeds the limit. {0,plural,=0 {Please remove {0,number,integer} characters to proceed.}one {Please remove {0,number,integer} character to proceed.}other {Please remove {0,number,integer} characters to proceed.}}}}	{1,select,false{{0,plural,=0 {{0,number,integer} characters remaining.}one {{0,number,integer} character remaining.}other {{0,number,integer} characters remaining.}}}other {Message size exceeds the limit. {0,plural,=0 {Please remove {0,number,integer} characters to proceed.}one {Please remove {0,number,integer} character to proceed.}other {Please remove {0,number,integer} characters to proceed.}}}}
+{0,select,facebook_gr {Loading Facebook settings...} facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}	{0,select,facebook_gr {Loading Facebook settings...} facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}
+{0,select,recipients {{1,select,true {Edit Recipients} other {Add Recipients}}} subject {Edit Subject} other {Edit Personal Message}}	{0,select,recipients {{1,select,true {Edit Recipients} other {Add Recipients}}} subject {Edit Subject} other {Edit Personal Message}}
+{0,select,recipients {{1,select,true {EDIT} other {ADD}}} other {EDIT}}	{0,select,recipients {{1,select,true {EDIT} other {ADD}}} other {EDIT}}
+{0}{1,plural,=0 {} one {… {1,number,integer} more person} other {… {1,number,integer} more people}}	{0}{1,plural,=0 {} one {… {1,number,integer} more person} other {… {1,number,integer} more people}}
+A free preview of the book will be included in your post.	A free preview of the book will be included in your post.
+Add Recipient	Add Recipient
+Add Recipients	Add Recipients
+Are you sure you want to remove {0} from the list of e-mail addresses?	Are you sure you want to remove {0} from the list of e-mail addresses?
+CANCEL	CANCEL
+Check out this book - "{0}"	Check out this book - "{0}"
+Check out this book - “{0}”	Check out this book - “{0}”
+Check out this book.	Check out this book.
+Check out this quote	Check out this quote
+Check out this quote.	Check out this quote.
+CLOSE	CLOSE
+Edit E-mail Address	Edit E-mail Address
+Edit Message	Edit Message
+Edit Recipients	Edit Recipients
+Edit Subject	Edit Subject
+E-mail Address Limit	E-mail Address Limit
+E-mail is being sent.	E-mail is being sent.
+Enter e-mail address	Enter e-mail address
+Hi, I think you should check out this book. Let me know what you think.	Hi, I think you should check out this book. Let me know what you think.
+Hi, I'm reading this book and wanted to share this quote with you.	Hi, I'm reading this book and wanted to share this quote with you.
+Loading the QR code for WeChat...	Loading the QR code for WeChat...
+Options	Options
+PERSONAL MESSAGE:	PERSONAL MESSAGE:
+REMOVE	REMOVE
+Remove E-mail Address	Remove E-mail Address
+SAVE	SAVE
+Scan the QR code with the WeChat app to share this book with your friends.	Scan the QR code with the WeChat app to share this book with your friends.
+Select E-mail Address	Select E-mail Address
+SEND	SEND
+Send me a copy	Send me a copy
+Share Note	Share Note
+Share Quote	Share Quote
+Share Selection	Share Selection
+Share to Facebook	Share to Facebook
+Share to Twitter	Share to Twitter
+Share to WeChat	Share to WeChat
+Share to Weibo	Share to Weibo
+SUBJECT:	SUBJECT:
+There was a problem. Please try again later.	There was a problem. Please try again later.
+This e-mail will include a free preview of the book.	This e-mail will include a free preview of the book.
+This e-mail will include your quote and a free preview of the book.	This e-mail will include your quote and a free preview of the book.
+TO:	TO:
+We're sorry. We encountered a problem when trying to share from this book. Please make sure you have a valid e-mail address associated with your Amazon account.	We're sorry. We encountered a problem when trying to share from this book. Please make sure you have a valid e-mail address associated with your Amazon account.
+You have reached the limit of {0,plural,=0 {} one {{0,number,integer} e-mail address} other {{0,number,integer} e-mail addresses}} can be stored on your Kindle. In order to add a new e-mail address, you must remove one already on your list.	You have reached the limit of {0,plural,=0 {} one {{0,number,integer} e-mail address} other {{0,number,integer} e-mail addresses}} can be stored on your Kindle. In order to add a new e-mail address, you must remove one already on your list.
+Your selected quote and a free preview of the book will be included in your post.	Your selected quote and a free preview of the book will be included in your post.

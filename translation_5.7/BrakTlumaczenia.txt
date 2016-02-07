@@ -1,0 +1,1685 @@
+﻿NIEPRZETŁUMACZONE TEKSTY
+
+Data wygenerowania: 2016-02-07 20:02:47
+
+====================================================================
+
+PLIK: com/amazon/agui/swing/resources/ComponentResources_en_GB.translation
+
+Go to Book Wizard	
+Kindle Store Recommendations	
+Time {0}. AMPM	
+Time {0}. Hour	
+Time {0}. Minute	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/periodicals/ui/resources/PeriodicalsUIResources_en_GB.translation
+
+CLIP THIS ARTICLE	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/impl/detail/resources/DetailViewFactoryResources_en_GB.translation
+
+Add To Wish List	
+Remove from Wish List	
+Try a Sample	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/impl/status/resources/ReaderStatusResources_en_GB.translation
+
+[FontFamily={0},FontSize={1,number,integer},LineSpacing={2,number,integer},Justification={3,number,integer},Margin=[top={4,number,integer},left={5,number,integer},bottom={6,number,integer},right={7,number,integer}],Contrast={8,number,integer}]	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/impl/ui/resources/UIResources_en_GB.translation
+
+Skip tutorial	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/bookmark/ui/resources/BookmarkResources_en_GB.translation
+
+Preview Pane for bookmark	
+Selected	
+Continue navigating to move to the preview pane	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/corrections/ui/resources/CorrectionsResources_en_GB.translation
+
+A Customer Service specialist will look into this error. You will be able to view the status on your profile page on kindle.amazon.com the next time this device synchronises with Amazon.	
+A Customer Service specialist will look into this error.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/ea/ui/resources/EndActionsResources_en_GB.translation
+
+✓ You are subscribed to e-mails.	
+Enjoyed this Sample?	
+Get new release updates, improved recommendations, and more coming soon	
+Processing	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/history/ui/resources/HistoryUIResources_en_GB.translation
+
+{0,select, location {Loc {1}} page {Page {1}} other {{1}}}	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/indexview/resources/IndexViewResources_en_GB.translation
+
+Search Dictionary	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/jit/resources/BEVTutorialResources_en_GB.translation
+
+Tap here to open Page Flip and explore the book without losing your place.	
+This book does not yet support viewing multiple pages at once, but you can still use Page Flip to explore without losing your place.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/jit/resources/BookmarkResources_en_GB.translation
+
+Place holder for Bookmark Tutorial Text	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/jit/resources/ChromeShareTutorialResources_en_GB.translation
+
+When you recommend a book to a friend, they can start reading the beginning of the book for free instantly. Try it now.	
+You can now recommend this book to specific people you know via e-mail. Tap here to try it now.	
+You can now recommend this book to specific people you know via WeChat. Tap here to try it now.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/jit/resources/FontChangeTutorialResources_en_GB.translation
+
+Tap here to adjust your font and page settings.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/jit/resources/PageTurnToolBarTutorialResources_en_GB.translation
+
+Gently press either side of the screen to turn pages using PagePress. Press the line to page forwards. Press the dot to page backwards.	
+Tap the top of the screen to display the toolbar.	
+To page forward in a book, press the top button. To go to the previous page, press the bottom button.	
+You’ve turned your first page! Tap on the right side of the screen to turn the next page. Tap on the left side of the screen to go back a page.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/jit/resources/SmartLookupSelectionTutorialResources_en_GB.translation
+
+Press and hold on a word to look it up in the dictionary or Wikipedia. Tap outside the smart card to close it.	
+Press and hold on a word to look it up in the dictionary or X-Ray. Tap outside the smart card to close it.	
+Press and hold on a word to look it up in the dictionary, X-Ray or Wikipedia. Tap outside the smart card to close it.	
+Press and hold on a word to look it up in the dictionary. Tap outside the smart card to close it.	
+Press, hold and drag to select a passage of text. From there, it's easy to highlight or add a note.	
+Press, hold and drag to select a passage of text. From there, it's easy to highlight, add a note or share.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/prompts/resources/PromptDialogResources_en_GB.translation
+
+A new reading font from Amazon	
+Bookerly was created exclusively for Kindle and designed for digital screens—so reading is faster and easier with less eye strain.~~~~Try reading with it. You can always change your font by tapping the Text button (Aa).	
+Introducing Bookerly	
+Use Bookerly	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/search/resources/SearchPluginResources_en_GB.translation
+
+Search in Book	
+Search in Document	
+Search in Issue	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/search/resources/SearchResultsPaneResources_en_GB.translation
+
+<html> <head><title>x-snippet</title></head> <body>  <font face="{0}" size="{1}">   <p>    <b id="location"> {2} </b>    <br/>   </p>  </font>  <x-snippet id="snippet"   positions="{3}"   maxwords="{4}"   rewind="{5}"   decorate="{6}"   path="{7}" /> </body></html>	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/systemcards/resources/SystemsCardsResources_en_GB.translation
+
+There are no dictionaries on your device for this book's language. To find a dictionary to download, tap All in the top left corner of your library screen.	
+There are no dictionaries on your device. To find a dictionary to download, tap All in the top left corner of your library screen.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/tts/resources/TTSResources_en_GB.translation
+
+Text-to-Speech encountered an error. Please restart your Kindle from Menu in Settings. If the problem persists, contact Kindle Customer Service at http://www.amazon.com/devicesupport	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/vocabulary/resources/VocabBuilderPluginResources_en_GB.translation
+
+Words that you look up in the dictionary while reading are added to Vocabulary Builder automatically. To view a list of the words, tap the Vocabulary Builder menu item on the Home screen or while reading.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/wikipedia/ui/resources/WikipediaResources_en_GB.translation
+
+Wikipedia lookups are not available when using FreeTime.	
+Wikipedia lookups are not available when using Kindle for Kids.	
+No Wikipedia results were found for your selection.	
+Wikipedia lookups are not available while using Kindle for Kids.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/plugin/xray/ui/resources/XrayDialogResources_en_GB.translation
+
+X-Ray — {0}	
+Notable Clips	
+Top Mentions	
+{0,plural,=0 {} one {{0,number,integer} mention} other {{0,number,integer} mentions}}	
+{0,plural,=0 {} one {{0,number,integer} More} other {{0,number,integer} More}}	
+Clips beyond your furthest page read are hidden. Tap to show all clips.	
+Additional clips beyond your furthest page read are hidden. Tap to show all clips.	
+Show All Clips	
+Hide Unread Clips	
+Do you find X-Ray useful?	
+「Go to location {0}」	
+「Go to page {0}」	
+Highlighted	
+X-Ray Settings	
+Go to location {0}	
+Go to page {0}	
+location {0}	
+page {0}	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/resources/LprResources_en_GB.translation
+
+{0,select,mrpr{To sync to the most recent page read, Annotations Backup must be turned on.} other{To sync to the furthest page read, Annotations Backup must be turned on.}} Go to Settings from the Home screen menu, select Reading Options and then Annotations Backup.	
+{0,select,mrpr{Most Recent Page Read} other{Furthest Page Read}}	
+{0,select,mrpr{Retrieving most recent page read...} other{Retrieving furthest page read...}}	
+{0,select,mrpr{Unable to retrieve the most recent location read.} other{Unable to retrieve the furthest location read.}} If this is the first time you have opened this book, your device will update your location when you close the book or your device goes to sleep.	
+You are currently at location {1}. {5,select,yesterday{{0,select,mrpr{The most recent location read is {2} from "{3}" yesterday at {4}.} other{The furthest location read is {2} from "{3}" yesterday at {4}.}}} today{{0,select,mrpr{The most recent location read is {2} from "{3}" today at {4}.} other{The furthest location read is {2} from "{3}" today at {4}.}}} other{{0,select,mrpr{The most recent location read is {2} from "{3}" on {6} at {4}.} other{The furthest location read is {2} from "{3}" on {6} at {4}.}}}} Go to location {2}?	
+You are currently at location {1}. {0,select,mrpr{Your most recent location read is {2}.} other{Your furthest location read is {2}.}} Go to location {2}?	
+You are currently on page {1}. {0,select,mrpr{Your most recent page read is {2}.} other{Your furthest page read is {2}.}} Go to page {2}?	
+You are currently on page {1}. {5,select,yesterday{{0,select,mrpr{The most recent page read is {2} from "{3}" yesterday at {4}.} other{The furthest page read is {2} from "{3}" yesterday at {4}.}}} today{{0,select,mrpr{The most recent page read is {2} from "{3}" today at {4}.} other{The furthest page read is {2} from "{3}" today at {4}.}}} other{{0,select,mrpr{The most recent page read is {2} from "{3}" on {6} at {4}.} other{The furthest page read is {2} from "{3}" on {6} at {4}.}}}} Go to page {2}?	
+{0,select,mrpr{You are currently at the most recent page read.} other{You are currently at the furthest page read.}}	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/resources/ReaderResources_en_GB.translation
+
+Animation	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/sdk/exception/resources/ReaderExceptionResources_en_GB.translation
+
+The selected item could not be opened. If you purchased this item from Amazon, you can try downloading the item again from the Cloud. For help, contact Kindle Customer Service at: www.amazon.com/devicesupport	
+The selected item could not be opened. If you purchased this item from Amazon, you can try to download the item again from the Cloud. For additional help, please go to www.amazon.com/devicesupport	
+The selected item could not be opened. The title is too large for the available memory. For help, please contact Kindle Customer Service at: www.amazon.com/devicesupport.	
+The selected item is missing important metadata and may cause system instability. For help, contact Kindle Customer Service at: www.amazon.com/devicesupport.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/booklet/reader/utils/resources/ReaderUtilsResources_en_GB.translation
+
+This view mode is not fully supported by Screen Reader. Please switch to portrait mode for a better experience	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/ActivateResources_en_GB.translation
+
+{0,choice,0#{0,plural,one {Your free sample is downloading} other {Your {0,number,integer} free samples are downloading}}}	
+Already a member?	
+Get more recommendations and see what your friends are reading.	
+Join Goodreads	
+Not Right Now	
+Start reading now 	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/BookDetailResources_en_GB.translation
+
+Book Details	
+Loading description...	
+Unable to load description...	
+WANT TO READ	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/BWCommonResources_en_GB.translation
+
+A network error has occurred. Please check your connection and try again.	
+An unexpected error has occurred. Please try again. If the problem persists, please contact Amazon Customer Service at www.amazon.com/devicesupport.	
+Network Error	
+NEXT	
+Please check your connection and try again.	
+Slow Network	
+Unable to get data due to slow network	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/DownloadsResources_en_GB.translation
+
+{0,plural,=0 {{0,number,integer} Books You Marked as "Want to Read"} one {{0,number,integer} Book You Marked as "Want to Read"} other {{0,number,integer} Books You Marked as "Want to Read"}}	
+{0,plural,=0 {Skip} one {Download {0,number,integer} Sample} other {Download {0,number,integer} Samples}}	
+Powered by	
+Powered by Goodreads	
+Step 3 of 3	
+Suggestions Based on Your Ratings	
+Thanks. Please tap below to download the ticked samples.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/GenreResources_en_GB.translation
+
+First, pick some genres you like.	
+Step 1 of 3	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/RatingsResources_en_GB.translation
+
+Books Rated: {0, number, integer}	
+Done exploring?	
+I'm Done	
+Now, rate some books you've read or mark books you're interested in as "Want to Read". Rate at least 10 books to get the best recommendations.	
+Rate More	
+SHOW 3 MORE BOOKS	
+Step 2 of 3	
+WANT TO READ	
+You've rated fewer than 10 books. Rate more books for better recommendations.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/bookwizard/resources/WelcomePanelResources_en_GB.translation
+
+{0,select,true{In three easy steps, we'll help you get free samples and see personalised recommendations.} other{In three easy steps, we'll help you get free samples, see personalised recommendations and find your first book.}}	
+Book Wizard	
+Hi {0},	
+Hi {0}, welcome to Kindle!	
+In three easy steps, we'll help you get free samples, see personalised recommendations and find your first book.	
+LET'S GET STARTED	
+NO, THANK YOU	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/DialogResources_en_GB.translation
+
+Was this helpful?	
+Which of these is most helpful?	
+None of these	
+Some words have more than one possible meaning. When we're unsure of the correct meaning of a word in a given sentence, we'll show you a list of possible meanings and ask you to pick the one that is most helpful.	
+The hint uses difficult words	
+This meaning is wrong	
+Thank you. Can you tell us more about the problem?	
+{0,select,true{Definition from {1}} other{Definition}}	
+This word can also mean:	
+Word Wise	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/DifficultyControlResources_en_GB.translation
+
+Tap on Word Wise and use the slider to adjust how many hints you see.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/DownloadProgressResources_en_GB.translation
+
+Word Wise cannot be downloaded for this book because your Kindle doesn't have enough free memory. You can make more Kindle memory available by removing content from Home.	
+There was an error downloading Word Wise for this book. Would you like to try downloading again?	
+Word Wise cannot be downloaded for this book because Aeroplane Mode is turned on. Would you like to turn off Aeroplane Mode and resume downloading?	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/FeedbackResources_en_GB.translation
+
+Thank you. We'll give this word some additional review to find the best hint.	
+Thank you. We won't show you hints for this word again.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/FTUXResources_en_GB.translation
+
+Word Wise	
+{0,select,true{Want help with challenging words?} other{Want help reading English books?}}	
+{0,select,true{Word Wise helps young readers and readers learning English by explaining the most challenging words in the book.} other{Word Wise helps readers learning English by explaining the most challenging words in a book.}}	
+to make clear	
+elucidate	
+Tap on a word to see a definition, similar words and more.	
+{0,select,true{Tap on Menu and choose Word Wise to turn off this feature.} other{Would you like to turn on Word Wise for all compatible books?}}	
+Turn On Word Wise	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/GlossDialogUtilResources_en_GB.translation
+
+Use This Meaning	
+
+====================================================================
+
+PLIK: com/amazon/ebook/reader/languagelayer/resources/LanguageLayerResources_en_GB.translation
+
+Word Wise	
+{0,select,true{Downloading...} other{Downloading Word Wise...}}	
+
+====================================================================
+
+PLIK: com/amazon/ebook/readersharing/dialog/resources/SharingResources_en_GB.translation
+
+{1,select,false{{0,plural,=0 {{0,number,integer} characters remaining.}one {{0,number,integer} character remaining.}other {{0,number,integer} characters remaining.}}}other {Message size exceeds the limit. {0,plural,=0 {Please remove {0,number,integer} characters to proceed.}one {Please remove {0,number,integer} character to proceed.}other {Please remove {0,number,integer} characters to proceed.}}}}	
+{0,select,facebook_gr {Loading Facebook settings...} facebook {Loading Facebook settings...} twitter {Loading Twitter settings...} weibo {Loading Weibo settings...} other {Loading settings...}}	
+{0,select,recipients {{1,select,true {Edit Recipients} other {Add Recipients}}} subject {Edit Subject} other {Edit Personal Message}}	
+{0,select,recipients {{1,select,true {EDIT} other {ADD}}} other {EDIT}}	
+{0}{1,plural,=0 {} one {… {1,number,integer} more person} other {… {1,number,integer} more people}}	
+A free preview of the book will be included in your post.	
+Add Recipient	
+Add Recipients	
+Are you sure you want to remove {0} from the list of e-mail addresses?	
+CANCEL	
+Check out this book - "{0}"	
+Check out this book - “{0}”	
+Check out this book.	
+Check out this quote	
+Check out this quote.	
+CLOSE	
+Edit E-mail Address	
+Edit Message	
+Edit Recipients	
+Edit Subject	
+E-mail Address Limit	
+E-mail is being sent.	
+Enter e-mail address	
+Hi, I think you should check out this book. Let me know what you think.	
+Hi, I'm reading this book and wanted to share this quote with you.	
+Loading the QR code for WeChat...	
+Options	
+PERSONAL MESSAGE:	
+REMOVE	
+Remove E-mail Address	
+SAVE	
+Scan the QR code with the WeChat app to share this book with your friends.	
+Select E-mail Address	
+SEND	
+Send me a copy	
+Share Note	
+Share Quote	
+Share Selection	
+Share to Facebook	
+Share to Twitter	
+Share to WeChat	
+Share to Weibo	
+SUBJECT:	
+There was a problem. Please try again later.	
+This e-mail will include a free preview of the book.	
+This e-mail will include your quote and a free preview of the book.	
+TO:	
+We're sorry. We encountered a problem when trying to share from this book. Please make sure you have a valid e-mail address associated with your Amazon account.	
+You have reached the limit of {0,plural,=0 {} one {{0,number,integer} e-mail address} other {{0,number,integer} e-mail addresses}} can be stored on your Kindle. In order to add a new e-mail address, you must remove one already on your list.	
+Your selected quote and a free preview of the book will be included in your post.	
+
+====================================================================
+
+PLIK: com/amazon/ebook/readingtime/badge/booklet/resources/BadgeResources_en_GB.translation
+
+{0,select,DAILY{{1,select,goalNotMet{{3,plural,=0{MINUTES LEFT TO DAILY GOAL} one{MINUTE LEFT TO DAILY GOAL} other{MINUTES LEFT TO DAILY GOAL}}} goalMet{{2,select,0{{5, select, false{NO ACTIVITY} other{NO GOALS SET}}} other{DAILY GOAL REACHED}}} goalOverMet{{3,plural,=0{MINUTES OVER DAILY GOAL} one{MINUTE OVER DAILY GOAL} other{MINUTES OVER DAILY GOAL}}} other{}}} other{{2,plural,=0{DAILY GOALS MET} one{DAILY GOAL MET} other{DAILY GOALS MET}}}}	
+{0,select,DAILY{{1,select,goalNotMet{{6}} goalMet{{2,select,0{----} other{OK}}} goalOverMet{+{6}} other{}}} other{{4}}}	
+
+====================================================================
+
+PLIK: com/amazon/ebook/vocabbuilder/service/resources/VocabularyBuilderServiceResources_en_GB.translation
+
+Sync My Kindle	
+
+====================================================================
+
+PLIK: com/amazon/kindle/apps/util/resources/ContentViewResources_en_GB.translation
+
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	
+PDF	
+PURGE	
+RECEIPT	
+
+====================================================================
+
+PLIK: com/amazon/kindle/apps/util/resources/GrokResources_en_GB.translation
+
+We are unable to connect to Goodreads at this time. Please try again later.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/apps/util/resources/UtilResources_en_GB.translation
+
+Your Kindle is not registered. Please go to Settings to register. For help, contact Kindle Customer Service at www.amazon.com/devicesupport.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/ChildProfileTypeWidgetResources_en_GB.translation
+
+{0, select, kft {Use Kindle FreeTime} tween {Parental Controls} other {Use Kindle FreeTime}}	
+{0, select, kft {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} tween {Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.} other {Great for kids aged 8 and younger.}}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/DialogResources_en_GB.translation
+
+Clean Up	
+Play	
+Record	
+All your collections are synced to the Cloud.~~~~Tap All in the upper left corner to see all collections, including those created on other Kindle devices and apps.~~~~Tap Downloaded to see collections that are on this Kindle.	
+Press and hold a collection to add or remove it from this Kindle.~~~~When you view your Cloud content, collections on this Kindle are marked with a star.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/DisplayControllerResources_en_GB.translation
+
+{0,choice,0#1 of 1|2#{1,number,integer} of {2,number,integer}}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/FreeTimeResources_en_GB.translation
+
+We are loading your FreeTime Unlimited books and this may take a minute.	
+We are loading your Kindle for Kids Unlimited books and this may take a minute.	
+<html><body><b>What is Kindle FreeTime?</b><br/>Kindle FreeTime is a new experience built from the ground up just for kids. Kindle FreeTime allows you to choose books youʼve purchased to create a personalised experience for each of your children, giving you complete control over which books each child can access. In Kindle FreeTime, kids can read books in a simple, fun and safe environment designed specifically for them.<br/>&nbsp;<br/><b>How does Kindle FreeTime work?</b><br/>Kindle FreeTime gives you peace of mind that your child wonʼt access inappropriate content or websites or accidentally purchase books from the Kindle store, while providing a fun and easy-to-use interface for kids. Kindle FreeTime:<br/>&nbsp;<br/>• Blocks access to browsing and purchasing in the Kindle store;<br/>• Blocks access to the experimental web browser;<br/>• Blocks access to Wikipedia;<br/>• Disables social sharing.<br/>&nbsp;<br/><b>Books in Kindle FreeTime:</b><br/>You can choose specific books for your child in Kindle FreeTime from your library or when you purchase new books from Amazon. You can select whatever books you feel appropriate, and change your selections at any time. Books that you share in Kindle FreeTime will function just like they would normally, except that the protections listed above will limit some functionality. Books you share in Kindle FreeTime will be available in your childʼs profile on Kindle Fire, Kindle Paperwhite and Kindle Voyage.<br/>&nbsp;<br/><b>What information do you share with Amazon in Kindle FreeTime?</b><br/>In setting up your childʼs profile, we ask you to provide the childʼs screen name (which can be any word you choose), gender and birthdate. In Kindle FreeTime we use your childʼs profile to provide a customised experience, and we do not collect personally identifiable information from your child. Kindle FreeTime provides us information about your childʼs reading activity, which allows us to provide progress reports to you on your childʼs reading, to enable your child to earn Achievements for meeting specific reading milestones you set and to improve the Kindle FreeTime experience. This information is subject to our Privacy Notice (available at {0}).</body></html>	
+<html><body><b>What is Kindle for Kids?</b><br>Kindle for Kids is a new experience built from the ground up just for kids. Kindle for Kids allows you to choose books you've purchased to create a personalised experience for each of your children, giving you complete control over what books each child can access. In Kindle for Kids, children can read books in a simple, fun and safe environment designed specifically for them.<br/>&nbsp;<br/><b>How does Kindle for Kids work?</b><br>Kindle for Kids gives you peace of mind that your child won't access inappropriate content or websites, or accidentally purchase books from the Kindle store, while providing a fun and easy-to-use interface for kids. Kindle for Kids:<br/>&nbsp;<br/>• Blocks access to browsing and purchasing in the Kindle store;<br>• Blocks access to the experimental web browser;<br>• Blocks access to Wikipedia;<br>• Disables social sharing.<br/>&nbsp;<br/><b>Books in Kindle for Kids:</b><br>You can choose specific books for your child in Kindle for Kids from your library or when you purchase new books from Amazon. You can select whatever books you feel appropriate and change your selections at any time. Books that you share in Kindle for Kids will function just like they would normally, except that the protections listed above will limit some functionality. Books you share in Kindle for Kids will be available in your child's profile on Kindle Fire, Kindle Paperwhite and Kindle Voyage.<br/>&nbsp;<br/><b>What information do you share with Amazon in Kindle for Kids?</b><br>In setting up your child's profile, we ask you to provide the child's screen name (which can be any word you choose), gender and birthdate. In Kindle for Kids we use your child's profile to provide a customised experience, and we do not collect personally identifiable information from your child. Kindle for Kids provides us with information about your child's reading activity, which allows us to provide you with progress reports on your child's reading, to enable your child to earn Achievements for meeting specific reading milestones you set, and to improve the Kindle for Kids experience. This information is subject to our Privacy Notice (available at {0}).</body></html>	
+FreeTime bez ograniczeń	
+<html><body><b>What is Kindle for Kids?</b><br>Kindle for Kids is an experience built from the ground up just for kids. Kindle for Kids allows you to choose books you've purchased to create a personalised experience for each of your children, giving you complete control over what books each child can access. In Kindle for Kids, children can read books in a simple, fun and safe environment designed specifically for them.<br/>&nbsp;<br/><b>How does Kindle for Kids work?</b><br>Kindle for Kids gives you peace of mind that your child won't access inappropriate content or websites, or accidentally purchase books from the Kindle store, while providing a fun and easy-to-use interface for kids. Kindle for Kids:<br/>&nbsp;<br/>• Blocks access to browsing and purchasing in the Kindle store;<br>• Blocks access to the experimental web browser;<br>• Blocks access to Wikipedia;<br>• Disables social sharing.<br/>&nbsp;<br/><b>Books in Kindle for Kids:</b><br>You can choose specific books for your child in Kindle for Kids from your library or when you purchase new books from Amazon. You can select whatever books you feel appropriate and change your selections at any time. Books that you share in Kindle for Kids will function just like they would normally, except that the protections listed above will limit some functionality. Books you share in Kindle for Kids will be available in your child's profile on Kindle Fire, Kindle Paperwhite and Kindle Voyage.<br/>&nbsp;<br/><b>What information do you share with Amazon in Kindle for Kids?</b><br>In setting up your child's profile, we ask you to provide the child's screen name (which can be any word you choose), gender and birthdate. In Kindle for Kids we use your child's profile to provide a customised experience, and we do not collect personally identifiable information from your child. Kindle for Kids provides us with information about your child's reading activity, which allows us to provide you with progress reports on your child's reading, to enable your child to earn Achievements for meeting specific reading milestones you set, and to improve the Kindle for Kids experience. This information is subject to our Privacy Notice (available at {0}).</body></html>	
+<html><body><b>What is Kindle FreeTime?</b><br/>Kindle FreeTime is an experience built from the ground up just for kids. Kindle FreeTime allows you to choose books youʼve purchased to create a personalised experience for each of your children, giving you complete control over which books each child can access. In Kindle FreeTime, kids can read books in a simple, fun and safe environment designed specifically for them.<br/>&nbsp;<br/><b>How does Kindle FreeTime work?</b><br/>Kindle FreeTime gives you peace of mind that your child wonʼt access inappropriate content or websites or accidentally purchase books from the Kindle store, while providing a fun and easy-to-use interface for kids. Kindle FreeTime:<br/>&nbsp;<br/>• Blocks access to browsing and purchasing in the Kindle store;<br/>• Blocks access to the experimental web browser;<br/>• Blocks access to Wikipedia;<br/>• Disables social sharing.<br/>&nbsp;<br/><b>Books in Kindle FreeTime:</b><br/>You can choose specific books for your child in Kindle FreeTime from your library or when you purchase new books from Amazon. You can select whatever books you feel appropriate, and change your selections at any time. Books that you share in Kindle FreeTime will function just like they would normally, except that the protections listed above will limit some functionality. Books you share in Kindle FreeTime will be available in your childʼs profile on Kindle Fire, Kindle Paperwhite and Kindle Voyage.<br/>&nbsp;<br/><b>What information do you share with Amazon in Kindle FreeTime?</b><br/>In setting up your childʼs profile, we ask you to provide the childʼs screen name (which can be any word you choose), gender and birthdate. In Kindle FreeTime we use your childʼs profile to provide a customised experience, and we do not collect personally identifiable information from your child. Kindle FreeTime provides us information about your childʼs reading activity, which allows us to provide progress reports to you on your childʼs reading, to enable your child to earn Achievements for meeting specific reading milestones you set and to improve the Kindle FreeTime experience. This information is subject to our Privacy Notice (available at {0}).</body></html>	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/FreeTimeServerResources_en_GB.translation
+
+You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	
+You have reached the limit of adult profiles allowed for Kindle for Kids.	
+Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	
+We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	
+{0, select, create { Weʼre currently experiencing problems creating new profiles, please try again later.}  update { Weʼre currently experiencing problems editing profiles, please try again later.} remove { Weʼre currently experiencing problems deleting profiles, please try again later.}  other { Weʼre currently experiencing problems editing profiles, please try again later.} }	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/GrokResources_en_GB.translation
+
+The Goodreads account information you entered is already linked with another Amazon account. Please log in to Goodreads.com and remove the other linked Amazon account under Edit Profile > apps.	
+The specified Facebook account does not have a matching Goodreads account. Please try a different Facebook login or sign in using your e-mail address.	
+By connecting your Facebook account to Goodreads, Goodreads may access your name, public profile, friend list and e-mail address.~~~~Goodreads will also be able to post to Facebook automatically on your behalf (for example, books you have read.)~~~~You can learn more and adjust these settings at goodreads.com/settings.	
+Your Facebook login is correct, but the information you entered does not match a Goodreads account.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/HouseholdResources_en_GB.translation
+
+Switching profiles will cancel any pending downloads. Purchases will continue to download when you return to your profile.	
+Switching profiles will cancel any pending downloads.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/HouseholdServerResources_en_GB.translation
+
+You have reached the limit of childrenʼs profiles allowed for Kindle for Kids.	
+You have reached the limit of adult profiles allowed for Kindle for Kids.	
+Weʼre sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	
+We're sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	
+{0, select, create { We're currently experiencing problems creating new profiles, please try again later.}  update { We're currently experiencing problems editing profiles, please try again later.} remove { We're currently experiencing problems deleting profiles, please try again later.}  other { We're currently experiencing problems, please try again later.} }	
+This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.kindle.com/support for further assistance.	
+This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.kindle.com/support for further assistance.	
+This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.kindle.com/support for further assistance.	
+This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.kindle.com/support for further assistance.	
+All adults in this household must belong to the same Country of Residence and Preferred Marketplace. Please change your Amazon account settings to match the other adult in the household and try again. 	
+This Amazon account is already part of this household and cannot be added. Each adult in a household must have a unique Amazon account.	
+This Amazon account is already part of another household and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+This Amazon account is already part of another household. Merging this household will exceed the limit of 4 child profiles and canʼt be completed. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+This Amazon account was part of another household in the last 180 days and cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+This household had another adult added in the last 180 days, so a new adult cannot be added. Please contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/MenuResources_en_GB.translation
+
+Kindle FreeTime	
+Date	
+Goodreads	
+My Library	
+My Reading Lists	
+Sync My Kindle	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/ParentalControlsResources_en_GB.translation
+
+{0,select, has_hint {Hint: {1}} other {}}~~~~If you have forgotten your password, please contact Kindle Customer Service at www.amazon.com/devicesupport to receive help resetting your device.	
+Access to the Goodreads network of readers.	
+button.cancel.label	
+Goodreads na Kindle	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/SocialResources_en_GB.translation
+
+{0,select, facebook {You are now linked to Facebook.} twitter {You are now linked to Twitter.} other {You are now linked to Facebook and Twitter.}} You can always change your settings later.	
+Your Facebook account requires attention. Please visit facebook.com and sign in before proceeding here.	
+By linking with Twitter, you will be able to tweet from Amazon devices and applications and you will enable Amazon to access your tweets, see who you follow, follow new people and update your profile information.	
+By connecting your Weibo account to Amazon, you will enable Amazon to obtain your personal information, see who you follow, post messages on your Weibo account and obtain your comments. Weibo allows you to revoke access to an application at any time from the My Applications section of the Applications tab on Weibo.com.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/SortResources_en_GB.translation
+
+Number of Hits ({0})	
+
+====================================================================
+
+PLIK: com/amazon/kindle/control/resources/UtilResources_en_GB.translation
+
+Vocabulary Builder has been turned off and will no longer appear on your Home screen. To turn it on, go to Settings, Reading Options, Language Learning and Vocabulary Builder.	
+Kindle for Kids has been disabled and will no longer appear on your Home screen. To turn it on, go to Settings, Device Options, Parental Controls and Kindle for Kids.	
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.	
+The item you added to this collection was added to this device directly from a computer. Adding it to a collection will not sync the item to the Cloud, so you may not see this item on your other Kindle devices or apps.	
+This collection will no longer appear in Device view. You can see the collection in Cloud view, and add it to your device again by pressing and holding on the collection. Removing a collection from your device does not remove the content inside that collection from your library.	
+downloading-{0,choice,0.09#{0,number,#%}|0.09<{0,number,#%}}	
+CONNECTION REQUIRED	
+DOWNLOAD COMPLETE	
+DOWNLOADING - {0,choice,0.09# {0,number,#%}|0.09<{0,number,#%}}	
+ERROR	
+INSUFFICIENT SPACE	
+QUEUED	
+TAP TO OPEN	
+This collection will no longer appear on your device. You can see the collection in the Cloud by tapping All. To add it to your device again, press and hold the collection. Removing a collection from your device does not remove the content inside that collection from your library.	
+WI-FI REQUIRED	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoAcknowledgementResources_en_GB.translation
+
+Demo Activation	
+Do you wish to activate demo mode? This is for retail store use only.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoAcknowledgeResources_en_GB.translation
+
+Demo Activation	
+Do you wish to activate demo mode? This is for retail store use only.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoActivatorBookletResources_en_GB.translation
+
+Demo Mode Activator	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoConfigurationResources_en_GB.translation
+
+Demo Menu	
+Update Registration Info	
+Sideload Content	
+Debug Information	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoConfiguringResources_en_GB.translation
+
+Configuring Demo	
+Please wait while demo content is installed.~~~~When complete, the demo will start automatically.~~~~If you need to change Wi-Fi or demo registration, enter ;demo in the Search Box	
+Please wait while demo content is installed. ~~~~This process may take a few minutes and you may see a blank screen during this time. ~~~~When complete, the demo will start automatically. ~~~~If you need to change Wi-Fi or demo registration, enter ;demo in the Search box.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoDebugResources_en_GB.translation
+
+SW Version	
+SW Build	
+Locale	
+Marketplace	
+Demo Debug Info	
+DSN	
+ERROR	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoNetworkRequestResources_en_GB.translation
+
+Demo Mode: Connect to Wi-Fi	
+Demonstrations work much better when the Kindle is connected to a Wi-Fi network. Do you want to connect to a Wi-Fi network now?	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoRegistrationResources_en_GB.translation
+
+Register This Demo	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoResellResources_en_GB.translation
+
+Reset Demo and Resell	
+Are you sure you want to reset this demo Kindle in order to sell it? If you continue, you will NOT be able to reuse this device for demo purposes.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoSideloadResources_en_GB.translation
+
+Demo Mode: Add Content	
+Connect this Kindle to a computer using the USB cable and copy new content as directed. When complete, eject the Kindle from the computer and select Done below.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DemoVerifyResources_en_GB.translation
+
+Demo content image present	
+Demo content MD5 matches	
+Demo manifest (demo.json) present	
+Verify Demo	
+ERROR	
+
+====================================================================
+
+PLIK: com/amazon/kindle/demo/resources/DeviceRegisteredResources_en_GB.translation
+
+Device Already Registered	
+Registered Kindle devices cannot be used as retail demos.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/ActionResources_en_GB.translation
+
+If others have commented on or liked your update, their activities will also be removed. Are you sure you want to delete this update?	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/ActivateResources_en_GB.translation
+
+Already a member?	
+See what your friends are reading and find new books you'll love with the world's largest network of readers and recommendations.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/AuthorResources_en_GB.translation
+
+{0,choice,0#{0,plural,=0 {<ul>{0,number,integer} Followers</ul>} one {<ul>{0,number,integer} Follower</ul>} other {<ul>{0,number,integer} Followers</ul>}}|100000#<ul>99,999+ Followers</ul>}	
+{0,choice,0#{0,plural,=0 {<ul>{0,number,integer} Friends</ul>} one {<ul>{0,number,integer} Friend</ul>} other {<ul>{0,number,integer} Friends</ul>}}|100000#<ul>99,999+ Friends</ul>}	
+{0,select, first_person {My Profile} other {About this Author}}	
+ Autor Goodreads	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/ControllerResources_en_GB.translation
+
+Sorry, we weren't able to find your book on Goodreads.~~Tap here to continue ▶	
+There was a problem connecting to Goodreads.~~Tap here to try again ▶	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/GoodreadsUpsellResources_en_GB.translation
+
+Add these {0} books to Goodreads to get better recommendations. ~~Books you add are visible to your friends and the Goodreads community.	
+Get your Goodreads reading network started by adding your Facebook friends.	
+Now you can find books you'll love and track what you're reading with the world's largest network of readers.	
+Share What You're Reading	
+Step 1 of 2	
+Step 2 of 2	
+We noticed you already rated some books.	
+Welcome to Goodreads!	
+Welcome to Goodreads, {0}!	
+You can now share and discuss books with your Goodreads friends directly from your Kindle.	
+You gave it ~~{0}	
+You want to read it.	
+Your friends and the Goodreads community can see books you add to your profile. Get started by sharing the {0} books you have already rated or marked as Want to Read:	
+You're now connected to your Facebook friends who are already sharing and discussing books on Goodreads!	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/HeaderStyleResources_en_GB.translation
+
+{0,select, author { Following} other { Friend}}	
+{0,select, author { Following} other { Request Sent}}	
+{0,select, first_author {Books I've Written ({1,number,0})} other {Author's Books ({1,number,0})}}	
+{0,select, shelved_books {Shelved Books ({1,number,0}) } first_author_activity {My Recent Updates } other {Recent Updates }}	
+{0,select, show_more {See More } other {}}	
+Recent Updates	
+{0,plural,=0 {Skip} one {Download {0,number,integer} Sample} other {Download {0,number,integer} Samples}}	
+Add {0,plural,=0 {{0,number,integer} Books} one {{0,number,integer} Book} other {{0,number,integer} Books}}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/RatingsAndRecsSplashResources_en_GB.translation
+
+Welcome to your new Kindle! In just a few steps, we'll help you get free samples, see personalised recommendations and find your first book.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/RecommendationResources_en_GB.translation
+
+Amazon Purchases	
+Are you sure you're done?	
+Download Free Samples	
+Edit Favourite Genres	
+Edit Genres	
+Find your next favourite book.	
+First, pick some genres you like. We'll help you get personalised recommendations and find your next favourite book.	
+Here are samples of books you want to read.~~Checked books will download in the background.	
+Here are some suggestions based on your ratings.~~See a book you like? Tap "Want to Read."	
+I'm Done	
+Keep Rating	
+Now, rate books in those genres.	
+Personalised Recommendations	
+Please select at least one genre.	
+Rate at least 5 books to get personalised recommendations.	
+Rate more books to improve your recommendations.	
+Similar to "{0}"	
+Tell us about your favourite genres	
+Welcome to Goodreads	
+You rated fewer than 5 books. The more books you rate, the better your recommendations.	
+First, pick some genres.	
+Goodreads learns about your personal taste from your ratings and then generates unique recommendations that are just for you.~~You need to rate at least 10 books to get personalised recommendations. You've rated {0,plural,=0 {no books} one {{0,number,integer} book} other {{0,number,integer} books} } so far.	
+Here are books we think you’ll love.	
+Here are genres you've selected. Tap a selected genre to remove it or add more to get personalised recommendations.	
+Here are samples of books you marked Want to Read.~~You can find your downloaded samples on your Kindle Home screen.	
+Now rate some more books.	
+Rate at least 10 books to get personalised recommendations.	
+Select All	
+Select your favourite genres to get personalised recommendations.	
+Unselect All	
+Welcome to Goodreads, {0}!	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/UtilResources_en_GB.translation
+
+It might take a few minutes for your personal recommendations to update. If you don't see updated books, please check again later.	
+Rating a book adds it to your "Read" shelf. Tapping "Want to Read" adds it to your "Want to Read" shelf.~~~~Books added to your shelves are publicly visible on your Goodreads profile. You can change your settings at goodreads.com.	
+Your bookshelf is growing!	
+{0,select, none {?{1}?} complete {?{1}?} other {?{1}?}} {2,number,percent}	
+See a book you like? Tap Want to Read to add it to your reading lists.	
+You added a book!	
+
+====================================================================
+
+PLIK: com/amazon/kindle/discovery/resources/ViewResources_en_GB.translation
+
+{0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display friends. Please try again.} other {}}	
+{0,select,empty {Tap here to follow suggested readers or add Facebook friends } unknown {Loading…} error {Unable to display people you are following. Please try again.} other {}}	
+{0,select,empty {You do not have any followers yet.} unknown {Loading…} error {Unable to display followers. Please try again.} other {}}	
+{0,select,empty {No updates have been posted yet.~~Tap here to follow suggested readers or add Facebook friends on Goodreads } unknown {Loading updates…} error {Unable to display updates. Please try again.}  other {}}	
+{0,select,empty {No updates have been posted yet.} unknown {Loading updates…} error {Unable to display updates. Please try again.}  other {}}	
+{0,select,empty {There was a problem retrieving comments. Please try again } unknown {Loading comments…} error {No comments currently available.} other {}}	
+{0,select,empty {No updates yet.} unknown {Loading…} error {Unable to display updates. Please try again.} other {}}	
+{0,select,empty {Tap here to add books from your Amazon library } unknown {Loading…} error {Unable to display books. Please try again.} other {}}	
+{0,select,empty {No recent updates.}  unknown {Loading…} error {Unable to display updates. Please try again.} other {}}	
+{0,select,empty {No books added yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}	
+{0,select,empty {Be the first to add {1} as a friend } empty_pending_friend {No friends yet.} unknown {Loading…} error {Unable to display friends. Please try again.} other {}}	
+{0,select,empty {Not following any readers yet.} unknown {Loading…} error {Unable to display who this user is following. Please try again.} other {}}	
+{0,select,empty {Be the first to follow {1} } empty_existing_friend {No followers yet.} unknown {Loading…} error {Unable to display followers. Please try again.}  other {}}	
+{0,select,empty {You do not have any friends yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Friends…} error {Unable to display friends. Please try again.} other {}}	
+{0,select,empty {You are not following any readers yet.~~Tap here to follow suggested readers or to add Facebook friends } unknown {Loading Following…} error {Unable to display people you are following. Please try again.} other {}}	
+{0,select,empty {You do not have any followers yet.} unknown {Loading Followers…}  error {Unable to display followers. Please try again.} other {}}	
+{0,select,empty {There are currently no new readers for you to follow. Please try again later.} facebook_not_connected {There are currently no new readers for you to follow. Add your friends from Facebook to Goodreads } unknown {Loading suggested readers…}  error {Unable to display suggested readers. Please try again.}  other {}}	
+{0,select,empty {None of your friends have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display friend reviews. Please try again.} other {}}	
+{0,select,empty {None of the people you are following have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display reviews from the people you are following. Please try again.} other {}}	
+{0,select,empty {No members of the Goodreads community have reviewed this book yet. Please try again later.} unknown {Loading Reviews…} error {Unable to display community reviews. Please try again.} other {}}	
+{0,select,empty {There are no shelved books yet.} unknown {Loading books…} error {Unable to display shelved books. Please try again.} other {}}	
+{0,select,empty {You have not shelved any books yet. View your Amazon book purchases to add books to Goodreads } unknown {Loading books…} error {Unable to display shelved books. Please try again.} other {}}	
+{0,select,empty {There are no books in your library yet.~~See what your friends are reading } unknown {Loading Amazon books…} error {Unable to display books. Please try again.} other {}}	
+{0,select,empty {No matches were found for "{1}".} unknown {Loading search results…} error {Unable to display search results. Please try again.} other {}}	
+By connecting, you will enable Goodreads to access your public profile, friend list, e-mail address, and likes from Facebook. Additionally, Goodreads will be able to send posts to your friends on your behalf. By proceeding, you agree to the Goodreads Terms of Service and Privacy Policy.	
+{0,choice,0#{0,plural,=0 {{0,number,integer} followers} one {{0,number,integer} follower} other {{0,number,integer} followers}}|1000#999+ followers}	
+{0,select, empty {No books added yet.} empty_first_author {You have not shelved any books yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}	
+{0,select, empty {No books yet.} empty_first_author {You have not added any books yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}	
+{0,select, empty {No books yet.} unknown {Loading…} error {Unable to display books. Please try again.} other {}}	
+{0,select, empty {No recent updates.}  empty_first_author {No updates yet.} unknown {Loading…} error {Unable to display updates. Please try again.} other {}}	
+{0,select, empty {There are no books yet.} unknown {Loading books…} error {Unable to display books. Please try again.} other {}}	
+{0,select, empty {There are no shelved books yet.} unknown {Loading books…} error {Unable to display books. Please try again.} other {}}	
+{0,select, empty {You do not have any books yet.} unknown {Loading books…} error {Unable to display books. Please try again.} other {}}	
+{0,select, first_author_activity {My Recent Updates} other {Recent Updates}}	
+{0,select,empty {No books found.} unknown {Loading…} error {Unable to display books.} other {}}	
+{0,select,empty {No genres.} unknown {Loading…} error {Unable to display genres. Please try again.} other {}}	
+{0,select,empty {No recommendations available.} unknown {Loading…} error {Unable to display recommendations.} other {}}	
+{0,select,empty {No samples.} unknown {Loading…} error {Unable to display samples. Please try again.} other {}}	
+{0} {1,choice,0# |1#{1,number,0.00}} • {2,plural,=0 {{2,number,integer} ratings} one {{2,number,integer} rating} other {{2,number,integer} ratings}}	
+Already a Goodreads member?	
+Find and share books that you love, see what your friends are reading and get recommendations from the world's largest network of readers.	
+{0,plural,=0 {} one {Your free sample is downloading} other {Your {0,number,integer} free samples are downloading}}. Now, get your Goodreads network started by adding your Facebook friends.	
+{0}, there was a problem downloading your sample. To learn more, please visit the <ul>store page.</ul>	
+{0}, there was a problem downloading your sample. To learn more, please visit the store page.	
+Buy Now for {0}	
+By <ul>{0}</ul>	
+Cloud Access Locked	
+Connect	
+Download Sample	
+Downloading…	
+E-mail or password is incorrect.	
+Follow these notable readers and authors to view their reviews and recommendations.	
+Get your Goodreads network started by adding your Facebook friends.	
+Goodreads may access your name, public profile, friend list and e-mail address.~~~~Goodreads will be able to post to Facebook automatically on your behalf (for example, books you have read).~~~~You can adjust these settings at goodreads.com/settings.	
+or	
+Sign in to Goodreads using your Facebook account.	
+Sign in with Facebook	
+Step 1 of 2	
+This Goodreads account is linked to another Amazon account. Edit your accounts at Goodreads.com > Edit Profile > Apps.	
+To download your book, turn off parental controls in Settings.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ActionResources_en_GB.translation
+
+The sample could not be downloaded due to an internal error.	
+Try a Sample	
+Your Kindle must be registered to use this feature. Do you want to register it now?	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/AddToCollectionsResources_en_GB.translation
+
+No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ArchiveResources_en_GB.translation
+
+{0} is sharing books with you, which will soon appear in your Cloud. This may take a few minutes. To view just the shared books, tap on the current filter option in the top right of the Home screen and select Shared Books.	
+{0} has stopped sharing books with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	
+The other adult in your household has stopped sharing books with you. Books previously shared with you will no longer appear on your device. This may take a few minutes.	
+AUDIBLE	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/BrowseResources_en_GB.translation
+
+home	
+Kindle FreeTime	
+KINDLE STORE 	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/CollectionResources_en_GB.translation
+
+{0,plural,=0 {} one {{0,number,integer} more issue in the Cloud} other {{0,number,integer} more issues in the Cloud}}	
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	
+No items from this collection are on this device. Tap Cloud to download items or tap Menu to add items.	
+No items from this collection are available in the Cloud. Tap On Device to view local items or tap Menu to add items.	
+No issues are available in the Cloud. Tap Downloaded to view issues on your device.	
+No issues are on this device. Tap All to download issues.	
+No items from this collection are available in the Cloud. Tap Downloaded to view items on your device or tap Menu to add items.	
+No items from this collection are on this device. Tap All to download items or tap Menu to add items.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ControllerResources_en_GB.translation
+
+{0,plural,=0 {} one {{0,number,integer} more Collection in the Cloud} other {{0,number,integer} more Collections in the Cloud}}	
+No Shared books have been added to this device. Tap Cloud to download books.	
+No periodicals have been added to this device. Tap Cloud to download periodicals.	
+No Shared books have been synced to the Cloud. Tap On Device to see local content.	
+No periodicals have been synced to the Cloud. Tap On Device to see local content.	
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	
+{1, select, 0 {{0, select, true {Showing your items available in the Cloud} other {Not showing your items available in the Cloud}}} other {{0, select, true {Showing your items available on device} other {Not showing your items available on device}}}} 	
+No books have been added to this device. Tap All to download books.	
+No books have been synced to the Cloud. Tap Downloaded to see content on your device.	
+No collections have been added to this device. Tap All to add existing collections or tap Menu to create a new collection.	
+No documents have been synced to the Cloud. Tap Downloaded to view documents on your device.	
+No items have been added to this device. Tap All to download items.	
+No periodicals have been added to this device. Tap All to download periodicals.	
+No periodicals have been synced to the Cloud. Tap Downloaded to see content on your device.	
+No Shared books have been added to your device. Tap All to download books.	
+No Shared books have been synced to the Cloud. Tap Downloaded to see content on your device.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/DetailViewFactoryResources_en_GB.translation
+
+Add to Downloaded	
+Downloaded: {0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues} }	
+Downloaded: {0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items} }	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/DialogResources_en_GB.translation
+
+A collection with the name you entered already exists in the Cloud. Please enter a different name.	
+A free update is available for your Kindle. To receive the update, connect to a Wi-Fi network.	
+There is currently not enough storage space on your device to install the software update. Please delete some items from your libraries. Software will be updated automatically in the background when enough space is available.	
+A free update is available for your Kindle. Please stay connected to a Wi-Fi network to receive and install the update. The update will be installed automatically when your Kindle is in sleep mode.	
+A free update is available for your Kindle. You can either restart your Kindle to install the update immediately or wait for the update to be installed automatically when your device is in Sleep mode.	
+Tap the Goodreads symbol any time to see what your friends are reading and find your next favourite book.	
+You're all set! Tap the Goodreads symbol any time to see what your friends are reading and find your next favourite book. Now sit back and enjoy the free samples waiting in your library!	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ExperimentalResources_en_GB.translation
+
+We are working on an experimental Web Browser. Do you find it useful? Should we continue working on it? We would love to hear from you, so please go to www.amazon.com/devicesupport and tell us what you think.	
+We are working on these experimental prototypes. Do you find them useful? Should we continue working on them? We would love to hear from you, so please go to www.amazon.com/devicesupport and tell us what you think.	
+Select this item to launch the Experimental Web Browser and browse, choose a bookmark or enter a URL.	
+We are working on an Experimental Web Browser. Do you find it useful? Should we continue working on it? We would love to hear from you, so please go to www.amazon.com/devicesupport and tell us what you think.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/HDCResources_en_GB.translation
+
+Showing {0, number, integer}	
+DICTIONARIES	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/HomeViewResources_en_GB.translation
+
+{0,choice,0#+{0,number,integer} MORE|100#99+ MORE}	
+Browse millions of titles from every genre, daily deals, editor's picks and more.	
+Discover new books with Goodreads, the world's largest community of readers.	
+Earth's Biggest Bookstore.	
+Find books you want to read 	
+Find books you want to read with Goodreads 	
+Freedom to Explore	
+Freedom to read from over one million titles.	
+Library recents	
+MORE BY {0}	
+MORE LIKE {0}	
+Reading List recents	
+Recommendation	
+Start a list of books you want to read 	
+Unlimited reading from over one million titles. Try your first month for free. It's on us!	
+Updating Your Home	
+Updating your Home experience. This should take a few seconds.	
+Welcome to the new Home	
+You currently have recommendations turned off, which also disables the new Home experience.~~Would you like to try the new, improved Home? You can change this at any time in Settings.	
+Your Library is empty. Go to the Kindle Store to find a book and start reading.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ImportCollectionsResources_en_GB.translation
+
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ItemsToCollectionResources_en_GB.translation
+
+{0,plural,=0 {} one {{0,number,integer} more item in the Cloud} other {{0,number,integer} more items in the Cloud}}	
+AUDIBLE	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/MerchandiseResources_en_GB.translation
+
+BOOKS FROM YOUR GOODREADS FRIENDS 	
+BOOKS YOU WANT TO READ 	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ProfileResources_en_GB.translation
+
+There are no characters available for your library right now.	
+CHARACTERS	
+MY ITEMS	
+There are no books in your library right now. Ask your parent to add books to this collection.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ReadingListResources_en_GB.translation
+
+AMAZON WISH LIST	
+Find books you want to read with Goodreads	
+GOODREADS WANT TO READ	
+My Reading Lists	
+My Reading Lists. Showing items in {0}	
+SAMPLES	
+SEE MORE 	
+Showing {0, number, integer}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/ResumeResources_en_GB.translation
+
+Your Library is empty. Go to the Kindle Store to find a book and start reading.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/SearchResultsResources_en_GB.translation
+
+Kindle Store ({0,number,integer})	
+{0, select, 1 {{1}} other {Other References}}	
+Showing {0, number, integer}	
+My Items	
+SEARCH RESULTS	
+Search Summary	
+TEXT IN BOOKS	
+
+====================================================================
+
+PLIK: com/amazon/kindle/home/resources/UnindexedResources_en_GB.translation
+
+ITEMS NOT YET INDEXED	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/CommonResources_en_GB.translation
+
+By registering or creating an account, you agree to the Kindle Licence Agreement and Terms of Use and other applicable terms found at www.amazon.com/devicesupport.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/ConnectResources_en_GB.translation
+
+Swipe right or drag a finger around the screen to find the Connect to Wi-Fi button, and then double-tap to select it.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/GrokResources_en_GB.translation
+
+The information you entered does not match any Facebook account. Try again or recover your password at www.facebook.com/recover.php	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/IntroResources_en_GB.translation
+
+High-resolution 300 PPI display	
+Auto-adjusting built-in light	
+Reinvented page-turn controls	
+Weeks of battery life	
+High-contrast touch display	
+Read without screen glare	
+Holds thousands of books	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/NewRegistrationResources_en_GB.translation
+
+You can also create account directly from your Kindle if you do not have access to a computer.	
+Create account from a Computer	
+Create account from your Kindle	
+It is easiest to create an account from a computer.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/RegisterErrorDialogResources_en_GB.translation
+
+No registration found	
+No registration information was found. Please confirm that you have followed the steps completely.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/RegisterOnPCResources_en_GB.translation
+
+1. Go to amazon.com/myk~~2. Enter your email address and select "I am a new customer"~~3. Choose a password4. Under "Your Kindle" enter your serial number~~{0}~~5. Once you completed these steps on your computer, click "done" 	
+Create new account from a computer	
+cancel	
+done	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/SkipConfirmDialogResources_en_GB.translation
+
+You will not be able to use many of the features of your Kindle until you connect to a WiFi network. You can do this later by selecting "Setup Kindle" from Home. Are you sure you want to skip setup?	
+skip setup	
+Skip Setup	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/resources/SoftwareUpdateResources_en_GB.translation
+
+Please reconnect to a Wi-Fi network in order to complete the software update process.	
+Wi-Fi Disconnected	
+Your Kindle software requires an update.~~Please wait while the latest software is downloaded and installed. This can take a few minutes. DO NOT turn off your Kindle or disconnect Wi-Fi during the update process.~~Your Kindle will restart automatically as soon as the update is complete.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/oobe/tutorial/resources/OOBETutorialResources_en_GB.translation
+
+Home and Back	
+Navigating Your Kindle	
+Quick Actions	
+Reading Lists	
+Recent Books	
+Tap on Home to find your library and discover new books. Back will retrace your steps.	
+Tap on Quick Actions to adjust your screen brightness, turn Aeroplane Mode on and off, and sync your Kindle.	
+Tap on Quick Actions to turn Aeroplane Mode on and off, and sync your Kindle.	
+The bottom of the Home screen shows recommendations, bestsellers, and more.	
+The left side of the Home screen shows books you've recently downloaded or opened.	
+The right side of the Home screen shows books you've added to your Amazon Wish Lists, and free samples.	
+The right side of the Home screen shows books you've added to your Amazon Wish Lists, Goodreads Want to Read shelf, and free samples.	
+The right side of the Home screen shows books you've added to your Goodreads Want to Read shelf, and free samples.	
+The right side of the Home screen shows free samples.	
+The toolbar at the top of the screen will help you navigate your Kindle.	
+Your Kindle has a new Home experience that improves navigation, helps you find new books and keep track of what you want to read, and more.	
+Your Kindle has been updated!	
+
+====================================================================
+
+PLIK: com/amazon/kindle/resources/TutorialResources_en_GB.translation
+
+DONE	
+
+====================================================================
+
+PLIK: com/amazon/kindle/restricted/cloudcollections/resources/CollectionServiceResources_en_GB.translation
+
+We've added new ways to see and use collections on your Kindle and in the Cloud. Tap on the filter above and choose Collections to see them.	
+More options are available for viewing and using collections on your Kindle and in the Cloud. Tap on the filter above and choose Collections to see them.	
+A collection you created on another device just synced to this device. Tap on the filter above and choose Collections to see them.	
+Collection Tool Tip	
+
+====================================================================
+
+PLIK: com/amazon/kindle/restricted/device/chrome/resources/ChromeResources_en_GB.translation
+
+(Charging from Cover)	
+(Charging from USB)	
+{0}{1} percent 	
+{0}{1} percent charging 	
+Aeroplane Mode On	
+All Settings	
+Bars	
+Battery 	
+BATTERY	
+Brightness {0} of {1}. Decrease Brightness	
+Brightness {0} of {1}. Increase Brightness	
+Character	
+Clear History	
+Connecting	
+Forward	
+Go to Discovery	
+Goodreads	
+Kindle	
+Kindle Search	
+LIGHT	
+MAX	
+Max Brightness	
+Menu	
+No Network Service	
+not charging 	
+Off	
+Parental Controls Enabled	
+Periodical Contents	
+Periodical Home	
+Quick Actions	
+Recent Searches	
+Screen Reader On	
+Search Dictionary	
+Search Everywhere	
+Search Everywhere for "{0}"	
+Search Goodreads	
+Search Kindle Store	
+Secondary Battery 	
+Signal Strength 	
+Signal Strength {0} Bars	
+Store	
+Sync My Kindle	
+There are no recent searches.	
+There are no results found in Goodreads.	
+There are no results found in Store.	
+There are no results found in your library or the store.	
+There are no results found in your library.	
+VoiceView Settings	
+WAN Connected 2G	
+WAN Connected 3G	
+WAN Connected Edge	
+Wi-Fi Connected. Signal Strength {0} Bars	
+
+====================================================================
+
+PLIK: com/amazon/kindle/restricted/sample/resources/SampleRevocationServiceResources_en_GB.translation
+
+{0,plural, one {There was a problem removing the sample from the Cloud. Try again later. The sample will be removed from the device.} other {There was a problem removing the samples from the Cloud. Try again later. The samples will be removed from the device.} }	
+A network connection is required to delete the sample from the Cloud. The sample will be removed from the device.	
+A network connection is required to delete the sample from the Cloud.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/AdvancedOptionsResources_en_GB.translation
+
+Whispersync for Books	
+Display recommended content from store and enable reading lists.	
+Home Screen View	
+Następne w seriach	
+Wyświetlić opcję zakupu następnego tytułu w serii, gdy zbliżasz się do końca książki.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/DeviceOptionsResources_en_GB.translation
+
+Manage voice guidance settings, including turning VoiceView on and off, reading speed and volume.	
+VoiceView	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/DeviceResources_en_GB.translation
+
+Automatic	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/DevicesAppsResources_en_GB.translation
+
+ Content shared through Family Library is only available on select Kindle devices running the latest software. To see the list of compatible devices, please go to {0} or contact Kindle Customer Service at www.amazon.com/devicesupport for further assistance.	
+Compatible Devices	
+{0,plural,=0 {1 of 1} one {{1,number,integer} of {2,number,integer}} other {{1,number,integer} of {2,number,integer}}}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/DiagnosticResources_en_GB.translation
+
+Capture Portal	
+{0, select, 0 {DOWN} 1 {UP} other {}}	
+<html><body><p>{0}<br/><br/>********* 2- Device Status *********<br/>2.1 Server info: The WEBSITE, TODO, CDE server is {1}, {2}, {3}<br/>2.2 Waveform Version: {4}<br/>2.3 Kindle Store Website: {5}<br/>2.4 OTA State: {6, choice, 0#OTA Current|1#OTA Update Available}<br/>2.5 OTA Software Version: {7}<br/>2.6 Available OTA Version: {8}<br/>2.7 Neonode FW Version: {9}<br/>2.8 Display Temperature: {10}</p></body></html>	
+Sorry, WAN information is not available at this time.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/DialogResources_en_GB.translation
+
+Whispersync for Books	
+{0,choice, -1#Unknown|0#{0,number,integer} MB free}	
+Network Capability: 	
+Space Available: 	
+The login ID and password you entered do not match any Amazon accounts on record. Please make sure that you have entered the login ID (e-mail address or phone number) associated with your Amazon account correctly. For further details please contact Kindle Customer Service at www.amazon.com/devicesupport.	
+Wi-Fi MAC Address: 	
+Unable to Process Registration	
+Your Kindle will be deregistered from your Amazon account, some features will not work, and some settings may not be saved. After deregistering, you can register your Kindle to another Amazon account.~~Are you sure you want to deregister?	
+Your Kindle will be deregistered from your Amazon account. This will remove all content from the device and many features will not work. Items you purchased from an Amazon store will remain available in the Cloud and can be downloaded again. After deregistering, you can register your Kindle to another Amazon account. Are you sure you want to deregister?	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/FreeTimeEntryLoadingResources_en_GB.translation
+
+Updating your Kindle for Kids experience. This should take a few seconds.	
+Updating your Kindle FreeTime experience. This should take a few seconds.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/FreeTimeProfileMenuResources_en_GB.translation
+
+If you remove {0} from your household you will not be able to add another adult for 180 days.~~~~{0} will lose access to your digital content purchases. Any payment settings copied between your account will be deleted.~~~~{0} will no longer be able to administer child accounts that are part of the household.	
+In the next step, you can add content to your childʼs library.	
+In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with FreeTime Unlimited and also add books you already own.	
+In the next step, you'll be able to add books to your child's library. You'll have the option to include thousands of books with Kindle for Kids Unlimited as well as add books you already own.	
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	
+Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.	
+The Kindle Store, access to the Cloud and the Goodreads network will be restricted automatically.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/FreeTimeProfileSetupResources_en_GB.translation
+
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	
+Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.	
+In the next step, you can add content to your childʼs library.	
+In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with FreeTime Unlimited and also add books you already own.	
+In the next step, you'll be able to add books to your child's library. You'll have the option to include thousands of books with Kindle for Kids Unlimited as well as add books you already own.	
+The Kindle Store, access to the Cloud and the Goodreads network will be restricted automatically.	
+Experimental Web Browser	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/FreeTimeUnlimitedContentResources_en_GB.translation
+
+We’re sorry, there was an error unsubscribing from FreeTime Unlimited. Please try again later.	
+We’re sorry, there was an error unsubscribing from Kindle for Kids Unlimited. Please try again later.	
+You are unsubscribing from FreeTime Unlimited. You can subscribe again at any time.	
+You are unsubscribing from Kindle for Kids Unlimited. You can subscribe again at any time.	
+We’re sorry, there was an error performing the action. Please try again later.	
+Terms Of Service	
+Subscribe to FreeTime Unlimited	
+Subscribe to Kindle for Kids Unlimited	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/FrontLightResources_en_GB.translation
+
+Enable Nightlight to gradually reduce the screen brightness over time as your eyes adjust to the dark. To use this feature, Auto Brightness must be turned on. Tap the Quick Actions button on the toolbar to access the Auto Brightness setting.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/GeneralInfoResources_en_GB.translation
+
+All your books are archived for free in the Cloud. Select Cloud in the top left of the Home screen to see your full library. Select Device in the top left of the Home screen to see items you have downloaded to your Kindle.	
+Charging	
+Cloud and Device Storage	
+Find out more about your Kindle by selecting the Kindle User's Guide on the Home screen. For Kindle customer support, visit www.amazon.com/devicesupport.	
+General Information	
+Screen Reader Settings	
+Screen reader volume and speed controls are located in the screen reader settings. To go to the screen reader settings, select Settings under Menu from the Home screen toolbar, then select Device Options, Personalise your Kindle and Screen Reader.	
+To charge the battery, remove the Kindle Audio Adaptor and connect the included USB cable to the port on the bottom of your Kindle. Then connect the other end of the cable to a computer or power adaptor (sold separately).	
+To go to the next page using PagePress, squeeze the left or right edge of your Kindle just under halfway up from the bottom until your Kindle vibrates. Squeeze the left or right edge just under halfway down from the top of your Kindle to go to the previous page using PagePress. You can also use PagePress to navigate your library on the Home screen.	
+To turn on your Kindle, press the Power button. If you need to turn off your Kindle screen, press and hold the Power button for 7 seconds until the Power dialog appears and then select Screen Off.	
+Toolbars	
+Toolbars are located near the top of the display area and offer quick access to Kindle features and menu options. Toolbar options vary depending on what you are viewing. The standard toolbar available on the Home screen contains (from left to right): Home, Back, Light, Store, Search, Goodreads and Menu. Menu contains a list of options that are contextual, which means that they change to offer appropriate options depending on what you are currently doing with the device.	
+Charge the battery by docking your Kindle into its cover. To charge the Kindle without the cover, remove the Kindle Audio Adaptor, connect the included USB cable to the port on the bottom of your Kindle, and then connect the other end of the cable to a computer or power adaptor (sold separately). To charge the cover, connect the included USB cable to the port on the bottom of your Kindle, and then connect the other end of the cable to a computer or power adaptor (sold separately).	
+For Amazon Audio Adaptor safety and compliance information, visit www.amazon.com/devicesupport.	
+Learn more about your Kindle by selecting the Kindle User's Guide on the Home screen. For Kindle Customer Service, visit www.amazon.com/devicesupport.	
+Page Turn Buttons	
+Safety and Compliance Information	
+Screen reader volume and speed controls are located in VoiceView Settings. To go to the screen reader settings, select Quick Actions on the toolbar on the Home screen or scroll to Settings under Menu from the Home screen toolbar, and then select Device Options, Personalise your Kindle and VoiceView.	
+The Page Turn buttons located on the side of the screen enable you to page forwards or backwards in a book. To configure Page Turn buttons to match how you hold your Kindle, select Quick Actions on the toolbar on the Home screen or scroll to Settings under Menu from the Home screen toolbar, and then select Reading Options and Page Turn buttons.	
+To access your books, tap the My Library link in the top left of the Home screen. All your books are archived for free in the Cloud. Tap All in the top left of the My Library screen to see your full library. Tap Downloaded in the top left of the My Library screen to see items you've downloaded to your Kindle.	
+To charge your battery, remove the Kindle Audio Adaptor and connect the included USB cable to the port on the bottom of your Kindle, and then connect the other end of the cable to a computer or power adaptor (sold separately).	
+Toolbars are located near the top of the display area and offer quick access to Kindle features and menu options. Toolbar options vary depending on what you are viewing. The standard toolbar available on the Home screen contains (from left to right): Home, Back, Quick Actions, Goodreads, Store, Search and Menu. Menus are contextual, which means they change to offer appropriate options depending on what you're currently doing with the device.	
+VoiceView Settings	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/HouseholdProfileResources_en_GB.translation
+
+{0, plural, =0 {Adult} one {Adult} other {Adults}}	
+{0, plural, =0 {Child} one {Child} other {Children}}	
+{0} {1,plural,=0 {({2} books)} one {({2} book)} other {({2} books)}}	
+A Household gives up to two adults the ability to jointly manage up to four child accounts. This lets you control the content and features your child can access.~~~~Family Library lets you share books and other digital content across your Amazon devices and Kindle apps. You can activate Family Library when adding an adult to your Household.~~	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/HouseholdSetupResources_en_GB.translation
+
+Households require a unique Amazon account for each adult.<br/>&nbsp;<br/>If you and {0} are sharing an Amazon account, you must create a separate account. Family Library will enable this new account to access any content you have previously purchased.<br/>&nbsp;<br/>&nbsp;<br/><b>Do you have your own Amazon account?</b><br/>Tap the Next button to sign in and continue.<br/>&nbsp;<br/><b>Do you need to create an Amazon account?</b><br/>Go to {1} on your phone, tablet or computer to make a new account. After creating your new account, tap 'Next' below to sign in and continue.	
+Enable content sharing and authorise {0} to copy and use my credit cards.	
+No thanks, we don't want to enable content sharing.	
+I want to share all my books with {0}.	
+You have been successfully added to the Household.<br/>&nbsp;<br/><b>Content Sharing</b> - Family Library enables your content purchases to be shared on any Amazon devices and Kindle apps you own. Each adult chooses the content they want to share, and which of their devices can see shared content.<br/>&nbsp;<br/><b>Payment Authorisation</b> - In order to share content, you need to authorise {0} to use credit cards associated with your Amazon account for purchases on Amazon. This will NOT affect your or {0}'s current payment settings, but under Household settings, {0} will be able to copy your credit cards to his/her Amazon account and use them for Amazon purchases.	
+{0} has been successfully added to the Household.<br/>&nbsp;<br/><b>Content Sharing</b> - Family Library enables your content purchases to be shared on any Amazon devices and Kindle apps you own. Each adult chooses the content they want to share, and which of their devices can see shared content.<br/>&nbsp;<br/><b>Payment Authorisation</b> - In order to share content, you need to authorise {0} to use credit cards associated with your Amazon account for purchases on Amazon. This will NOT affect your or {0}'s current payment settings, but under Household settings, {0} will be able to copy your credit cards to his/her Amazon account and use them for Amazon purchases.	
+<b>Content Sharing</b> - Family Library enables your content purchases to be shared on any Amazon devices and Kindle apps you own. Each adult chooses the content they want to share, and which of their devices can see shared content.<br/>&nbsp;<br/><b>Payment Authorisation</b> - In order to share content, you need to authorise {0} to use credit cards associated with your Amazon account for purchases on Amazon. This will NOT affect your or {0}'s current payment settings, but under Household settings, {0} will be able to copy your credit cards to his/her Amazon account and use them for Amazon purchases.	
+You can share all your current and future purchased books with {0}. You can change these settings at any time in Household settings.<br/>&nbsp;<br/>If you don't want to share all your current and future purchased books, you can still share or block individual books with {0} at the Manage Your Content and Devices page on Amazon.	
+I want to share individual books with {0} at the Manage Your Content and Devices page on the Amazon website.	
+Family Library has been enabled. Please pass your Kindle back to {0}.	
+We'll need some additional information from {0} to turn on Family Library. Pass your Kindle back to {0} to finish the process.	
+<ul>What about my collections?</ul>	
+When you share your books, your collections are not copied to or shared with other accounts in your household. If you have existing collections you would like to share, please visit {0} for tips.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/LanguageLearningResources_en_GB.translation
+
+Word Wise	
+Show easy hints above unfamiliar words when available. <ul>Learn More.</ul>	
+When we're unsure of the correct hint for a word, we'll show you a list of possible meanings and ask you to pick the one that is most helpful.	
+Learn More about Word Wise.	
+Remember dictionary lookups.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/LanguageResources_en_GB.translation
+
+Select your regional format	
+This will change the formatting of dates, times and more.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/MenuResources_en_GB.translation
+
+This action will remove files necessary to operate VoiceView. After resetting your device, you will need to download new VoiceView files from Amazon Customer Service at www.amazon.com/devicesupport before using VoiceView again. This action will also remove all downloaded or transferred content from your Kindle, and your settings will not be saved. You will still be able to download items from the Cloud. Do you want to reset your Kindle?	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/NotesAndHighlightsResources_en_GB.translation
+
+Show information about the book when you open it for the first time.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/PageTurnSettingResources_en_GB.translation
+
+Customise the page turn buttons on the side of the screen to match how you hold your Kindle. Your settings will apply even if you rotate your Kindle.	
+Forward	
+Page Turn Buttons	
+Reverse	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ParentalControlsResources_en_GB.translation
+
+Kindle FreeTime	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/PaymentDisplayResources_en_GB.translation
+
+{0} ending in {1}, Expires {2}	
+{0} ending in {1}	
+The following payment methods are associated with this Household. To use a credit card for Amazon purchases, you must copy it to your account.	
+Adding {0} ending in {1} to your Amazon account will allow you to use it to make purchases on Amazon or from your Kindle.	
+{0} ending in {1} is already associated with your Amazon account. 	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/PersonalInfoResources_en_GB.translation
+
+Device Name and Personal Info	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/PersonalizeResources_en_GB.translation
+
+Device Name and Personal Info	
+Give your device a name and other personal information	
+Manage voice guidance settings, including turning screen reader on and off, reading speed and volume.	
+Manage Home Screen View, Next in Series options{0,select, kso {, Whispersync for Books and Special Offers} other { and Whispersync for Books}}.	
+Manage voice guidance settings, including turning VoiceView on and off, reading speed and volume.	
+VoiceView	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ProfileResources_en_GB.translation
+
+{0, plural, =0 {{0,number,integer} Books } one {{0,number,integer} Book } other {{0,number,integer} Books }}{1,plural, =0 {} one {} other {from your household}}	
+Share all your current and future purchased books with {0}.	
+{0, select, male {You have not added any items to {1}'s Kindle for Kids.} female {You have not added any items to {1}'s Kindle for Kids.} other {You have not added any items to {1}'s Kindle for Kids.}}	
+Manage payment methods associated with your Amazon account for purchases on Amazon.	
+Select devices that should show {0}'s shared content.	
+Are you sure you want to leave this Household? You will not be allowed to join or start a household with another adult for 180 days.~~~~You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted.~~~~You will no longer be able to administer child accounts that are part of this household.	
+{0} will no longer be able to access all your books by default. You can still share individual books with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?	
+This will share all your current and future purchased books with {0}. You can still block individual books from being shared with {0} at the Manage Your Content and Devices page on Amazon. Do you want to continue?	
+You and {0} will lose access to each other's books and other digital content. Any payment settings copied between your accounts will be deleted. Do you want to continue?	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ReadingOptionsResources_en_GB.translation
+
+Enable Word Wise in books and Vocabulary Builder flash cards.	
+Word Wise	
+Show easy hints above unfamiliar words when available. <ul>Learn More.</ul>	
+When we're unsure of the correct hint for a word, we'll show you a list of possible meanings and ask you to pick the one that is most helpful.	
+Configure page turn buttons at the side of the screen.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ReadingTimeResources_en_GB.translation
+
+Add books you own or upgrade to Kindle FreeTime Unlimited to access hundreds of books and thousands of games, apps and movies on Fire tablets and Fire TV.	
+Add books you own or upgrade to Kindle for Kids Unlimited to access hundreds of books and thousands of games, apps and movies on Fire tablets and Fire TV.	
+Kindle FreeTime	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/RecommendedContentResources_en_GB.translation
+
+When in Cover View, display recommended content from the Kindle Store.	
+「You are currently subscribed to Special Offers. You can unsubscribe at any time by contacting Customer Service.」	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/RecommendedResources_en_GB.translation
+
+When in Cover View, display recommended content from the Kindle Store.	
+「Display an option to buy the next title in a series when nearing the end of a book.」	
+「Special Offers Recommendations」	
+「Display personalized offers based on items you've browsed or purchased.」	
+「Home Screen Special Offers」	
+「Display Special Offers banners at the bottom of the Home Screen.」	
+「Screensaver Special Offers」	
+「Display Special Offers as my ~~Screensaver.」	
+「Special Offer Filtering」	
+「You can hide offers containing images or situations that may not be suitable for all audiences.」	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/RegistrationResources_en_GB.translation
+
+Create and manage your Household to share books and other digital content across your Amazon devices and Kindle apps.	
+{0,plural, =0 {No Adult Profiles} one {{0, number, integer} Adult} other {{0, number, integer} Adults}}{1,plural, =0 {} one { and {1, number, integer} Child} other { and {1, number, integer} Children}}	
+By registering or creating an account, you agree to the Kindle Licence Agreement and Terms of Use and other applicable terms found at www.amazon.com/devicesupport.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ScreenReaderResources_en_GB.translation
+
+Louder	
+Provides spoken feedback when you touch items on the screen.	
+Screen Reader	
+Set the reading speed of the screen reader.	
+Set the volume level of the screen reader voice.	
+Softer	
+This tutorial teaches gestures that are needed to navigate your Kindle when the screen reader is enabled.	
+Tutorial	
+Volume	
+Set the reading speed of VoiceView.	
+Set the volume level of VoiceView.	
+This tutorial teaches gestures needed to navigate your Kindle when VoiceView is enabled.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ScreenReaderSpeechrateResources_en_GB.translation
+
+{0, select, 1 {{0} - Slowest} 8 {{0} - Fastest} other{{0}}}	
+{0, choice, 0.66#{0}x (Slowest)| 0.66<{0}x| 1#{0}x (Default)| 1<{0}x| 4#{0}x (Fastest)}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ScreenReaderTutorialResources_en_GB.translation
+
+Basic Gestures	
+Basic Gestures Tutorial	
+Drag your finger across the screen until you find the slider control. Next, swipe your finger to the right to increase the value. Swipe your finger to the left to decrease the value	
+Explore the basic gestures used when navigating your Kindle.	
+Find out  how to operate the keyboard when using the screen reader.	
+General Information	
+Higher	
+Lower	
+Menu Item 1	
+Menu Item 2	
+Menu Item 3	
+Menu Item 4	
+Screen Reader Tutorial	
+Step 1: Activating Items~~To activate an item, double-tap anywhere on the screen.~~Try it now by double-tapping to go to the next step in the tutorial.	
+Step 2: Selecting an Item~~To select the next item, swipe to the right. To select the previous item, swipe to the left.~~Try it now by swiping through the items on the screen until you locate the Next button, then double-tap to go to the next step in the tutorial.	
+Step 3: Exploring the Screen~~You can also explore items by dragging your finger across the screen.~~Try it now by dragging your finger on the screen until you get to the Next button, then double-tap to go to the next step in the tutorial.	
+Text Entry	
+This section contains general information about your Kindle to help you get started.	
+Learn how to operate the keyboard when using VoiceView.	
+Step 1: Activating Items.~~To activate an item, double-tap anywhere on the screen.~~The Next button is currently focused. Try double-tapping now to go to the next step in the tutorial.	
+Step 2: Selecting an Item.~~To select the next item, swipe to the right. To select the previous item, swipe to the left.~~Try it now by swiping through the items on the screen until you locate the Next button, then double-tap to go to the next step in the tutorial.	
+Step 3: Exploring the Screen.~~You can also explore items by dragging your finger across the screen.~~Try it now by dragging your finger across the screen until you get to the Next button, then double-tap to go to the next step in the tutorial.	
+VoiceView Tutorial	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/ScreenReaderVolumeResources_en_GB.translation
+
+{0, select, 1 {{0} - Quietest} 8 {{0} - Loudest} other{{0}}}	
+Volume	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/SettingsResources_en_GB.translation
+
+Manage language learning features, page refresh, Page Turn buttons, social networks and popular highlights.	
+Manage language learning features, page refresh, PagePress, social networks and popular highlights.	
+Manage language learning features, page refresh, social networks and popular highlights.	
+Manage page refresh and Page Turn buttons.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/SettingsWidgetResources_en_GB.translation
+
+- no personal info -	
+Current Network	
+Current user interface language:	
+Network Capability	
+No Registered User	
+Personalize your Kindle by giving it a name that appears on the Home page.	
+Set your Kindle's default dictionary for each language.	
+Show highlights and notes from other people that you follow on kindle.amazon.com.	
+This page contains settings to personalize your Kindle experience.	
+Wi-Fi MAC Address	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/SocialResources_en_GB.translation
+
+Link Goodreads to your Facebook account	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/SpecialOffersResources_en_GB.translation
+
+Special Offers Recommendations	
+Display personalized offers based on items you've browsed or purchased.	
+Home Screen Special Offers	
+Display Special Offers banners at the bottom of the Home screen.	
+Screen Saver Special Offers	
+Display Special Offers as my Screen Saver.	
+Special Offer Filtering	
+You can hide offers containing images or situations that may not be suitable for all audiences.	
+Display Special Offers as my Screensaver.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/TextEntryResources_en_GB.translation
+
+Text Entry Tutorial	
+This tutorial teaches you how to operate the keyboard when using the screen reader. The screen contains a text entry box and a keyboard. To type a letter, drag your finger around the keyboard until you hear the letter that you want to type and then lift your finger.~~Try it now. When you have finished, drag your finger until you locate the Next button below the text entry box. Double-tap anywhere on the screen to go to the next step in the tutorial.	
+This tutorial teaches you how to operate the keyboard when using VoiceView. The screen contains a text entry box and a keyboard. To type a letter, drag your finger around the keyboard until you hear the letter you want to type and then lift your finger.~~Try it now. When you are done, drag your finger until you locate the Next button below the text entry box. Double-tap anywhere on the screen to go to the next step in the tutorial.	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/UILanguageResources_en_GB.translation
+
+You have selected the option to change your User Interface Language to {0}. Your Kindle will restart to take full advantage of the new language.	
+Change User Interface Language	
+
+====================================================================
+
+PLIK: com/amazon/kindle/settings/resources/UtilResources_en_GB.translation
+
+{0, select, 0 {No(0)} 1 {Yes(1)} other {}}	
+********* 1- Device *********	
+********* 1- Device *********~~1.1 DSN: {0}~~1.2 Version: {1}~~1.3 Registration: {2}~~1.4 Certificate: {3}~~1.5 Time: {4}	
+1  ******** Device ********	
+1  ******** Device ********~~1.1 DSN: {0}~~1.2 Version: {1}~~1.3 Registration: {2}~~1.4 Certificate: {3}~~1.5 Time: {4}	
+
+====================================================================
+
+PLIK: com/amazon/kindle/util/devicecontrols/resources/DevicePolicyResources_en_GB.translation
+
+Kindle Store is blocked for child profiles.	
+Settings Menu is blocked for child profiles.	
+Experimental Menu is blocked for child profiles.	
+Active Content is blocked for child profiles.	
+Web Browser is blocked for child profiles.	
+MP3 Player is blocked for child profiles.	
+Access to Cloud is blocked for child profiles.	
+Deregistration is blocked for child profiles.	
+Device name personalisation is blocked for child profiles.	
+Wi-Fi Settings configuration is blocked for child profiles.	
+Turning Off Passcode is blocked for child profiles.	
+Passcode editing is blocked for child profiles.	
+Passcode configuration is blocked for child profiles.	
+Social Networks configuration is blocked for child profiles.	
+Popular Highlights configuration is blocked for child profiles.	
+Public Notes configuration is blocked for child profiles.	
+Annotations Backup configuration is blocked for child profiles.	
+Personal Info is blocked for child profiles.	
+Reset Device is blocked for child profiles.	
+Device Language configuration is blocked for child profiles.	
+Aeroplane Mode is blocked for child profiles.	
+Dictionary changes are blocked for child profiles.	
+This action is blocked for child profiles.	
+Access to the Cloud is locked.	
+Experimental Web Browser is locked.	
+The Experimental Web Browser is blocked for child profiles.	

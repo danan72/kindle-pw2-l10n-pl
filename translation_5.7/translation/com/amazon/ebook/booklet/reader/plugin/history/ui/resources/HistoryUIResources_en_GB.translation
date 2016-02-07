@@ -1,0 +1,4 @@
+﻿
+{0,select, location {Back to loc {1}} page {Back to page {1}} other {Back to {1}}}	{0,select, location {Powrót do lokacji {1}} page {Powrót do strony {1}} other {Powrót do {1}}}
+{0,select, location {Forward to loc {1}} page {Forward to page {1}} other {Forward to {1}}}	{0,select, location {Naprzód do lokacji {1}} page {Naprzód do strony {1}} other {Naprzód do {1}}}
+{0,select, location {Loc {1}} page {Page {1}} other {{1}}}	{0,select, location {Loc {1}} page {Page {1}} other {{1}}}

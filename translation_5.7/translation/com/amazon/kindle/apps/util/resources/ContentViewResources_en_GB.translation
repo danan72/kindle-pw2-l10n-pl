@@ -1,0 +1,63 @@
+﻿
+Active	Aplikacja
+Archived Items	Zarchiwizowane pozycje
+Archived	Zarchiwizowane
+Book	Książka
+Collection	Kolekcja
+Dev	Dev
+Dictionaries	Słowniki
+Dictionary	Słownik
+Expired	Wygasłe
+Expiring	Wygasające
+Images	Obrazki
+Keep	Zachowaj
+Letter	List
+Magazine	Czasopismo
+Music	Muzyka
+My Clippings	Moje wycinki
+New	Nowe
+Newspaper	Gazeta
+Notice	Notatka
+On Loan	Wypożyczone
+Opening...	Otwieranie... 
+Periodical Back Issues	Starsze wydanie czasopisma
+Personal	Osobiste
+Receipt	Recepta
+Rental	Wypożyczanie
+Sample	Próbka
+{0,plural,=0 {No Items} one {{0,number,integer} Item} other {{0,number,integer} Items}}	Liczba pozycji: {0}
+Library	Biblioteka
+Search Results	Wyniki wyszukiwania
+{0, number, integer}% READ	POSTĘP: {0, number, integer}%
+abonnement	subskrypcja
+Abonnement Kindle	Subskrypcja Kindle
+ACTIVE	APLIKACJA
+ARCHIVED	ZARCHIWIZOWANE
+AUDIBLE	DŹWIĘKOWY
+AUDIO	AUDIO
+collection	kolekcja
+COLLECTION	KOLEKCJA
+COMPLETE	UKOŃCZONY
+DEV	DEV
+DOWNLOADING...	POBIERANIE...
+EXPIRED	WYGASŁY
+EXPIRING	WYGASAJĄCY
+KEEP	ZACHOWANY
+kindle	kindle
+KINDLE DOCUMENT	DOKUMENT KINDLE
+Kindle Unlimited	KIndle bez ograniczeń
+MP3	MP3
+MUSIC	MUZYKA
+NEW	NOWY
+NOTICE	NOTATKA
+ON LOAN	WYPOŻYCZONY
+ONLOAN	WYPOŻYCZONY
+OPENING...	OTWIERANIE...
+PERSONAL	OSOBISTY
+RENTAL	WYPOŻYCZANY
+SAMPLE	PRÓBKA
+unlimited	nieograniczony
+{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}	{0,plural,=0 {No Issues} one {{0,number,integer} Issue} other {{0,number,integer} Issues}}
+PDF	PDF
+PURGE	PURGE
+RECEIPT	RECEIPT

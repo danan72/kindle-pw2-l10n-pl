@@ -1,0 +1,31 @@
+﻿
+Cancel	Anuluj
+Date of Birth	Data urodzenia
+Enter your childʼs name in their profile to keep track of their progress and achievements.	Nazwij profil imieniem dziecka, aby śledzieć jego postępy i osiągnięcia.
+FreeTime Profile	Profil FreeTime
+FreeTime Profile: {0}	Profil FreeTime: {0}
+Gender	Płeć
+Improve Kindle book recommendations for your child by entering their date of birth.	Popraw skuteczność poleceń książek dla Twojego dziecka podając jego datę urodzenia.
+Improve Kindle book recommendations for your child by entering their gender.	Popraw skuteczność poleceń książek dla Twojego dziecka podając jego płeć.
+In the next step you can select books from your library to add to your childʼs library.	W następnym kroku będziesz mógł wybrać ze swojej biblioteki książki, które chcesz dodać do biblioteki dziecka.
+Name	Nazwa
+Next	Dalej
+Step {0,number,integer}	Krok {0,number,integer}
+Access to Experimental Web Browser.	Dostęp do przeglądarki internetowej.
+Child Profile	Profil dziecka
+Child Profile: {0}	Profil dziecka: {0}
+First Name	Imię
+Parental Controls	Kontrola rodzicielska
+Restrictions	Ograniczenia
+Restrictions: {0}	Ograniczenia: {0}
+Use Kindle for Kids	Użyj Kindle dla Dzieci
+Use Kindle FreeTime	Użyj Kindle Freetime
+Web Browser	Przeglądarka internetowa
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. FreeTime automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}
+{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}	{0, select, true {Great for kids aged 8 and younger. Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store, Goodreads on Kindle and Wikipedia.} other {Create personalised profiles for your children. Kindle for Kids automatically blocks access to Experimental Web Browser, Kindle Store and Wikipedia.}}
+Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.	Great for kids aged 9 and older. Using the standard Kindle design, each profile can have personalised Parental Controls. Restrict purchasing, web browsing, social media and access to other features.
+In the next step, you can add content to your childʼs library.	In the next step, you can add content to your childʼs library.
+In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with FreeTime Unlimited and also add books you already own.	In the next step, youʼll be able to add books to your childʼs library. Youʼll have the option to include thousands of books with FreeTime Unlimited and also add books you already own.
+In the next step, you'll be able to add books to your child's library. You'll have the option to include thousands of books with Kindle for Kids Unlimited as well as add books you already own.	In the next step, you'll be able to add books to your child's library. You'll have the option to include thousands of books with Kindle for Kids Unlimited as well as add books you already own.
+The Kindle Store, access to the Cloud and the Goodreads network will be restricted automatically.	The Kindle Store, access to the Cloud and the Goodreads network will be restricted automatically.
+Experimental Web Browser	Experimental Web Browser
